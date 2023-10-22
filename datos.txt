@@ -1,0 +1,4 @@
+Nombre,Edad,Ciudad
+Juan,25,Barcelona
+María,30,Madrid
+Carlos,22,Valencia
