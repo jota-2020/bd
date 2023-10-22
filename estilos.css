@@ -257,7 +257,7 @@ header{
     width: 100%;
   }
   
-  #tabla-container td, #customers th {
+  #tabla-container td, #tabla-container th {
     border: 1px solid rgb(20 4 38 / 79%);
     padding: 8px;
   }
