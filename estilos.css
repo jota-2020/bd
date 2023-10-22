@@ -250,6 +250,7 @@ header{
     color: rgb(255, 255, 255);
 }
 #tabla-container {
+    margin: auto;
     position: relative;
     top: 100px;
     float: center;
@@ -261,7 +262,7 @@ header{
   
   #tabla-container td, #tabla-container th {
     border: 1px solid rgb(20 4 38 / 79%);
-    background-color: #7b4bbf85;
+    background-color: #35A6FF;
     padding: 8px;
   }
   
