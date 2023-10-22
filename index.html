@@ -2,46 +2,35 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Buscador de Texto</title>
-    <style>
-        #resultados {
-            margin-top: 20px;
-        }
-    </style>
+    <div id="menu">
+            <nav>
+                <ul class="menu_items">
+                    <h1>AGENDA TRIPULANTES ‎ </h1>
+                    <div class="form-group">
+                        <input type="text" class="form-control pull-right" style="width:30%" id="search1" placeholder="ESCRIBE AQUI">
+                       </div></header>
+                </ul>
+            </nav></div>
 </head>
 
 <body>
-    <h1>Buscador de Texto</h1>
-    <input type="text" id="palabraClave" placeholder="Ingrese la palabra clave">
-    <div id="resultados"></div>
-<div id"tablaBD">
-    <table class="default">
-
-  <tr>
-
-    <td>Celda 1</td>
-
-    <td>Celda 2</td>
-
-    <td>Celda 3</td>
-
-  </tr>
-
-  <tr>
-
-    <td>Celda 4</td>
-
-    <td>Celda 5</td>
-
-    <td>Celda 6</td>
-
-  </tr>
-
-</table></div>    
-
-    <script src="script.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+                        
+                        <script>
+                         // Write on keyup event of keyword input element
+                         $(document).ready(function(){
+                         $("#search1").keyup(function(){
+                         _this = this;
+                         // Show only matching TR, hide rest of them
+                         $.each($("#customers tbody tr"), function() {
+                         if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
+                         $(this).hide();
+                         else
+                         $(this).show();
+                         });
+                         });
+                        });
+                        </script>
    
 </body>
 
