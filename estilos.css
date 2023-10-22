@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(180deg, #7dffb8 0%, #c7db76 100%); background-blend-mode: lighten; 
-    background-image: url(imagen/bg2.png);
+    background-image: url(bg.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
