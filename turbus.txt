@@ -1,5 +1,5 @@
-Empresa	,	Rut	,	DV	,	Nombres	,	Ap.Paterno	,	Ap.Materno	,	Telefono	,	Celular
-1	,	9445522	,	7	,	Jorge               	,	Muñoz          	,	Moreno         	,	0	,	9-77074998                                        
+Empresa	,	Rut	,	DV	,	Nombres	,	Ap.Paterno	,	Ap.Materno	,	Telefono	,	Celular, Sio
+1	,	9445522	,	7	,	Jorge               	,	Muñoz          	,	Moreno         	,	0	,	9-77074998, <a href="http://172.20.5.200:8080/Admin_Tripulantes/servlet/wpficha?14,13130621" target="_blank">UST</a>                                        
 1	,	10092927	,	9	,	Pedro H.            	,	Jaramillo      	,	Valdebenito    	,	0	,	9-58172702                                        
 1	,	10947276	,	K	,	Edgardo Lorenzo     	,	Salgado        	,	Perez          	,	0	,	9-49188088                                        
 1	,	11500366	,	6	,	Omar Sebastian      	,	Catalan        	,	Pacheco        	,	0	,	9-42509128                                        
