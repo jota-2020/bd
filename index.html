@@ -68,7 +68,7 @@ function crearTablaDesdeTexto(contenido) {
 
 // Función principal para cargar la tabla en el contenedor
 function cargarTabla() {
-    leerArchivoTexto('datos.txt', function(contenido) {
+    leerArchivoTexto('turbus.txt', function(contenido) {
         var tablaHTML = crearTablaDesdeTexto(contenido);
         document.getElementById('tabla-container').innerHTML = tablaHTML;
     });
