@@ -1,6 +1,36 @@
 <html>
 <head>
 <h1>prueba</h1>
+
+<div id="menu">
+            <nav>
+                <ul class="menu_items">
+                    <h1>AGENDA TRIPULANTES ‎ </h1>
+                    <div class="form-group">
+                        <input type="text" class="form-control pull-right" style="width:30%" id="search1" placeholder="ESCRIBE AQUI">
+                       </div></header>
+                </ul>
+            </nav></div>
+            <div class="clearfix"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+                        
+                        <script>
+                         // Write on keyup event of keyword input element
+                         $(document).ready(function(){
+                         $("#search1").keyup(function(){
+                         _this = this;
+                         // Show only matching TR, hide rest of them
+                         $.each($("#tabla-container tbody tr"), function() {
+                         if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
+                         $(this).hide();
+                         else
+                         $(this).show();
+                         });
+                         });
+                        });
+                        </script>
+
 <div id="tabla-container"></div>
 </head>
 <body>
