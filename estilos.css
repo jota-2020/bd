@@ -251,9 +251,7 @@ header{
 }
 #tabla-container {
     margin: auto;
-    position: relative;
     top: 100px;
-    float: center;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     border-collapse: collapse;
@@ -261,6 +259,7 @@ header{
   }
   
   #tabla-container td, #tabla-container th {
+    margin: auto;
     border: 1px solid rgb(20 4 38 / 79%);
     background-color: #35A6FF;
     opacity: 0.6;
@@ -272,6 +271,7 @@ header{
   #tabla-container tr:hover {background-color: rgba(140, 255, 129, 0.462);}
   
   #tabla-container th {
+    margin: auto;
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
