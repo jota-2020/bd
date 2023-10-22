@@ -1,0 +1,1308 @@
+Empresa	,	Rut	,	DV	,	Nombres	,	Ap.Paterno	,	Ap.Materno	,	Telefono	,	Celular
+1	,	9445522	,	7	,	Jorge               	,	Muñoz          	,	Moreno         	,	0	,	9-77074998                                        
+1	,	10092927	,	9	,	Pedro H.            	,	Jaramillo      	,	Valdebenito    	,	0	,	9-58172702                                        
+1	,	10947276	,	K	,	Edgardo Lorenzo     	,	Salgado        	,	Perez          	,	0	,	9-49188088                                        
+1	,	11500366	,	6	,	Omar Sebastian      	,	Catalan        	,	Pacheco        	,	0	,	9-42509128                                        
+1	,	11602041	,	6	,	Victor              	,	Mora           	,	Ferrer         	,	0	,	9-83328555                                        
+1	,	11830675	,	9	,	George Humberto     	,	Silva          	,	Arancibia      	,	0	,	9-93835196                                        
+1	,	12430797	,	K	,	Ernesto German      	,	Barrientos     	,	Sanchez        	,	0	,	9-44167559                                        
+1	,	9067521	,	4	,	Hector Julio        	,	Flores         	,	Montero        	,	0	,	9-91258531                                        
+1	,	12749476	,	2	,	Francisco Segund    	,	Fuentes        	,	Castillo       	,	0	,	9-71416426                                        
+1	,	13160416	,	5	,	Cristian Harry      	,	Uribe          	,	Douglas        	,	0	,	9-49312335                                        
+1	,	12927981	,	8	,	Nelson Jorge        	,	Sandoval       	,	Abarzua        	,	0	,	9-63101627                                        
+1	,	13794266	,	6	,	Jaime Eduardo       	,	Riquelme       	,	Daza           	,	0	,	9-74153571                                        
+1	,	15490165	,	5	,	Cristian Ricardo    	,	Rubilar        	,	Ancaluan       	,	0	,	9-50023863                                        
+1	,	16823428	,	7	,	Jose Luis           	,	Alarcon        	,	Godoy          	,	0	,	9-66090431                                        
+1	,	12462866	,	0	,	Patricio Alejandro  	,	Irarrazabal    	,	Soto           	,	7365481	,	
+1	,	14419484	,	5	,	Alain Rafael        	,	Henriquez      	,	Urrutia        	,	0	,	9-63521019                                        
+1	,	10486776	,	6	,	Gabriel Moises      	,	Bustos         	,	Oliva          	,	0	,	9-56301928                                        
+1	,	16383235	,	6	,	Francisco Javier    	,	Donoso         	,	Aranguiz       	,	0	,	9-87566630                                        
+1	,	17140808	,	3	,	Jonathan Alberto    	,	Molina         	,	Ocampo         	,	2246198	,	9-20115740                                        
+1	,	18591488	,	7	,	Ricardo Ariel       	,	Paredes        	,	Navarro        	,	0	,	9-43533542                                        
+1	,	16516159	,	9	,	Francisco Javier    	,	Alister        	,	Robles         	,	0	,	9-48591939                                        
+1	,	13604824	,	4	,	David Esteban       	,	San Martin     	,	Arias          	,	0	,	9-63472464                                        
+1	,	20649153	,	1	,	Bastian Enrique     	,	Bobadilla      	,	Lican          	,	0	,	9-71207047                                        
+1	,	20106170	,	9	,	Florencio Jonathan  	,	Malo           	,	Painemilla     	,	0	,	9-44168112                                        
+1	,	20183043	,	5	,	Benjamin Alexander  	,	Frivola        	,	Pulgar         	,	0	,	9-50889923                                        
+1	,	16059023	,	8	,	Cristian Eduardo    	,	Valenzuela     	,	Villegas       	,	0	,	9-94187121                                        
+1	,	15224128	,	3	,	Eduardo Jonathan    	,	Saldias        	,	Garcia         	,	0	,	9-44804264                                        
+1	,	16737625	,	8	,	Luis Hernan         	,	Zuñiga         	,	Mella          	,	1362208886	,	9-52143478                                        
+1	,	14576510	,	2	,	Miguel Hector       	,	Vega           	,	Ibaceta        	,	0	,	9-79007527                                        
+1	,	12160187	,	7	,	Juan Patricio       	,	Castillo       	,	Diaz           	,	0	,	9-76181554                                        
+1	,	8801959	,	8	,	Alexis Eduardo      	,	De La Cruz     	,	Soto           	,	0	,	9-83440632                                        
+1	,	7293710	,	4	,	Hector Orlando      	,	Zamora         	,	Estay          	,	0	,	9-83245054                                        
+1	,	7667916	,	9	,	Rafael Ignac        	,	Briones        	,	Godoy          	,	0	,	9-55181061                                        
+1	,	7861464	,	1	,	Mario Alberto       	,	Sat            	,	Gamboa         	,	0	,	9-66335250                                        
+1	,	7881755	,	0	,	Gabriel Humberto    	,	Carrasco       	,	Pizarro        	,	0	,	9-42731882                                        
+1	,	7942353	,	K	,	Cesar Orlando       	,	Ortiz          	,	Lavin          	,	0	,	9-81233368                                        
+1	,	8229551	,	8	,	Juan Mario          	,	Beniscelli     	,	Leiva          	,	0	,	9-82045195                                        
+1	,	8438492	,	5	,	Gabriel Gennaro A   	,	Mazzei         	,	Solimano       	,	0	,	9-92899889                                        
+1	,	9170325	,	4	,	Raul Eduardo        	,	Ponce          	,	Lopez          	,	0	,	9-81461750                                        
+1	,	9176388	,	5	,	Manuel Lindorfo     	,	Ramirez        	,	Aedo           	,	0	,	9-72533525                                        
+1	,	9430527	,	6	,	Hernan              	,	Alvarez        	,	Leon           	,	0	,	9-85296626                                        
+1	,	9451669	,	2	,	Carlos Alberto      	,	Yañez          	,	Quiroz         	,	0	,	9-61014458                                        
+1	,	9476684	,	2	,	Osvaldo Enrique     	,	Muñoz          	,	Poblete        	,	0	,	9-89415801                                        
+1	,	9509408	,	2	,	Fernando Eugenio    	,	Romero         	,	Perrot         	,	0	,	9-76988499                                        
+1	,	9685645	,	8	,	Italo Ernesto       	,	Casoni         	,	Ponce          	,	0	,	9-78793935                                        
+1	,	9923764	,	3	,	Roberto             	,	Gomez          	,	Anabalon       	,	0	,	9-56218505                                        
+1	,	10196191	,	5	,	Marcial             	,	Diaz           	,	Mondaca        	,	0	,	9-84292040                                        
+1	,	10298747	,	0	,	Carlos Tirnaldy     	,	Cardenas       	,	Pinilla        	,	0	,	9-62856350                                        
+1	,	10543480	,	4	,	Mario Enrique       	,	Caceres        	,	Aliaga         	,	0	,	9-91462415                                        
+1	,	11388720	,	6	,	Domingo Antonio     	,	Ahumada        	,	Montecinos     	,	0	,	9-54008884                                        
+1	,	11420711	,	K	,	Daniel Elias        	,	Molina         	,	Flores         	,	0	,	9-71874448                                        
+1	,	11601020	,	8	,	Roberto Hernan      	,	Cisternas      	,	Delaigue       	,	0	,	9-58172722                                        
+1	,	12040113	,	0	,	Juan Carlos         	,	Perez          	,	Inostroza      	,	0	,	9-87170245                                        
+1	,	12087124	,	2	,	Jose Wildo          	,	Fonseca        	,	Zuñiga         	,	0	,	9-99588901                                        
+1	,	12089364	,	5	,	Pablo Alejan        	,	Cordova        	,	Velasquez      	,	0	,	9-83615699                                        
+1	,	13640910	,	7	,	David Christopher   	,	Milla          	,	Rojas          	,	0	,	9-62867748                                        
+1	,	12227500	,	0	,	Marcos Antonio      	,	Zamora         	,	Apablaza       	,	0	,	9-90668570                                        
+1	,	12594502	,	3	,	Angel Mauricio      	,	Bobadilla      	,	Romero         	,	0	,	9-79888323                                        
+1	,	12695554	,	5	,	Miguel Angel        	,	Verdugo        	,	Avila          	,	0	,	9-35600810                                        
+1	,	12903759	,	8	,	Manuel Antonio      	,	Muñoz          	,	Muñoz          	,	0	,	9-90892421                                        
+1	,	13128393	,	8	,	Armando             	,	Gonzalez       	,	Daza           	,	0	,	9-54109998                                        
+1	,	13156445	,	7	,	Leonel Ivan         	,	Vega           	,	Muñoz          	,	0	,	9-97213977                                        
+1	,	13517241	,	3	,	Patricio Alejandr   	,	Sanchez        	,	Vasquez        	,	0	,	9-73779119                                        
+1	,	16233576	,	6	,	Francisco Andres    	,	Cabrera        	,	Villarroel     	,	0	,	9-9796063                                         
+1	,	18083177	,	0	,	Felipe Antonio      	,	Rodriguez      	,	Sanchez        	,	0	,	9-76059444                                        
+1	,	8771608	,	2	,	Angel Richart       	,	Aravena        	,	Vasquez        	,	0	,	9-84994600                                        
+1	,	8022771	,	K	,	Juan Bautista       	,	Catril         	,	Muñoz          	,	0	,	9-94917380                                        
+1	,	9468407	,	2	,	Rony Fernando       	,	Aros           	,	Gonzalez       	,	0	,	9-85507978                                        
+1	,	10793682	,	3	,	Patricio Elias      	,	Neculqueo      	,	Mariñan        	,	0	,	9-65787116                                        
+1	,	11658343	,	7	,	Manuel Jesus        	,	Osorio         	,	Jimenez        	,	0	,	9-98560934                                        
+1	,	7977583	,	5	,	Hector Andres Del Ca	,	Rojas          	,	Vera           	,	0	,	9-84408944                                        
+1	,	11656571	,	4	,	Alejandro Antonio   	,	Ocampo         	,	Muñoz          	,	0	,	9-64636033                                        
+1	,	18306769	,	9	,	Ruben Antonio       	,	Solis          	,	Rodriguez      	,	0	,	9-50550038                                        
+1	,	11282977	,	6	,	Richard Antonio     	,	Ortiz          	,	Morales        	,	0	,	9-99352040                                        
+1	,	11557301	,	2	,	Juvenal Hector Chile	,	Rojas          	,	Ayala          	,	0	,	9-90058003                                        
+1	,	12870162	,	1	,	Gustavo Eduardo     	,	Neira          	,	Ibarra         	,	0	,	9-54953030                                        
+1	,	12823673	,	2	,	Jose Manuel         	,	Valdes         	,	Ovando         	,	0	,	9-34606897                                        
+1	,	16331313	,	8	,	Alejandro Esteban   	,	Alvarez        	,	Muñoz          	,	0	,	9-72547160                                        
+1	,	10697442	,	K	,	Nicolas Osvaldo     	,	Gonzalez       	,	Vasquez        	,	0	,	9-75658710                                        
+1	,	14235298	,	2	,	Luis Humberto       	,	Monsalve       	,	Castañeda      	,	0	,	9-54542995                                        
+1	,	12774618	,	4	,	Cristian Atalicio   	,	Gaete          	,	Cataldo        	,	0	,	9-41373122                                        
+1	,	18492981	,	3	,	Matias Eduardo      	,	Neira          	,	Guzman         	,	0	,	9-45718723                                        
+1	,	19013637	,	K	,	Edinson Antonio     	,	Valenzuela     	,	Veas           	,	2349836	,	9-32898876                                        
+1	,	14142288	,	K	,	Rodrigo Roberto     	,	Chaparro       	,	Chaparro       	,	0	,	9-44136787                                        
+1	,	16968860	,	5	,	Alejandro Esteban   	,	Riquelme       	,	Peña           	,	0	,	9-45640721                                        
+1	,	24534294	,	2	,	Jaime Alberto       	,	Cobo           	,	Ramirez        	,	0	,	9-62304613                                        
+1	,	19470956	,	0	,	Yerko Jesus         	,	Lara           	,	Pradenas       	,	0	,	9-92033767                                        
+1	,	13375299	,	4	,	Roberto             	,	Ortiz          	,	Sepulveda      	,	0	,	9-86232836                                        
+1	,	15764958	,	2	,	Tomas Segundo       	,	Maldonado      	,	Campos         	,	0	,	9-90064149                                        
+1	,	15577598	,	K	,	Gerad Daniel        	,	Painen         	,	Curitol        	,	0	,	                                                  
+1	,	20878191	,	K	,	Patricio Alexi      	,	Veas           	,	Saavedra       	,	0	,	9-58872904                                        
+1	,	20781904	,	2	,	Felipe Andres       	,	Diaz           	,	Alarcon        	,	0	,	9-5683241                                         
+1	,	20102421	,	8	,	Gustavo Alexis      	,	Polanco        	,	Cerda          	,	0	,	9-37549744                                        
+1	,	19615300	,	4	,	David Isrrael       	,	Oporto         	,	Noguera        	,	0	,	9-64728014                                        
+1	,	27563396	,	8	,	Vincentt Joseph     	,	Villa Gomez    	,	Villarroel     	,	0	,	9-64205849                                        
+1	,	20327059	,	3	,	Kebin Andres        	,	Aillapan       	,	Huechucoy      	,	922196969	,	922196969                                         
+1	,	18070860	,	K	,	Ariel Hernan        	,	Cid            	,	Alvial         	,	0	,	                                                  
+1	,	11416226	,	4	,	Patricio Alejandro  	,	Medina         	,	Chavez         	,	0	,	9-73851979                                        
+1	,	6775841	,	2	,	Romulo Salvador     	,	Montoya        	,	Llanos         	,	0	,	9-88380965                                        
+1	,	6839382	,	5	,	Eliecer Alejandro   	,	Jaque          	,	Duran          	,	0	,	9-59633579                                        
+1	,	7118057	,	3	,	Jorge Marcelo       	,	Somorrostro    	,	Gangas         	,	0	,	9-73081725                                        
+1	,	7665194	,	9	,	Waldo Galvarino     	,	Wall           	,	Cartes         	,	0	,	9-52362539                                        
+1	,	8119563	,	3	,	Oscar Hernan        	,	Gonzalez       	,	Jimenez        	,	975504974	,	9-85193414                                        
+1	,	8186040	,	8	,	Raul Alejandro      	,	Sanchez        	,	Vera           	,	0	,	9-96191572                                        
+1	,	8206825	,	2	,	Luis Felipe         	,	Torres         	,	Flood          	,	0	,	9-88948512                                        
+1	,	8607561	,	K	,	Victor Juan         	,	Hernandez      	,	Silva          	,	0	,	9-90857286                                        
+1	,	8707639	,	3	,	Hugo Antonio        	,	Colla          	,	Ortiz          	,	0	,	9-84558689                                        
+1	,	8725361	,	9	,	Michel Alexa        	,	Ravest         	,	Castillo       	,	0	,	9-85298959                                        
+1	,	8739023	,	3	,	Jorge Ivan          	,	Catrilelbun    	,	Sanchez        	,	0	,	9-62489799                                        
+1	,	8784557	,	5	,	Ruben Tulio         	,	Sanhueza       	,	Carrasco       	,	0	,	9-85883515                                        
+1	,	9852529	,	7	,	Mauricio Antoni     	,	Constanzo      	,	Ramirez        	,	0	,	9-89229872                                        
+1	,	9933385	,	5	,	Juan Carlos         	,	Santana        	,	Gallardo       	,	0	,	9-87764034                                        
+1	,	10688791	,	8	,	Erwin Ivan          	,	Alvear         	,	Pino           	,	0	,	9-76864428                                        
+1	,	10757116	,	7	,	Luis Miguel         	,	Blas           	,	Orellana       	,	0	,	9-61714290                                        
+1	,	10817582	,	6	,	Carlos Anton        	,	Sanhueza       	,	Figueroa       	,	0	,	9-84511187                                        
+1	,	11443494	,	9	,	Isaac Del Ro        	,	Cartes         	,	Cartes         	,	0	,	9-81904384                                        
+1	,	11443872	,	3	,	Alberto Emilio      	,	Valdes         	,	Acuña          	,	0	,	9-95769277                                        
+1	,	11678512	,	9	,	Jose Benito         	,	Morales        	,	Parra          	,	0	,	9-81585721                                        
+1	,	11702414	,	8	,	Rodrigo Edgardo     	,	Salvo          	,	Zegpy          	,	0	,	9-62176661                                        
+1	,	11778635	,	8	,	Hernan Antonio      	,	Zuñiga         	,	Silva          	,	0	,	9-37524979                                        
+1	,	12303612	,	3	,	Manuel              	,	Ruai           	,	Rodriguez      	,	0	,	9-58172693                                        
+1	,	12355123	,	0	,	Pedro Heriberto     	,	Fuentealba     	,	Carrasco       	,	0	,	9-76763715                                        
+1	,	12526974	,	5	,	Marcelo Gustavo     	,	Loyola         	,	Castro         	,	0	,	9-75309985                                        
+1	,	12925601	,	K	,	Cristian Orlando    	,	Vergara        	,	Gallegos       	,	0	,	9-86731076                                        
+1	,	12967774	,	0	,	Jose Gabriel        	,	Rodriguez      	,	Yañez          	,	0	,	9-41371375                                        
+1	,	12556550	,	6	,	Leonardo Arnoldo    	,	Sepulveda      	,	Fernandez      	,	0	,	9-92114031                                        
+1	,	12970943	,	K	,	Alex Dorian         	,	Cofre          	,	Rebolledo      	,	0	,	9-27773088                                        
+1	,	10326658	,	0	,	Leonardo Enrique    	,	Fierro         	,	Avello         	,	0	,	9-30910327                                        
+1	,	12976968	,	8	,	Jose Emilio         	,	Contreras      	,	Contreras      	,	0	,	9-85145333                                        
+1	,	12977298	,	0	,	Ruben Alejandro     	,	Soto           	,	Gutierrez      	,	0	,	9-97558578                                        
+1	,	13107305	,	4	,	Carlos Mauricio     	,	Rivera         	,	Villagran      	,	0	,	9-91985515                                        
+1	,	13310816	,	5	,	Carlos Roberto      	,	Cid            	,	Araneda        	,	0	,	9-78289113                                        
+1	,	13311804	,	7	,	Antonio Alejandro   	,	Sanhueza       	,	Montecinos     	,	72676946	,	9-72676946                                        
+1	,	13806343	,	7	,	Helmuth Antonio     	,	Manquilao      	,	Araneda        	,	0	,	9-32058864                                        
+1	,	13844151	,	2	,	Juan Eduardo        	,	Quezada        	,	Sandoval       	,	0	,	9-56626602                                        
+1	,	14213208	,	7	,	Nelson Luis         	,	Ruai           	,	Figueroa       	,	0	,	9-94398966                                        
+1	,	14278847	,	0	,	Christian Gaston    	,	Pacheco        	,	Meriño         	,	0	,	9-77251666                                        
+1	,	15247840	,	2	,	Roberto Edgardo     	,	Jofre          	,	Pincheira      	,	0	,	9-67278653                                        
+1	,	15808518	,	6	,	Oscar Francisco     	,	Cravero        	,	Mardones       	,	0	,	9-74570447                                        
+1	,	15911266	,	7	,	Juan Ramon          	,	Olate          	,	Rubio          	,	0	,	9-42200890                                        
+1	,	16329776	,	0	,	Mauricio Esteban    	,	Constanzo      	,	Henriquez      	,	0	,	9-9591680                                         
+1	,	16980165	,	7	,	Pablo Esteban       	,	Marquez        	,	Saez           	,	0	,	9-63064384                                        
+1	,	15175776	,	6	,	Harry Humberto      	,	Soto           	,	Rodriguez      	,	0	,	9-92408711                                        
+1	,	8754872	,	4	,	Ramon Alfredo       	,	Lagos          	,	Quezada        	,	0	,	9-31766299                                        
+1	,	16348670	,	9	,	Bernardo Arnoldo    	,	Rodriguez      	,	Ruai           	,	0	,	9-54036822                                        
+1	,	11417036	,	4	,	Carlos De La Cruz   	,	Gonzalez       	,	Pinar          	,	0	,	9-50029799                                        
+1	,	7990311	,	6	,	Pablo Superancio    	,	Vergara        	,	Yañez          	,	0	,	9-41437524                                        
+1	,	12270799	,	7	,	Luis Alejandro      	,	Palma          	,	Rubio          	,	0	,	9-77839377                                        
+1	,	15219806	,	K	,	Jonathan Sebastian  	,	Luna           	,	Rojas          	,	0	,	9-49316035                                        
+1	,	12321770	,	5	,	Francisco Denis     	,	Barra          	,	Castillo       	,	0	,	9-76289578                                        
+1	,	14911072	,	0	,	Juan Francisco      	,	Jorquera       	,	Arenas         	,	0	,	9-48514425                                        
+1	,	13057586	,	2	,	Hector Alejandro    	,	Candia         	,	Parra          	,	0	,	9-59068380                                        
+1	,	13616014	,	1	,	Elian Alexis        	,	Inostroza      	,	Gonzalez       	,	0	,	9-58173007                                        
+1	,	17395260	,	0	,	Claudio Jose        	,	Arriagada      	,	Lagos          	,	0	,	9-22205575                                        
+1	,	15421152	,	7	,	Luis Alberto        	,	Olave          	,	Sepulveda      	,	0	,	9-68258866                                        
+1	,	19662564	,	K	,	Daniel Alejandro    	,	Vilches        	,	Ferrer         	,	0	,	9-75503771                                        
+1	,	12384497	,	1	,	Alejandro Enrique   	,	Cuevas         	,	Seguel         	,	0	,	9-82967580                                        
+1	,	18230059	,	4	,	Sergio Leonardo     	,	Mora           	,	Escares        	,	0	,	9-21787732                                        
+1	,	13143360	,	3	,	Hugo Alexis         	,	Gonzalez       	,	Matamala       	,	0	,	9-66987753                                        
+1	,	18403089	,	6	,	Rodrigo Ivan        	,	Jimenez        	,	Linco          	,	0	,	9-72883674                                        
+1	,	18684199	,	9	,	Matias Ignacio      	,	Fariñe         	,	Sanhueza       	,	0	,	                                                  
+1	,	19510670	,	3	,	Alexis Alexsander   	,	Robles         	,	Bravo          	,	0	,	9-82365298                                        
+1	,	19168581	,	4	,	Gerardo Esteban     	,	Guiñez         	,	Soto           	,	0	,	9-76074947                                        
+1	,	20836245	,	3	,	Jesus Andres        	,	Jara           	,	Parada         	,	0	,	9-87743114                                        
+1	,	19364652	,	2	,	Matias Leonardo     	,	Casanova       	,	Cuevas         	,	0	,	9-62430611                                        
+1	,	16031703	,	5	,	Isaac Alejandro     	,	Muñoz          	,	Godoy          	,	0	,	9-75712502                                        
+1	,	20346064	,	3	,	Camilo Enrique      	,	Marcial        	,	Calfluan       	,	0	,	9-66649231                                        
+1	,	14351499	,	4	,	Pablo Edmundo       	,	Cares          	,	Almendras      	,	0	,	9-90351873                                        
+1	,	12182421	,	3	,	Edgardo Mauricio    	,	Inzunza        	,	Coronado       	,	0	,	9-99763657                                        
+1	,	21420737	,	0	,	Felipe Ignacio      	,	Salamanca      	,	Escobar        	,	76559978	,	9-20233621                                        
+1	,	18513767	,	8	,	David Ignacio       	,	Vargas         	,	Bastias        	,	0	,	9-21938697                                        
+1	,	21442824	,	5	,	Pablo Alejandro     	,	Morales        	,	Ñanco          	,	0	,	9-63962901                                        
+1	,	20962907	,	0	,	Miguel Angel        	,	Marin          	,	Muñoz          	,	0	,	9-95289271                                        
+1	,	21080996	,	1	,	Bastian Alonso      	,	Inzunza        	,	Ramirez        	,	0	,	9-36631792                                        
+1	,	19942658	,	3	,	Yordy Matias        	,	Curihuentro    	,	Sanzana        	,	0	,	9-45376806                                        
+1	,	19957441	,	8	,	Kevin Andres        	,	Marileo        	,	Gonzalez       	,	0	,	9-92074649                                        
+1	,	21053113	,	0	,	Claudio Andres      	,	Iturra         	,	Lagos          	,	966344467	,	9-76059750                                        
+1	,	21279564	,	K	,	Jose Manuel Martin  	,	Campos         	,	Ilabaca        	,	994891843	,	9-94891843                                        
+1	,	18214506	,	8	,	Leonel Eduardo      	,	Lagos          	,	Toledo         	,	994891843	,	9-94891843                                        
+1	,	20583843	,	0	,	Luis Felipe         	,	Nova           	,	Seitz          	,	0	,	9-71593028                                        
+1	,	20733477	,	4	,	Michael Ignacio     	,	Pavez          	,	Muñoz          	,	76559978	,	9-87260419                                        
+1	,	14473094	,	1	,	Cristian Antonio    	,	Saravia        	,	Rosales        	,	0	,	9-71608806                                        
+1	,	12724211	,	9	,	Marco Antonio       	,	Aranguiz       	,	Vidal          	,	0	,	9-79375830                                        
+1	,	13147535	,	7	,	Cesar Eduardo       	,	Morales        	,	Garcia         	,	0	,	9-37527712                                        
+1	,	11501595	,	8	,	Hernan Antonio      	,	Lienqueo       	,	Troncoso       	,	0	,	9-95272110                                        
+1	,	12706580	,	2	,	Ramiro Hernan       	,	Cisternas      	,	Benitez        	,	0	,	9-55108050                                        
+1	,	8051645	,	2	,	Fernando Alberto    	,	Yañez          	,	Salazar        	,	0	,	9-99813196                                        
+1	,	6897588	,	3	,	Fernando Del Carmen 	,	Fuentes        	,	Passek         	,	0	,	9-73988230                                        
+1	,	7707587	,	9	,	Juan Eladio         	,	Del Rio        	,	Molina         	,	0	,	9-32297706                                        
+1	,	7803012	,	7	,	Ruben Juan          	,	Turra          	,	Cancino        	,	0	,	9-23864016                                        
+1	,	8129945	,	5	,	Hector Arturo       	,	Sotomayor      	,	Muñoz          	,	0	,	9-95577957                                        
+1	,	8196827	,	6	,	Ivan                	,	Toro           	,	Lopez          	,	0	,	9-99471136                                        
+1	,	8729141	,	3	,	Raul Antonio        	,	Rojas          	,	San Martin     	,	0	,	9-96623976                                        
+1	,	8789091	,	0	,	Florencio Segundo   	,	Toledo         	,	Toloza         	,	0	,	9-36207719                                        
+1	,	9053631	,	1	,	Juan Benjamin       	,	Torres         	,	Jaque          	,	0	,	9-53018365                                        
+1	,	9166982	,	K	,	Jose Ricardo        	,	Espinoza       	,	Leal           	,	0	,	9-41767402                                        
+1	,	9241913	,	4	,	Mario Leonel        	,	Hernandez      	,	Barrientos     	,	0	,	9-74953781                                        
+1	,	9265782	,	5	,	Pedro Erick         	,	Maluenda       	,	Abbott         	,	0	,	9-98671319                                        
+1	,	9568746	,	6	,	Jacinto Isma        	,	Toloza         	,	Pereira        	,	0	,	9-95747957                                        
+1	,	9870955	,	K	,	Nazario Esteban     	,	Calisto        	,	Tejeda         	,	0	,	9-53945353                                        
+1	,	10175163	,	5	,	Luis Alfredo        	,	Valdebenito    	,	Vasquez        	,	0	,	9-89430785                                        
+1	,	10314917	,	7	,	Juan Carlos         	,	Rebolledo      	,	Gallardo       	,	0	,	9-37182466                                        
+1	,	10317122	,	9	,	Hugo Orlando        	,	Aguilera       	,	Miranda        	,	0	,	9-74555588                                        
+1	,	10393866	,	K	,	Javier Danilo       	,	Alvarez        	,	Gonzalez       	,	0	,	9-98070276                                        
+1	,	10640440	,	2	,	Guillermo Alberto   	,	Cuevas         	,	Erices         	,	0	,	9-40544310                                        
+1	,	10807634	,	8	,	Victor Andres       	,	Cornejo        	,	Caceres        	,	0	,	9-85997064                                        
+1	,	10809994	,	1	,	Adolfo              	,	Sandoval       	,	Aranguiz       	,	0	,	9-81385791                                        
+1	,	10824768	,	1	,	Samuel Timoteo      	,	Manquel        	,	Millalaf       	,	0	,	9-33456654                                        
+1	,	10889882	,	8	,	Jose Gaston         	,	Bustamante     	,	Nuñez          	,	0	,	9-95451147                                        
+1	,	11113254	,	2	,	Jaime Daniel        	,	Quinchaleo     	,	Gonzalez       	,	0	,	9-78659575                                        
+1	,	11137960	,	2	,	Hugo Erwin          	,	Sandoval       	,	Segura         	,	0	,	9-85572745                                        
+1	,	11215150	,	8	,	Alex Osvaldo        	,	Zapata         	,	Arriagada      	,	0	,	9-72185258                                        
+1	,	11418033	,	5	,	David Osiel         	,	Rebolledo      	,	Flores         	,	0	,	9-90604178                                        
+1	,	11476407	,	8	,	Jorge Eladio        	,	Gomez          	,	Rojas          	,	0	,	9-96629666                                        
+1	,	14466407	,	8	,	Jose Maurici        	,	Caticura       	,	Maldonado      	,	0	,	9-96828464                                        
+1	,	11490679	,	4	,	Andres Herib        	,	Caniullan      	,	Maturana       	,	0	,	9-90154416                                        
+1	,	12304616	,	1	,	Cristian Alex       	,	Sepulveda      	,	Alvial         	,	986607001	,	9-86607001                                        
+1	,	11583162	,	3	,	Jacob Joaquin       	,	Gonzalez       	,	Burgos         	,	0	,	9-85483897                                        
+1	,	11602202	,	8	,	Miguel Salva        	,	Cerda          	,	Mendoza        	,	0	,	9-38717808                                        
+1	,	11659828	,	0	,	Jorge Antonio Ma    	,	Albornoz       	,	Vasquez        	,	0	,	9-91675791                                        
+1	,	11680633	,	9	,	Luis Daniel         	,	Muñoz          	,	Gonzalez       	,	0	,	9-59543531                                        
+1	,	11770783	,	0	,	Eugenio Aristides   	,	Parra          	,	Bustos         	,	0	,	9-97268124                                        
+1	,	11787096	,	0	,	Exequiel Gonzalo    	,	Caceres        	,	Bazaes         	,	0	,	9-98345157                                        
+1	,	12201127	,	5	,	Cesar               	,	Villarroel     	,	Mondaca        	,	0	,	9-58209785                                        
+1	,	12233512	,	7	,	Cristian Antonio    	,	Castillo       	,	Vera           	,	0	,	9-42680974                                        
+1	,	12342075	,	6	,	Luis Alberto        	,	Mancilla       	,	Soto           	,	0	,	9-83536846                                        
+1	,	12371693	,	0	,	Luis Antonio        	,	Ramos          	,	Bravo          	,	0	,	9-95190991                                        
+1	,	12428611	,	5	,	Juan Serafin        	,	Galdames       	,	Herrera        	,	0	,	9-81613738                                        
+1	,	12707589	,	1	,	Daniel Enrique      	,	Contreras      	,	Mella          	,	0	,	9-61782238                                        
+1	,	12724910	,	5	,	Cristian Andres     	,	Perez          	,	Saavedra       	,	0	,	9-68465297                                        
+1	,	12750109	,	2	,	Gabriel Isaac       	,	Barrientos     	,	Muñoz          	,	0	,	9-77779420                                        
+1	,	13000331	,	1	,	Pablo Cesar         	,	Villarroel     	,	Villarroel     	,	0	,	9-73113199                                        
+1	,	13152395	,	5	,	Miguel Angel        	,	Reiman         	,	Millaman       	,	0	,	9-92758306                                        
+1	,	13156586	,	0	,	Rodrigo Andres      	,	Lillo          	,	Merino         	,	0	,	9-58164599                                        
+1	,	13159440	,	2	,	Ruben               	,	Martinez       	,	Loncoñanco     	,	0	,	9-91419928                                        
+1	,	13396110	,	0	,	Pablo Axel          	,	Ziem           	,	Cabrera        	,	0	,	9-50095287                                        
+1	,	13769435	,	2	,	Joaquin Eduardo     	,	Rivera         	,	Barahona       	,	0	,	9-85311911                                        
+1	,	13810038	,	3	,	Jaime Andres        	,	Vidal          	,	Riquelme       	,	0	,	9-62296672                                        
+1	,	13824615	,	9	,	Nicolas Cesar       	,	Sepulveda      	,	Ruiz           	,	0	,	9-78724813                                        
+1	,	13946979	,	8	,	Luis Manuel         	,	Gonzalez       	,	Diaz           	,	0	,	9-56121163                                        
+1	,	14282465	,	5	,	Alejandro           	,	Fontanilla     	,	Triviños       	,	0	,	9-87841835                                        
+1	,	14465505	,	2	,	Rene                	,	Rivas          	,	Pacheco        	,	0	,	9-95350560                                        
+1	,	15148792	,	0	,	Miguel Angel        	,	Muñoz          	,	Cancino        	,	0	,	9-94950162                                        
+1	,	15165599	,	8	,	Luis Humberto       	,	Ferrada        	,	Ortiz          	,	0	,	9-90310537                                        
+1	,	15472633	,	0	,	Gonzalo Adolfo      	,	Valdebenito    	,	Vivanco        	,	0	,	9-86204883                                        
+1	,	16061501	,	K	,	Oscar Sebastian     	,	Pieringer      	,	Aburto         	,	0	,	9-52879015                                        
+1	,	10542306	,	3	,	Segundo Esteban     	,	Oliva          	,	Gallardo       	,	0	,	9-33122321                                        
+1	,	12478039	,	K	,	Cupertino Luis      	,	Lopez          	,	Soto           	,	0	,	9-74981327                                        
+1	,	10799932	,	9	,	Luis Alberto        	,	Gallardo       	,	Oyarce         	,	0	,	9-42140648                                        
+1	,	9897884	,	4	,	Roberto Ivan        	,	Carrasco       	,	Pasten         	,	0	,	9-74528060                                        
+1	,	15193307	,	6	,	Rolando Patricio    	,	Ramirez        	,	Riquelme       	,	0	,	9-53764477                                        
+1	,	15894658	,	0	,	Luis Antonio        	,	Quijon         	,	Treuquil       	,	0	,	9-50990644                                        
+1	,	18849579	,	6	,	Felipe Arnoldo      	,	Antri          	,	Gonzalez       	,	973355555	,	7-3355555                                         
+1	,	17391803	,	8	,	Tomas Isaias        	,	Llancafil      	,	Paillan        	,	0	,	9-42125892                                        
+1	,	19231478	,	K	,	Patricio Hernan     	,	Pichun         	,	Pichun         	,	0	,	9-33388613                                        
+1	,	19011474	,	0	,	Manuel Alejandro    	,	Gallardo       	,	Huenchual      	,	0	,	9-75238119                                        
+1	,	17750825	,	K	,	Ricardo Antonio     	,	Henriquez      	,	Urra           	,	0	,	9-41126671                                        
+1	,	20346396	,	0	,	Joaquin Alfredo     	,	Avila          	,	Vargas         	,	986929205	,	978840092                                         
+1	,	17573156	,	3	,	Miguel Andres       	,	Gallegos       	,	Matamala       	,	0	,	9-94148916                                        
+1	,	20157413	,	7	,	Jorge Andres        	,	Conejeros      	,	Reyes          	,	0	,	9-47333528                                        
+1	,	19557658	,	0	,	Nicolas William Joel	,	Arredondo      	,	Carvajal       	,	982777280	,	9-33633830                                        
+1	,	17684859	,	6	,	Guillermo Alfonso   	,	Flores         	,	Salazar        	,	0	,	9-78051422                                        
+1	,	20027521	,	7	,	Alejandro Alberto   	,	Gutierrez      	,	Gajardo        	,	0	,	9-47301904                                        
+1	,	21064661	,	2	,	Kevin Fernando      	,	Ahumada        	,	Zamora         	,	0	,	9-79840205                                        
+1	,	20091432	,	5	,	Javier Antonio      	,	Palta          	,	Araya          	,	0	,	9-53659993                                        
+1	,	13592750	,	3	,	Dennis Ariel        	,	Caulle         	,	Kaiser         	,	0	,	9-53089857                                        
+1	,	18319487	,	9	,	Juan Francisco      	,	Carrasco       	,	Tilleria       	,	0	,	9-77933996                                        
+1	,	20604945	,	6	,	Alex Patricio       	,	Chanqueo       	,	Jimenez        	,	0	,	
+1	,	20236857	,	3	,	Paolo Alessandro    	,	Nova           	,	Marin          	,	0	,	9-54303066                                        
+1	,	21332832	,	8	,	Rafael Ignacio      	,	San Martin     	,	Garcia         	,	0	,	9-64886450                                        
+1	,	19762508	,	2	,	Jose Ignacio        	,	Epulef         	,	Ross           	,	0	,	9-54352686                                        
+1	,	13630586	,	7	,	Juan Desiderio      	,	Aravena        	,	Fierro         	,	0	,	9-86581375                                        
+1	,	21073416	,	3	,	Daniel Nicolas      	,	Perez          	,	Pinilla        	,	0	,	9-58814619                                        
+1	,	20973983	,	6	,	Francisco Andres    	,	Ormeño         	,	Fernandez      	,	937554756	,	9-76782673                                        
+1	,	14073680	,	5	,	Patricio Andres     	,	Quezada        	,	Rocha          	,	944629416	,	9-66786917                                        
+1	,	13071961	,	9	,	Patricio Alejandro  	,	Yañez          	,	Rocha          	,	0	,	9-87494779                                        
+1	,	18738611	,	K	,	Gabriel Jesus       	,	Nuñez          	,	Jarpa          	,	1364493017	,	9-96714731                                        
+1	,	26800128	,	K	,	Alexi Ramon         	,	Graterol       	,	Quevedo        	,	0	,	9-56273091                                        
+1	,	26276944	,	5	,	Ermso               	,	Mery           	,	               	,	0	,	9-64837967                                        
+1	,	8889275	,	5	,	Juan De Dios        	,	Soto           	,	Ojeda          	,	76559978	,	9-44667331                                        
+1	,	19464025	,	0	,	Eric Rodrigo        	,	Morales        	,	Lican          	,	0	,	                                                  
+1	,	20446311	,	5	,	Pablo Elias         	,	Muñoz          	,	Caniza         	,	956896175	,	987569439                                         
+1	,	13283656	,	6	,	Dante Alexis        	,	Riquelme       	,	Grez           	,	0	,	961600738                                         
+1	,	20914840	,	4	,	Kevin Alexander     	,	Avila          	,	Chavol         	,	0	,	
+1	,	12237015	,	1	,	Sergio              	,	Inostroza      	,	Sepulveda      	,	0	,	9-76271500                                        
+1	,	13948770	,	2	,	Cesar Mauricio      	,	Diaz           	,	Duarte         	,	0	,	9-41053326                                        
+1	,	11160017	,	1	,	Sixto Arcadi        	,	Rodriguez      	,	Camargo        	,	0	,	9-90688627                                        
+1	,	12554694	,	3	,	Robin Alexis        	,	Moncada        	,	Cespedes       	,	0	,	9-98858292                                        
+1	,	6410939	,	1	,	Victor              	,	Garrido        	,	Contreras      	,	0	,	9-56879251                                        
+1	,	7557393	,	6	,	Jose Daniel         	,	Cares          	,	Acevedo        	,	0	,	9-20145919                                        
+1	,	7561084	,	K	,	Jose Enrique        	,	Guiñez         	,	Cortes         	,	0	,	9-82836736                                        
+1	,	7964838	,	8	,	Eric Armando        	,	Urrutia        	,	Sanchez        	,	0	,	9-85335381                                        
+1	,	8083360	,	1	,	Edgardo Alexis      	,	Saez           	,	Saez           	,	0	,	9-42716678                                        
+1	,	8588683	,	5	,	Moises Ivan         	,	Olave          	,	Cortez         	,	0	,	9-56498162                                        
+1	,	8766061	,	3	,	Hector D.           	,	Estrada        	,	Melgarejo      	,	0	,	9-62369463                                        
+1	,	8797885	,	0	,	Reinaldo            	,	Silva          	,	Ulloa          	,	0	,	9-50702986                                        
+1	,	8991853	,	7	,	Oscar Enrique       	,	Gonzalez       	,	Carquin        	,	0	,	9-72572390                                        
+1	,	9243132	,	0	,	Pablo Enrique       	,	Sepulveda      	,	Figueroa       	,	0	,	9-50472854                                        
+1	,	9394432	,	1	,	Francisco           	,	Mancilla       	,	Rodriguez      	,	0	,	9-79479913                                        
+1	,	9458543	,	0	,	Edgardo Wilfredo    	,	Muñoz          	,	Espinoza       	,	0	,	9-78599595                                        
+1	,	9874815	,	6	,	Fabian A.           	,	Chavez         	,	Soto           	,	0	,	9-85762483                                        
+1	,	9902303	,	1	,	Ricardo Andres      	,	Marti          	,	Acuña          	,	0	,	9-92564524                                        
+1	,	9936858	,	6	,	Patricio Abner      	,	Rodriguez      	,	Godoy          	,	0	,	9-30673993                                        
+1	,	9997322	,	6	,	Gonzalo Ivan        	,	Sepulveda      	,	Sepulveda      	,	0	,	9-93666491                                        
+1	,	10029747	,	7	,	Jose Herminio       	,	Badilla        	,	Castro         	,	0	,	9-93371320                                        
+1	,	10105043	,	2	,	Rene                	,	Arroyo         	,	Melo           	,	0	,	9-98420734                                        
+1	,	10194692	,	4	,	Armando Pascual     	,	Silva          	,	Villagra       	,	0	,	9-92722816                                        
+1	,	10500529	,	6	,	Richard Aquiles     	,	Cabrera        	,	Ocares         	,	0	,	9-87104785                                        
+1	,	10502681	,	1	,	Manuel Antonio      	,	Mora           	,	Saez           	,	0	,	9-46104366                                        
+1	,	10635022	,	1	,	Manuel E.           	,	Navarrete      	,	Poblete        	,	0	,	9-93210414                                        
+1	,	10776584	,	0	,	Leonardo Alexis     	,	Olave          	,	Merino         	,	0	,	9-63356112                                        
+1	,	10793585	,	1	,	Eduardo Francisc    	,	Sanzana        	,	Riquelme       	,	0	,	9-87971210                                        
+1	,	10827624	,	K	,	Omar A.             	,	Lagos          	,	Allilef        	,	0	,	9-93528511                                        
+1	,	10889885	,	2	,	Oscar Enrique       	,	Hernandez      	,	Miranda        	,	0	,	9-74555455                                        
+1	,	10903364	,	2	,	Jose Enrique        	,	Ulloa          	,	Flores         	,	0	,	9-34219437                                        
+1	,	11247354	,	8	,	Jose Luis           	,	Sandoval       	,	Cid            	,	0	,	9-83266113                                        
+1	,	11309668	,	3	,	Pedro Javier        	,	Saldivia       	,	Paredes        	,	0	,	9-82011204                                        
+1	,	11324848	,	3	,	Victor Hugo         	,	Rodriguez      	,	Lagos          	,	0	,	9-44382339                                        
+1	,	11352940	,	7	,	Harold              	,	Hoffner        	,	Isla           	,	0	,	9-96404367                                        
+1	,	11533373	,	9	,	Domingo Elad        	,	Cartes         	,	Duran          	,	0	,	9-42920352                                        
+1	,	11688412	,	7	,	Claudio Dionel      	,	Otarola        	,	Vargas         	,	0	,	9-63081968                                        
+1	,	11742768	,	4	,	Williams Alfonso    	,	Castro         	,	Muñoz          	,	0	,	9-54111451                                        
+1	,	11918831	,	8	,	Patricio Eduardo    	,	Rocha          	,	Alvarez        	,	0	,	9-89874659                                        
+1	,	12191022	,	5	,	Antonio Rosa        	,	Leviqueo       	,	Quilaqueo      	,	0	,	9-77501620                                        
+1	,	12291075	,	K	,	David               	,	Cid            	,	Ramirez        	,	0	,	9-33314051                                        
+1	,	11781122	,	0	,	Marcelo Rene        	,	Aqueveque      	,	Saez           	,	0	,	9-79656852                                        
+1	,	12337100	,	3	,	Exequiel            	,	Curilef        	,	Huichulef      	,	0	,	9-98654210                                        
+1	,	20684247	,	4	,	Michael Milton      	,	Mellado        	,	Perez          	,	0	,	9-41698666                                        
+1	,	12342691	,	6	,	Mauricio Eduardo    	,	Galindo        	,	Arzola         	,	0	,	9-87044420                                        
+1	,	12343925	,	2	,	Christian Manuel    	,	Soto           	,	Smith          	,	0	,	9-53682067                                        
+1	,	12525349	,	0	,	Eduardo Hernan      	,	Ortega         	,	Vicent         	,	0	,	9-63491635                                        
+1	,	12537132	,	9	,	Nelson Cristian     	,	Gutierrez      	,	Cerda          	,	0	,	9-94564902                                        
+1	,	12537388	,	7	,	Miguel Angel        	,	Vasquez        	,	Torres         	,	0	,	9-58173009                                        
+1	,	12645178	,	4	,	Rodrigo             	,	Espinoza       	,	Bustos         	,	0	,	9-48021795                                        
+1	,	12860745	,	5	,	Israel Armando      	,	Inalef         	,	Cavieres       	,	0	,	9-98159860                                        
+1	,	12868503	,	0	,	Rodrigo Luciano     	,	Garcia         	,	Stuardo        	,	0	,	9-71210522                                        
+1	,	12970659	,	7	,	Jorge Fredy         	,	Perez          	,	Cofre          	,	0	,	9-73463570                                        
+1	,	12989959	,	K	,	Ramon Omar          	,	Jaramillo      	,	Calfin         	,	0	,	9-99010366                                        
+1	,	13040699	,	8	,	Marcelo Patric      	,	Gallardo       	,	Santander      	,	0	,	9-89153457                                        
+1	,	13113458	,	4	,	Claudio             	,	Saez           	,	Stoltze        	,	0	,	9-88760604                                        
+1	,	13573196	,	K	,	Juan A.             	,	Alvarez        	,	Aguilar        	,	0	,	9-83743599                                        
+1	,	13583531	,	5	,	Florencio Wilson    	,	Morales        	,	Perez          	,	0	,	9-66707990                                        
+1	,	13812519	,	K	,	Marcos Antonio      	,	Vilugron       	,	Muñoz          	,	0	,	9-88079907                                        
+1	,	13891048	,	2	,	Ricardo Humberto    	,	Parada         	,	Gargari        	,	0	,	9-50387905                                        
+1	,	13964412	,	3	,	Marco Antonio       	,	Espinoza       	,	Nahuellan      	,	0	,	9-58376195                                        
+1	,	14015019	,	3	,	Oscar Leonardo      	,	Alvarez        	,	Aguilar        	,	0	,	9-72633911                                        
+1	,	14077148	,	1	,	Sergio Elias        	,	Henriquez      	,	Sandoval       	,	0	,	9-91369992                                        
+1	,	14219444	,	9	,	Felipe Daniel       	,	Alarcon        	,	Valdivia       	,	0	,	9-87564153                                        
+1	,	14283285	,	2	,	Cesar Pablo         	,	Bustos         	,	Jimenez        	,	0	,	9-77915273                                        
+1	,	14287945	,	K	,	Juan Marcelo        	,	Burgos         	,	Burgos         	,	0	,	9-77668330                                        
+1	,	14448659	,	5	,	Cesar Luis          	,	Riquelme       	,	Mendez         	,	0	,	9-78392619                                        
+1	,	14475313	,	5	,	Luis Esteban        	,	Catrinao       	,	Llanquinao     	,	0	,	9-97309204                                        
+1	,	14565658	,	3	,	Oscar Mauricio      	,	Paillalid      	,	Maripi         	,	0	,	9-78368297                                        
+1	,	15488061	,	5	,	Cristian Ivan       	,	Torres         	,	Contreras      	,	0	,	9-91014466                                        
+1	,	15576025	,	7	,	Gustavo Adolfo      	,	Solis          	,	Gonzalez       	,	0	,	9-32219261                                        
+1	,	15628298	,	7	,	Claudio Andres      	,	Morales        	,	Morales        	,	0	,	9-88283144                                        
+1	,	15653085	,	9	,	Egon Adrian         	,	Figueroa       	,	Vera           	,	0	,	9-83381679                                        
+1	,	7808080	,	9	,	Miguel Guillermo    	,	Soto           	,	Moreno         	,	0	,	9-96265531                                        
+1	,	12407999	,	3	,	Manuel Alejandro    	,	Ulloa          	,	Rocha          	,	963430874	,	9-79535227                                        
+1	,	16061083	,	2	,	Jose Luis           	,	Perez          	,	Gatica         	,	0	,	9-46515874                                        
+1	,	12735523	,	1	,	Raul Isaac          	,	Lagos          	,	Reyes          	,	0	,	9-66000034                                        
+1	,	12932046	,	K	,	Pascual Florentino  	,	Blanco         	,	Curinao        	,	0	,	9-83279366                                        
+1	,	8175483	,	7	,	Gabriel Alejandro   	,	Perez          	,	Neira          	,	0	,	9-52358106                                        
+1	,	12864611	,	6	,	Alvaro Christian    	,	Contreras      	,	Alvarado       	,	0	,	9-59563825                                        
+1	,	10575739	,	5	,	Marco Antonio       	,	Pozo           	,	Jara           	,	0	,	9-72298393                                        
+1	,	15712469	,	2	,	Alex Olivio         	,	Chaura         	,	Saldivia       	,	0	,	9-58726283                                        
+1	,	9774056	,	9	,	Nikita Armando      	,	Rojas          	,	Mendez         	,	0	,	9-97780158                                        
+1	,	16805820	,	9	,	Manuel Alejandro    	,	Rios           	,	Risco          	,	0	,	9-44579842                                        
+1	,	15250496	,	9	,	Cristian Andres     	,	Vergara        	,	Luna           	,	0	,	9-73764002                                        
+1	,	12899366	,	5	,	Julio Cesar         	,	Reynuaba       	,	Rodriguez      	,	0	,	9-65990124                                        
+1	,	12986143	,	6	,	Oscar Patricio      	,	Fuentes        	,	Hidalgo        	,	0	,	9-83039952                                        
+1	,	15281915	,	3	,	Luis Francisco      	,	Alvarado       	,	Cardenas       	,	0	,	9-98034813                                        
+1	,	16556075	,	2	,	Pablo Cesar Belarmi 	,	Ojeda          	,	Chiguai        	,	0	,	9-74832063                                        
+1	,	16947761	,	2	,	Hector Enrique      	,	Padilla        	,	Viveros        	,	0	,	9-87045935                                        
+1	,	17061912	,	9	,	Nelson Eduardo      	,	Torres         	,	Pinilla        	,	0	,	9-54786059                                        
+1	,	17157649	,	0	,	Cristian Eduardo    	,	Rojas          	,	Miranda        	,	0	,	9-77515154                                        
+1	,	17361002	,	5	,	Ricardo Antonio     	,	Oyarzo         	,	Miranda        	,	0	,	9-64285711                                        
+1	,	17637809	,	3	,	Federico            	,	Caniuñir       	,	Paillan        	,	0	,	9-75685705                                        
+1	,	11924959	,	7	,	Jorge Ariel         	,	Vidal          	,	Pacheco        	,	0	,	9-46861130                                        
+1	,	20082883	,	6	,	Mayco Eduardo       	,	Curilen        	,	San Martin     	,	0	,	9-63430874                                        
+1	,	17276780	,	K	,	Marcelo Andres      	,	Crisostomo     	,	Belmar         	,	0	,	                                                  
+1	,	16924068	,	K	,	Gonzalo Alfonso     	,	Parra          	,	Ulloa          	,	0	,	9-95669297                                        
+1	,	18944763	,	9	,	Luis Alberto        	,	Huecha         	,	Quintriqueo    	,	933833911	,	                                                  
+1	,	18489154	,	9	,	Aldo Alfredo        	,	Vasquez        	,	Fuentes        	,	0	,	9-65456458                                        
+1	,	20116602	,	0	,	Luis Esteban        	,	Higueras       	,	Sandoval       	,	0	,	9-5603208                                         
+1	,	25760460	,	8	,	Juan Camilo         	,	Torres         	,	Calvache       	,	0	,	9-86153678                                        
+1	,	19795192	,	3	,	Cristian Ivan       	,	Quilapan       	,	Zuñiga         	,	0	,	9-84013203                                        
+1	,	20644715	,	K	,	Luis Joaquin        	,	Huaiquiñir     	,	Quilaqueo      	,	0	,	9-56054167                                        
+1	,	15984499	,	4	,	David Andres        	,	Torres         	,	Chandia        	,	0	,	9-63571933                                        
+1	,	12744740	,	3	,	Claudio Sabi        	,	Benavides      	,	Neculman       	,	0	,	9-54651581                                        
+1	,	19066965	,	3	,	Javier Francisco    	,	Erices         	,	Caceres        	,	0	,	9-38814330                                        
+1	,	24136737	,	1	,	Edwin               	,	Riascos        	,	Ballesteros    	,	930351884	,	9-30351884                                        
+1	,	15083501	,	1	,	Manuel Marcelino    	,	Allendes       	,	Araya          	,	0	,	                                                  
+1	,	20940836	,	8	,	Matias Nicolas      	,	Villalonga     	,	Toloza         	,	0	,	9-66270287                                        
+1	,	27151770	,	K	,	Julio Cesar         	,	Marquez        	,	Bustamante     	,	0	,	9-36990952                                        
+1	,	20744346	,	8	,	Hector Benjamin     	,	Montecinos     	,	Palacios       	,	0	,	9-72533525                                        
+1	,	19115224	,	7	,	Nicolas Ignacio     	,	Handy          	,	Marin          	,	0	,	9-36300568                                        
+1	,	20354255	,	0	,	Eduardo Hernan      	,	Ortega         	,	Fica           	,	0	,	9-30550366                                        
+1	,	19201594	,	4	,	Fernando Fabián     	,	Nahuelpán      	,	Nahuelpán      	,	0	,	                                                  
+1	,	21376858	,	1	,	Nicolas Alexis      	,	Astete         	,	Sepulveda      	,	0	,	9-82369770                                        
+1	,	20954389	,	3	,	Felipe Ignacio      	,	Indo           	,	Herraz         	,	0	,	9-40929144                                        
+1	,	21023796	,	8	,	Cristian Isaac      	,	Loncochino     	,	Quidulef       	,	0	,	9-85973105                                        
+1	,	19799235	,	2	,	Bayron Alexander    	,	Pacheco        	,	Sepulveda      	,	930351884	,	9-30351884                                        
+1	,	20611137	,	2	,	Luis Alexander      	,	Quidulef       	,	Bazaes         	,	0	,	9-82220938                                        
+1	,	21063855	,	5	,	Matias Israel       	,	Aguilera       	,	Manquel        	,	0	,	9-76117021                                        
+1	,	21337715	,	9	,	Miguel Angel        	,	Hernandez      	,	Mañan          	,	0	,	9-56660776                                        
+1	,	20733551	,	7	,	Italo Rodrigo       	,	Pinela         	,	Huenchullan    	,	0	,	9-26108684                                        
+1	,	20932884	,	4	,	Alexander Tael Javie	,	Ulloa          	,	Fuentes        	,	940408488	,	9-40408488                                        
+1	,	16869754	,	6	,	Jorge Andres        	,	Vasquez        	,	Mardones       	,	0	,	                                                  
+1	,	21123578	,	0	,	Luis Hernan         	,	Cortes         	,	Valenzuela     	,	998675995	,	9-56094964                                        
+1	,	27508853	,	6	,	Diego               	,	Alba           	,	Muñoz          	,	923849515	,	9-23849515                                        
+1	,	18587237	,	8	,	Osvaldo Isaac       	,	Cisterna       	,	Asencio        	,	0	,	9-56273091                                        
+1	,	11582906	,	8	,	Juan Manuel         	,	Gonzalez       	,	Reyes          	,	78255364	,	9-33769154                                        
+1	,	12394439	,	9	,	Marcelo Alejand     	,	Fuentes        	,	Manriquez      	,	0	,	9-67223860                                        
+1	,	8659282	,	7	,	Hernan              	,	Vidal          	,	Fuentes        	,	0	,	9-94710471                                        
+1	,	15710279	,	6	,	Erwin Patricio      	,	Jerez          	,	Valenzuela     	,	0	,	9-34852628                                        
+1	,	9912496	,	2	,	Luis Patricio       	,	Ruiz           	,	Villegas       	,	0	,	9-97169638                                        
+1	,	11539772	,	9	,	Jose Alejandro      	,	Troncoso       	,	Aburto         	,	0	,	9-86646653                                        
+1	,	10561731	,	3	,	Erwin Rolando       	,	Berrocal       	,	Alarcon        	,	0	,	9-98612125                                        
+1	,	8249115	,	5	,	Jose Rene           	,	Castillo       	,	Ulloa          	,	0	,	9-46331282                                        
+1	,	8738529	,	9	,	Hernan Enrique      	,	Godoy          	,	Carrillo       	,	0	,	9-90939787                                        
+1	,	8605664	,	K	,	Jesus Hernan        	,	Cancino        	,	Aravena        	,	0	,	9-99554748                                        
+1	,	8817109	,	8	,	Juan                	,	Solis          	,	Vidal          	,	0	,	9-76206157                                        
+1	,	7366857	,	3	,	Jorge Antonio       	,	Navarro        	,	Figueroa       	,	0	,	9-76440941                                        
+1	,	7945014	,	6	,	Carlos Manuel       	,	Arias          	,	Rivas          	,	0	,	9-98658204                                        
+1	,	8398765	,	0	,	Ivan Patricio       	,	Soto           	,	Cardenas       	,	0	,	9-76953573                                        
+1	,	8712440	,	1	,	Javier              	,	Montoya        	,	Herrera        	,	0	,	9-64976520                                        
+1	,	8813382	,	K	,	Juan Patricio       	,	Rivas          	,	Vera           	,	0	,	9-84752346                                        
+1	,	9303462	,	7	,	Victor Hugo         	,	Solis          	,	Riquelme       	,	0	,	9-92379282                                        
+1	,	9426599	,	1	,	Patricio Orlan      	,	Carrillo       	,	Almonacid      	,	0	,	9-78052929                                        
+1	,	9653711	,	5	,	Mario Jose          	,	Parra          	,	Silvestre      	,	0	,	9-90910928                                        
+1	,	9683134	,	K	,	Victor Hugo         	,	Diaz           	,	Nuñez          	,	0	,	9-74548628                                        
+1	,	9696557	,	5	,	Sergio Ferna        	,	Avalos         	,	Mateluna       	,	0	,	9-58200777                                        
+1	,	9940943	,	6	,	Cesar David         	,	Lagos          	,	Acuña          	,	0	,	9-98060478                                        
+1	,	9947017	,	8	,	Ramon Eduard        	,	Pino           	,	Maliqueo       	,	0	,	9-74555520                                        
+1	,	10339887	,	8	,	Raul Segundo        	,	Cruces         	,	Navarro        	,	0	,	9-93430083                                        
+1	,	13319105	,	4	,	Abel Pedro          	,	Arteaga        	,	Perez          	,	0	,	9-56060469                                        
+1	,	10423290	,	6	,	Ivan Angel Leonardo 	,	Fuentealba     	,	Ceron          	,	0	,	9-82651679                                        
+1	,	9128531	,	2	,	Mario Nicolas       	,	Niccodemi      	,	Marquez        	,	0	,	9-78278039                                        
+1	,	10806201	,	0	,	Jaime Enrique       	,	Molina         	,	Carrillo       	,	0	,	9-54066020                                        
+1	,	11129193	,	4	,	Ricardo Humberto    	,	Concha         	,	Jaramillo      	,	0	,	9-97342362                                        
+1	,	11595221	,	8	,	Jose Bernardo       	,	Sandoval       	,	Maldonado      	,	0	,	9-84994462                                        
+1	,	11688195	,	0	,	Oscar Leonel        	,	Gonzalez       	,	Muñoz          	,	376555	,	6-8395785                                         
+1	,	11919269	,	2	,	Pablo               	,	Fuentes        	,	Aguila         	,	0	,	9-90588503                                        
+1	,	12200117	,	2	,	Luis Alejandro      	,	Troncoso       	,	Muñoz          	,	0	,	9-71912088                                        
+1	,	12432052	,	6	,	Gustavo Eduardo     	,	Gonzalez       	,	Fica           	,	0	,	9-95410903                                        
+1	,	12538796	,	9	,	Jorge Bernardo      	,	Alvial         	,	Hott           	,	0	,	9-83179737                                        
+1	,	12751364	,	3	,	Jorge Patricio      	,	Matamala       	,	Velasquez      	,	0	,	9-41488580                                        
+1	,	12755687	,	3	,	Jose Jaime          	,	Altamirano     	,	Carcamo        	,	0	,	9-62517060                                        
+1	,	12991798	,	9	,	Alex Ariel          	,	Alvarez        	,	Rain           	,	0	,	9-56881221                                        
+1	,	13159677	,	4	,	Patricio Gon        	,	Huenchuanca    	,	Aillapan       	,	0	,	9-40500525                                        
+1	,	13279347	,	6	,	Martin Rodrigo      	,	Cabrera        	,	Hueichaleo     	,	0	,	9-58790843                                        
+1	,	13962547	,	1	,	Marco Sebastia      	,	Nirrian        	,	Cheuquelaf     	,	0	,	9-77678504                                        
+1	,	14236933	,	8	,	Jorge Leonel        	,	Reyes          	,	Gonzalez       	,	0	,	9-61221007                                        
+1	,	15437591	,	0	,	Elias Ernesto       	,	Millaman       	,	Guajardo       	,	0	,	9-34997166                                        
+1	,	16070425	,	K	,	Rolando Del Carmen  	,	Castro         	,	Poza           	,	0	,	9-58172700                                        
+1	,	16116353	,	8	,	Marcelo Enrique     	,	Campos         	,	Monsalve       	,	0	,	9-71819258                                        
+1	,	16435261	,	7	,	German Roberto      	,	Quilape        	,	Marileo        	,	0	,	9-41385002                                        
+1	,	16461490	,	5	,	Jonathan Patricio   	,	Martini        	,	Lefimil        	,	0	,	9-64352547                                        
+1	,	17881002	,	2	,	Carlos Alfredo      	,	Cabrera        	,	Cabrera        	,	0	,	9-54148166                                        
+1	,	18283246	,	4	,	Claudio Esteban     	,	Caniullan      	,	Lemul          	,	0	,	9-34432295                                        
+1	,	11592150	,	9	,	Jorge Esteban       	,	Lignai         	,	Antimilla      	,	0	,	9-96393271                                        
+1	,	17342964	,	9	,	Edgard Octavio      	,	Urrutia        	,	Gonzalez       	,	0	,	9-64422237                                        
+1	,	17153217	,	5	,	Rodrigo Felipe      	,	Parra          	,	Ancaten        	,	0	,	9-36719436                                        
+1	,	19011340	,	K	,	Alvaro Gonzalo      	,	Reyes          	,	Quintulen      	,	0	,	9-75783418                                        
+1	,	17696712	,	9	,	Hector Marcelo      	,	Uribe          	,	De La Fuente   	,	989044952	,	9-91767654                                        
+1	,	18868093	,	3	,	Albert Javier       	,	Monje          	,	Rodriguez      	,	0	,	9-61570830                                        
+1	,	13609014	,	3	,	Omar Isaias         	,	Castro         	,	Castillo       	,	0	,	9-59459135                                        
+1	,	18990995	,	0	,	Miguel Angel        	,	Colihuinca     	,	Manquel        	,	0	,	9-32587766                                        
+1	,	20193362	,	5	,	Juan Luis           	,	Gajardo        	,	Pailacura      	,	0	,	9-94883718                                        
+1	,	20563163	,	1	,	Bryan Antony        	,	Moena          	,	Valenzuela     	,	0	,	9-63862044                                        
+1	,	18733235	,	4	,	Eduardo Esteban     	,	Martinez       	,	Carrasco       	,	0	,	9-54490641                                        
+1	,	20920232	,	8	,	Lenny Pascual       	,	Pulgar         	,	Calfual        	,	0	,	9-23968281                                        
+1	,	16981091	,	5	,	Mario Renan         	,	Godoy          	,	Vega           	,	0	,	9-90351873                                        
+1	,	18285714	,	9	,	Ricardo Jose        	,	Castillo       	,	Leficoy        	,	41259660	,	                                                  
+1	,	19940320	,	6	,	Jayson Brayan       	,	Tapia          	,	Rojas          	,	76559978	,	9-81629314                                        
+1	,	20494432	,	6	,	Maximiliano Ignacio 	,	Davila         	,	Punolaf        	,	0	,	9-65003080                                        
+1	,	11174337	,	1	,	Vicente Patricio    	,	Villalobos     	,	Sepulveda      	,	0	,	9-78202200                                        
+1	,	17788048	,	5	,	Jonathan Andres     	,	Mora           	,	Guajardo       	,	0	,	9-85773199                                        
+1	,	15411024	,	0	,	Ricardo Esteban     	,	Fuentes        	,	Narvaez        	,	0	,	9-87289194                                        
+1	,	18076983	,	8	,	Fernando Ruben      	,	Rodriguez      	,	Aravena        	,	0	,	9-38885237                                        
+1	,	20367561	,	5	,	Paulo Ignacio       	,	Igayman        	,	Ortiz          	,	984544940	,	9-84544940                                        
+1	,	20156030	,	6	,	David Ignacio       	,	Vidal          	,	Mellado        	,	0	,	9-31186299                                        
+1	,	20315385	,	6	,	Jordan Elian        	,	Gonzalez       	,	Gomez          	,	954621474	,	9-54621474                                        
+1	,	16328591	,	6	,	Jorge Elias         	,	Marin          	,	Carrasco       	,	994891843	,	9-86917734                                        
+1	,	16560889	,	5	,	Michael Andres      	,	Osses          	,	Caceres        	,	0	,	9-87658502                                        
+1	,	7886097	,	9	,	Juan Carlos         	,	Albornoz       	,	Araya          	,	0	,	9-61338137                                        
+1	,	11773169	,	3	,	Luis Alejandro      	,	Villar         	,	Ortega         	,	0	,	9-78639377                                        
+1	,	13507817	,	4	,	Juan Carlos         	,	Lagos          	,	Ochoa          	,	0	,	9-60547322                                        
+1	,	10583339	,	3	,	Mauricio Basilio    	,	Koch           	,	Loyola         	,	0	,	9-67257232                                        
+1	,	10292011	,	2	,	Daniel Sergio       	,	Rannau         	,	Rojas          	,	0	,	9-35775106                                        
+1	,	10159352	,	5	,	Italo Roberto       	,	Meza           	,	Valdes         	,	0	,	9-58334235                                        
+1	,	6686807	,	9	,	Marco Antonio       	,	Mac-Lean       	,	Sepulveda      	,	0	,	9-37666990                                        
+1	,	6916033	,	6	,	Raul Hector         	,	Mena           	,	Ahumada        	,	0	,	9-33848130                                        
+1	,	7381592	,	4	,	Marcelo F.          	,	Berrios        	,	Salazar        	,	0	,	9-56605105                                        
+1	,	7519876	,	0	,	Victor Hugo         	,	Faundez        	,	Quezada        	,	0	,	9-66038951                                        
+1	,	7559153	,	5	,	Marcelo Edua        	,	Gonzalez       	,	Gonzalez       	,	0	,	9-46427947                                        
+1	,	7867353	,	2	,	Juvenal Erne        	,	Barra          	,	Morales        	,	0	,	9-62059733                                        
+1	,	7944924	,	5	,	Enrique Ademir      	,	Martinez       	,	Navarro        	,	0	,	9-90736646                                        
+1	,	8088227	,	0	,	German              	,	Guerrero       	,	Nilo           	,	0	,	9-45997462                                        
+1	,	8259204	,	0	,	Jorge Rafael        	,	Segura         	,	Niklitschek    	,	0	,	9-93262091                                        
+1	,	8488609	,	2	,	Jose Orlando        	,	Carrasco       	,	Paredes        	,	0	,	9-94195252                                        
+1	,	8617914	,	8	,	Roberto Del Transito	,	Loyola         	,	Contreras      	,	0	,	9-30550266                                        
+1	,	8632116	,	5	,	Jose Luis           	,	Valenzuela     	,	Riveros        	,	0	,	9-61848464                                        
+1	,	8693271	,	7	,	Luis Alberto        	,	Morales        	,	Fuenzalida     	,	0	,	9-90241877                                        
+1	,	8704632	,	K	,	Roberto             	,	Bustamante     	,	Gonzalez       	,	0	,	9-58172692                                        
+1	,	8839778	,	9	,	Pedro Manuel        	,	Tamayo         	,	Cabello        	,	0	,	9-38954464                                        
+1	,	8851005	,	4	,	Pedro Enrique       	,	Torres         	,	Contreras      	,	0	,	9-92590181                                        
+1	,	8939536	,	4	,	Raul Fernando       	,	Paez           	,	Muñoz          	,	0	,	9-52286061                                        
+1	,	8944478	,	0	,	Hernan Raul         	,	Vargas         	,	Villalobos     	,	0	,	9-40109296                                        
+1	,	9027099	,	0	,	Carlos Hernan       	,	Pacheco        	,	Venegas        	,	0	,	9-72978810                                        
+1	,	9030462	,	3	,	Luis Enrique        	,	Duran          	,	Diaz           	,	0	,	9-89648331                                        
+1	,	9163591	,	7	,	Angel               	,	Flores         	,	Ibaceta        	,	0	,	9-77771760                                        
+1	,	9198076	,	2	,	Jose Miguel         	,	Carrera        	,	Aguilera       	,	0	,	9-83192917                                        
+1	,	9350660	,	K	,	Francisco           	,	Romero         	,	Perrot         	,	0	,	9-98026742                                        
+1	,	9728796	,	1	,	Jorge David         	,	Parada         	,	Valderrama     	,	0	,	9-86217281                                        
+1	,	9733148	,	0	,	Miguel Angel        	,	Soto           	,	Mardones       	,	0	,	9-93455484                                        
+1	,	9754986	,	9	,	Juan                	,	Amunategui     	,	Bustos         	,	0	,	9-83027442                                        
+1	,	9840047	,	8	,	Luis E.             	,	Fuentes        	,	Quiñones       	,	0	,	9-98023313                                        
+1	,	9843734	,	7	,	Rodrigo Felipe      	,	Lillo          	,	Arroyo         	,	0	,	9-45591269                                        
+1	,	9894250	,	5	,	Guillermo H.        	,	Muñoz          	,	Rojas          	,	0	,	9-97754951                                        
+1	,	9936738	,	5	,	Tomas Enrique       	,	Torres         	,	Venegas        	,	0	,	9-85350846                                        
+1	,	10056082	,	8	,	Jose Humberto       	,	Torres         	,	Ulloa          	,	0	,	9-77982663                                        
+1	,	10057904	,	9	,	Christian           	,	Cubillos       	,	Zavala         	,	0	,	9-63887470                                        
+1	,	10064917	,	9	,	Eduardo Fabian      	,	Catalan        	,	Valerio        	,	0	,	9-58648317                                        
+1	,	10273380	,	0	,	Mario Ivan          	,	Morales        	,	Silva          	,	0	,	9-85337025                                        
+1	,	13911497	,	3	,	Andres Ramiro       	,	Hernandez      	,	Santibañez     	,	0	,	9-61051515                                        
+1	,	10331815	,	7	,	Jose Luis           	,	Medina         	,	Carvajal       	,	0	,	9-41062089                                        
+1	,	11838270	,	6	,	Mario Antonio       	,	Manzano        	,	Ferreira       	,	0	,	9-68645021                                        
+1	,	10390677	,	6	,	Luis Ernesto        	,	Toro           	,	Saavedra       	,	0	,	9-81740336                                        
+1	,	10450601	,	1	,	Ramon Domingo       	,	Gonzalez       	,	Hidalgo        	,	0	,	9-85842129                                        
+1	,	10462099	,	K	,	Omar Alberto        	,	Pizarro        	,	Carrasco       	,	0	,	9-87427612                                        
+1	,	10567026	,	5	,	Luis Alfonso        	,	Grandon        	,	Grandon        	,	0	,	9-87880386                                        
+1	,	10594897	,	2	,	Hernan Fernando     	,	Marin          	,	Baeza          	,	0	,	9-45021954                                        
+1	,	10793819	,	2	,	Carlos Alfonso      	,	Olave          	,	Medina         	,	0	,	9-78064950                                        
+1	,	11278854	,	9	,	Luis Fernando       	,	Yañez          	,	Diaz           	,	0	,	9-50489781                                        
+1	,	11601925	,	6	,	Marcelo Alberto     	,	Hoffner        	,	Isla           	,	0	,	9-88429461                                        
+1	,	11653302	,	2	,	Cristian Andres     	,	Morales        	,	Aguila         	,	0	,	9-89303747                                        
+1	,	11748915	,	9	,	Claudio Apolo       	,	Henriquez      	,	Neira          	,	0	,	9-98614550                                        
+1	,	11994574	,	7	,	Alex Enrique        	,	Diaz           	,	Sanchez        	,	0	,	9-56846237                                        
+1	,	12357260	,	2	,	Javier              	,	Mejias         	,	Aguilera       	,	0	,	9-31105997                                        
+1	,	12377825	,	1	,	Aquiles Agustin     	,	Peña           	,	Gutierrez      	,	0	,	9-89734987                                        
+1	,	12404789	,	7	,	Jose Luis           	,	Saldivar       	,	Jorquera       	,	0	,	9-53508560                                        
+1	,	12546444	,	0	,	Jose Guillermo      	,	Cartes         	,	Duran          	,	0	,	9-34272470                                        
+1	,	12598803	,	2	,	Gehova              	,	Collao         	,	Collao         	,	0	,	9-89599522                                        
+1	,	12727939	,	K	,	Jose Mauricio       	,	Toro           	,	Sepulveda      	,	0	,	9-73313552                                        
+1	,	12736525	,	3	,	Andres Herminio     	,	Parada         	,	Zuñiga         	,	0	,	9-90056732                                        
+1	,	12741079	,	8	,	Joel Ronald         	,	Chavez         	,	Chavez         	,	0	,	9-33718680                                        
+1	,	12772330	,	3	,	Esteban             	,	Figueroa       	,	Figueroa       	,	0	,	9-67505270                                        
+1	,	13114997	,	2	,	Victor Hugo         	,	Bello          	,	Cheuquepan     	,	0	,	9-89305658                                        
+1	,	13134383	,	3	,	Manuel Marmaduqu    	,	Cartes         	,	Hernandez      	,	0	,	9-94566685                                        
+1	,	13310426	,	7	,	Leonardo Enri       	,	Sepulveda      	,	Cifuentes      	,	0	,	9-52555191                                        
+1	,	13631622	,	2	,	Miguel Antonio      	,	Chavarria      	,	Carrasco       	,	0	,	9-35721194                                        
+1	,	13736185	,	K	,	Gerardo Javi        	,	Ojeda          	,	Paillacheo     	,	0	,	9-65023456                                        
+1	,	13820094	,	9	,	Rodolfo             	,	Urriaga        	,	Urriaga        	,	0	,	9-99799088                                        
+1	,	14017138	,	7	,	Francisco Jose      	,	Flores         	,	Muñoz          	,	0	,	9-61297658                                        
+1	,	14076842	,	1	,	David Romilio       	,	Cayuman        	,	Quidel         	,	0	,	9-89997756                                        
+1	,	14563484	,	9	,	Pablo               	,	Silva          	,	Barrientos     	,	0	,	9-84028285                                        
+1	,	15138741	,	1	,	Jose Luis           	,	Paredes        	,	Silva          	,	0	,	9-91522826                                        
+1	,	15512136	,	K	,	Jose Alfredo        	,	Vera           	,	Oñatt          	,	0	,	9-71356449                                        
+1	,	15609860	,	4	,	Fernando Andres     	,	Carrasco       	,	Cañas          	,	0	,	9-95130383                                        
+1	,	15689769	,	8	,	Cristian Alejandro  	,	Inayado        	,	Vidal          	,	0	,	9-87653072                                        
+1	,	16264263	,	4	,	Alvaro Matias       	,	Matamala       	,	Chavez         	,	0	,	9-45326327                                        
+1	,	8098967	,	9	,	Cesar David         	,	Mutizabal      	,	Del Rio        	,	0	,	9-98658944                                        
+1	,	15189588	,	3	,	Gabriel Alejandro   	,	Toloza         	,	Albornoz       	,	0	,	9-59090113                                        
+1	,	16165068	,	4	,	Domingo Arturo      	,	Jimenez        	,	Garay          	,	0	,	9-78858478                                        
+1	,	15616922	,	6	,	Cesar Antonio       	,	Villegas       	,	Villegas       	,	0	,	9-95238129                                        
+1	,	10462279	,	8	,	Patricio Andres     	,	Veas           	,	Arcaya         	,	0	,	9-71347795                                        
+1	,	10638044	,	9	,	Exequiel David      	,	Morales        	,	Gallardo       	,	0	,	9-82717105                                        
+1	,	10896981	,	4	,	Jose Hernando       	,	Martinez       	,	Jara           	,	0	,	9-95613106                                        
+1	,	11779077	,	0	,	Hernan              	,	Saez           	,	Roa            	,	0	,	9-33564443                                        
+1	,	13059070	,	5	,	Alexis Arturo       	,	Arancibia      	,	Tapia          	,	0	,	9-88374050                                        
+1	,	13226404	,	K	,	Herman Andres       	,	Humeres        	,	Lopez          	,	0	,	9-77425025                                        
+1	,	13691596	,	7	,	Cristian Alexis     	,	Diaz           	,	Sandoval       	,	0	,	9-77764619                                        
+1	,	13808084	,	6	,	Pablo               	,	Andaur         	,	Jara           	,	0	,	9-64848127                                        
+1	,	13986315	,	1	,	Jonathan Urbano     	,	Del Rio        	,	Chamorro       	,	0	,	9-56504038                                        
+1	,	15215623	,	5	,	Rodrigo Patricio    	,	Muñoz          	,	Urra           	,	0	,	9-81507038                                        
+1	,	15230225	,	8	,	Carlos Aliro        	,	Catrinao       	,	Antileo        	,	0	,	9-84908370                                        
+1	,	15240538	,	3	,	Alex Rodrigo        	,	Coleman        	,	Caniuñir       	,	0	,	9-22128762                                        
+1	,	16506098	,	9	,	Fabian Eduardo      	,	Burgos         	,	Marin          	,	0	,	9-65650781                                        
+1	,	16619797	,	K	,	Cesar Alexis        	,	Ñanco          	,	Antiman        	,	0	,	9-50589158                                        
+1	,	17771431	,	3	,	Alfredo Alonso      	,	Morales        	,	Mettig         	,	0	,	9-63671637                                        
+1	,	18224851	,	7	,	Oliver Yasser       	,	Beiza          	,	Beiza          	,	0	,	9-93524238                                        
+1	,	16386794	,	K	,	Hector Guillermo    	,	Castro         	,	Castro         	,	0	,	9-82396946                                        
+1	,	18070857	,	K	,	Daniel Alejandro    	,	Grandon        	,	Vergara        	,	0	,	9-67253684                                        
+1	,	18981917	,	K	,	Carlos Andres       	,	Vivanco        	,	Parada         	,	0	,	9-62431283                                        
+1	,	21232868	,	5	,	Jose Fernando       	,	Rosales        	,	Bravo          	,	0	,	9-20799925                                        
+1	,	18554895	,	3	,	Lino Antonio        	,	Vicuña         	,	Vera           	,	0	,	9-37111158                                        
+1	,	18542859	,	1	,	Marcelo Hernan      	,	Carilao        	,	Carilao        	,	0	,	9-65249442                                        
+1	,	19109426	,	3	,	Ignacio Anibal      	,	Concha         	,	Castro         	,	0	,	9-57065463                                        
+1	,	17657652	,	9	,	Aliro Armando       	,	Rivas          	,	Saldivia       	,	0	,	9-76712610                                        
+1	,	20510816	,	5	,	Ricardo Ivan        	,	Melillan       	,	Reyes          	,	0	,	9-56275031                                        
+1	,	20901361	,	4	,	Sebastian Alonso    	,	Garrido        	,	Almonacid      	,	0	,	9-57998945                                        
+1	,	26055519	,	7	,	Andres Mauricio     	,	Patiño         	,	.              	,	0	,	9-86581997                                        
+1	,	16803002	,	9	,	Erick Cristian      	,	Loncon         	,	Loncon         	,	0	,	9-75543075                                        
+1	,	17252006	,	5	,	Sebastian Andres    	,	Gil            	,	Moreno         	,	0	,	9-75532905                                        
+1	,	18437224	,	K	,	Julio Humberto      	,	Santelices     	,	Mariano        	,	0	,	9-66385904                                        
+1	,	19248467	,	7	,	Francisco Javier    	,	Mena           	,	Mansilla       	,	0	,	9-61603869                                        
+1	,	20273176	,	7	,	Brayan Jesus        	,	Garrido        	,	Betanzo        	,	0	,	9-82912870                                        
+1	,	26780744	,	2	,	Kevin Steven        	,	Muñoz          	,	Murcia         	,	49218359	,	9-92874024                                        
+1	,	12512134	,	9	,	Luis Alejandro      	,	Jimenez        	,	Villalobos     	,	0	,	9-86023385                                        
+1	,	20920940	,	3	,	Abraham Isaac Lot   	,	Muñoz          	,	Oyanedel       	,	0	,	9-64535528                                        
+1	,	12523459	,	3	,	Ruben Marcos        	,	Candia         	,	Palma          	,	0	,	9-83453077                                        
+1	,	14368913	,	1	,	Israel David        	,	Silva          	,	Pucol          	,	0	,	9-83432849                                        
+1	,	10256464	,	2	,	Jorge Ernesto       	,	Cifuentes      	,	Pinochet       	,	0	,	9-66162110                                        
+1	,	9468345	,	9	,	Luis Eduardo        	,	Albornoz       	,	Carrion        	,	0	,	9-97908082                                        
+1	,	8876410	,	2	,	Hector Eduardo      	,	Carrillo       	,	Bustos         	,	0	,	9-91390340                                        
+1	,	8916833	,	3	,	Juan Guiller        	,	Larenas        	,	Abarca         	,	0	,	9-71661211                                        
+1	,	9060865	,	7	,	Guillermo Fernando  	,	Adones         	,	Rojas          	,	0	,	9-45125834                                        
+1	,	9173777	,	9	,	Wilfredo Washington 	,	Muñoz          	,	Peña           	,	0	,	9-98484505                                        
+1	,	10178663	,	3	,	Jorge Enrique       	,	Manosalva      	,	Guzman         	,	963511604	,	9-63511604                                        
+1	,	10190640	,	K	,	Angel Eduardo       	,	Arias          	,	Pavez          	,	0	,	9-84391725                                        
+1	,	10725491	,	9	,	Raul Alberto        	,	Navarro        	,	Pantoja        	,	0	,	9-89698374                                        
+1	,	10759983	,	5	,	Juan C.             	,	Roca           	,	Burgos         	,	0	,	9-65800896                                        
+1	,	10826164	,	1	,	Eduardo Enrique     	,	Cruces         	,	Muñoz          	,	0	,	9-61327153                                        
+1	,	12305468	,	7	,	Cristian Feliciano  	,	Gonzalez       	,	Mercado        	,	0	,	9-79337268                                        
+1	,	11897576	,	6	,	Rodrigo Patricio    	,	Macaya         	,	Quiñemil       	,	0	,	9-67760363                                        
+1	,	10633764	,	0	,	Juan Carlos         	,	Campos         	,	Fernandez      	,	0	,	9-31126248                                        
+1	,	12321105	,	7	,	Mauricio Alfonso    	,	Gatica         	,	Riquelme       	,	0	,	9-79404866                                        
+1	,	12815624	,	0	,	Patricio Renan      	,	Cortes         	,	Cortes         	,	0	,	9-73715090                                        
+1	,	9528415	,	9	,	Richard Alexis      	,	Mendez         	,	Gonzalez       	,	0	,	9-73393676                                        
+1	,	14214970	,	2	,	Marcos Osniel       	,	Chavez         	,	Inostroza      	,	0	,	9-73851915                                        
+1	,	16229700	,	7	,	Alan Rodrigo        	,	Toledo         	,	Cartes         	,	0	,	9-58742559                                        
+1	,	9803193	,	6	,	Patricio Edgardo    	,	Arias          	,	Lopez          	,	0	,	9-37195061                                        
+1	,	12530759	,	0	,	Gonzalo Ivan        	,	Diaz           	,	Retamal        	,	51980885	,	9-51980885                                        
+1	,	13976514	,	1	,	Manuel Antonio      	,	Carvajal       	,	Carvajal       	,	0	,	9-99975946                                        
+1	,	11683895	,	8	,	Ivan Benito         	,	Henriquez      	,	Rodriguez      	,	0	,	9-62957958                                        
+1	,	14441729	,	1	,	Cristian Aliro      	,	Cuevas         	,	Silva          	,	0	,	9-76650492                                        
+1	,	12059398	,	6	,	Alejandro Alberto   	,	Arellano       	,	Vergara        	,	0	,	9-95045171                                        
+1	,	13134263	,	2	,	Leonardo Patricio   	,	Henriquez      	,	Venegas        	,	0	,	9-65521400                                        
+1	,	18308995	,	1	,	Rodrigo Antonio     	,	Hidalgo        	,	Estrada        	,	0	,	9-56506524                                        
+1	,	15705225	,	K	,	Jaime Francisco     	,	Fuentes        	,	Moya           	,	0	,	9-93198841                                        
+1	,	18131707	,	8	,	Lorenzo Eduardo     	,	Cuitiño        	,	Herrera        	,	0	,	9-23811082                                        
+1	,	16663087	,	8	,	Ignacio Javier      	,	Cerda          	,	Mora           	,	0	,	9-59012817                                        
+1	,	18439786	,	2	,	Alberto Rosendo     	,	Chavez         	,	Quijon         	,	0	,	9-58851048                                        
+1	,	24541876	,	0	,	Pedro Pablo         	,	Diaz           	,	Polo           	,	0	,	9-54706886                                        
+1	,	13402345	,	7	,	Patricio Eduardo    	,	Del Rio        	,	Aliquintui     	,	0	,	9-53149376                                        
+1	,	18384194	,	7	,	Carlos Bruno        	,	Pallauta       	,	Muñoz          	,	0	,	9-65569808                                        
+1	,	18432778	,	3	,	Luis Gabriel        	,	Maldonado      	,	Mercado        	,	0	,	9-82985583                                        
+1	,	17479287	,	9	,	Camilo Stefan Enriqu	,	Veliz          	,	Herrera        	,	958172706	,	9-88878389                                        
+1	,	19659749	,	2	,	Damian Alejandro    	,	Cortes         	,	Rios           	,	0	,	9-33264691                                        
+1	,	27014136	,	6	,	Gabriel Alejandro   	,	Vasquez        	,	Sangronis      	,	0	,	9-95052466                                        
+1	,	16172095	,	K	,	Juan Eduardo        	,	Araya          	,	Salcedo        	,	0	,	9-94966741                                        
+1	,	20649152	,	3	,	Hector Enrique      	,	Bobadilla      	,	Lican          	,	0	,	9-75422330                                        
+1	,	14017839	,	K	,	Jose Luis           	,	Chaparro       	,	Fuentes        	,	953599200	,	9-61741173                                        
+1	,	14063987	,	7	,	Cristian Andres     	,	Aguirre        	,	Acuña          	,	0	,	9-75987157                                        
+1	,	12645846	,	0	,	Wenceslao Ignacio   	,	Uribe          	,	Muñoz          	,	0	,	9-77052929                                        
+1	,	9923825	,	9	,	Maximiliano         	,	Fica           	,	Riquelme       	,	0	,	9-68011244                                        
+1	,	10441432	,	K	,	Sergio Gerardo      	,	Arce           	,	Figueroa       	,	0	,	9-90894396                                        
+1	,	10844927	,	6	,	Rosendo Patricio    	,	Pineda         	,	Contreras      	,	0	,	9-85713156                                        
+1	,	13505988	,	9	,	Claudio Rodrigo     	,	Gonzalez       	,	Muñoz          	,	0	,	9-34305466                                        
+1	,	15167229	,	9	,	Sergio Sebastian    	,	Betancourt     	,	Palma          	,	0	,	9-41238028                                        
+1	,	10274359	,	8	,	Patricio Eduardo    	,	Salazar        	,	Obreque        	,	0	,	9-82010301                                        
+1	,	11589370	,	K	,	Juan Alberto        	,	Soto           	,	Paillapan      	,	0	,	9-96548858                                        
+1	,	11709576	,	2	,	Hernan Gonzalo      	,	Paulone        	,	Caamaño        	,	0	,	9-86038278                                        
+1	,	8852019	,	K	,	Enrique Cesar       	,	Palma          	,	Fuentes        	,	0	,	9-68497713                                        
+1	,	14538131	,	2	,	Jose Ricardo        	,	Carrasco       	,	Lopez          	,	0	,	9-44163204                                        
+1	,	14281735	,	7	,	Erwin Adrian        	,	Chico          	,	Matamala       	,	0	,	9-42202836                                        
+1	,	9688520	,	2	,	Jorge Ruben         	,	Cubillos       	,	Soto           	,	0	,	9-89863763                                        
+1	,	10037335	,	1	,	Wilson Patricio     	,	Eriza          	,	San Martin     	,	0	,	9-77519482                                        
+1	,	7506192	,	7	,	Jose Luis           	,	Sanchez        	,	Duran          	,	0	,	9-67346883                                        
+1	,	7577457	,	5	,	Luis Erisnel        	,	Palomino       	,	Reyes          	,	0	,	9-98028808                                        
+1	,	7627435	,	5	,	Victor Aliro        	,	Del Valle      	,	Arce           	,	0	,	9-87554957                                        
+1	,	7735162	,	0	,	Juan Carlos         	,	Toro           	,	Gonzalez       	,	0	,	9-97003740                                        
+1	,	8104457	,	0	,	Juan Carlos         	,	Candia         	,	Padilla        	,	0	,	9-34522927                                        
+1	,	8218200	,	4	,	Sergio Gustavo      	,	Lagos          	,	Muñoz          	,	0	,	9-89486431                                        
+1	,	8360620	,	7	,	Ricardo Armando     	,	Aravena        	,	Ortiz          	,	0	,	9-68421605                                        
+1	,	8631954	,	3	,	Fidel Hernan        	,	Pando          	,	Caro           	,	0	,	9-40804887                                        
+1	,	8848836	,	9	,	Rogelio Humberto    	,	Contreras      	,	Cancino        	,	0	,	9-91979932                                        
+1	,	8934397	,	6	,	Daniel Enrique      	,	Rives          	,	Perez          	,	0	,	9-54251251                                        
+1	,	8939102	,	4	,	Pablo Javier        	,	Lopez          	,	Aracena        	,	0	,	9-41760819                                        
+1	,	9238115	,	3	,	Pedro Pablo         	,	Rossel         	,	Carreño        	,	0	,	9-98843420                                        
+1	,	9636213	,	7	,	Marcos Aurelio      	,	Alvarado       	,	Pizarro        	,	0	,	9-93018807                                        
+1	,	9687465	,	0	,	Victor Waldemar     	,	Currieco       	,	Miranda        	,	0	,	9-33731272                                        
+1	,	9863753	,	2	,	Jaime Antonio       	,	Ortiz          	,	Lara           	,	0	,	9-55316256                                        
+1	,	9901644	,	2	,	Eugenio Hernan      	,	Zamorano       	,	Villar         	,	0	,	9-62242829                                        
+1	,	9958510	,	2	,	Miguel Del Carmen   	,	Elgueta        	,	Elgueta        	,	0	,	9-46117949                                        
+1	,	10021260	,	9	,	Juan R.             	,	Valenzuela     	,	Ramirez        	,	0	,	9-71680160                                        
+1	,	10222334	,	9	,	Adolfo De Jesus     	,	Jofre          	,	Reyes          	,	0	,	9-81488239                                        
+1	,	10337506	,	1	,	Victor Orlando      	,	Manriquez      	,	Gil            	,	0	,	9-3192808                                         
+1	,	10359241	,	0	,	Dagoberto Spe       	,	Figueroa       	,	Valenzuela     	,	0	,	9-54114109                                        
+1	,	10460377	,	7	,	Victor Patricio     	,	Zamorano       	,	Ubilla         	,	0	,	9-56757136                                        
+1	,	10558018	,	5	,	Jaime Hernan        	,	Chavez         	,	Chavez         	,	0	,	9-94833550                                        
+1	,	10637014	,	1	,	Sandro De La Cruz   	,	Espinoza       	,	Brevis         	,	0	,	9-94683740                                        
+1	,	10802832	,	7	,	Federico            	,	Rodriguez      	,	Lepu           	,	0	,	9-97593425                                        
+1	,	10824001	,	6	,	Julio Fernando      	,	Castro         	,	Bustos         	,	0	,	9-84002020                                        
+1	,	10986077	,	8	,	Luis Alberto        	,	Bustos         	,	Concha         	,	0	,	9-37040702                                        
+1	,	10996561	,	8	,	Pedro Leandro       	,	Saavedra       	,	Quiroz         	,	0	,	9-41404152                                        
+1	,	11186587	,	6	,	Galvarino Noe       	,	Sanchez        	,	Bravo          	,	0	,	9-82982308                                        
+1	,	11360222	,	8	,	Claudio             	,	Valdenegro     	,	Velasquez      	,	1189120637	,	9-77905529                                        
+1	,	11592515	,	6	,	Erwin Javier        	,	Mancilla       	,	Monsalve       	,	0	,	9-95568622                                        
+1	,	11775427	,	8	,	Pedro Alejandro     	,	Venegas        	,	Lizama         	,	0	,	9-61983706                                        
+1	,	11921720	,	2	,	Juan Ramon          	,	Mansilla       	,	Hernandez      	,	0	,	9-99282393                                        
+1	,	11584110	,	6	,	Pedro Jaime         	,	Necul          	,	Llanca         	,	0	,	9-85005630                                        
+1	,	12112370	,	3	,	Jose Antonio        	,	Huerta         	,	Araya          	,	0	,	9-99326154                                        
+1	,	12036614	,	9	,	Jose Joaquin        	,	Herrera        	,	Guerrero       	,	0	,	9-45743549                                        
+1	,	12319306	,	7	,	Ruben Bernar        	,	Piceros        	,	Velasquez      	,	0	,	9-63171581                                        
+1	,	12376120	,	0	,	Cesar Alonso        	,	Campos         	,	Jara           	,	0	,	9-96422420                                        
+1	,	12389448	,	0	,	Ramon Andres        	,	Quezada        	,	Pereira        	,	0	,	9-61389181                                        
+1	,	12400130	,	7	,	Mauricio Alberto    	,	Espinoza       	,	Aranda         	,	0	,	9-89439039                                        
+1	,	12515036	,	5	,	Luis E.             	,	Madrid         	,	Hevia          	,	0	,	9-84996567                                        
+1	,	12795341	,	4	,	Paul Luis Alexand   	,	Caceres        	,	Fuentes        	,	0	,	9-41230293                                        
+1	,	12941569	,	K	,	Angelo Bernabe      	,	Trigo          	,	Ramos          	,	0	,	9-41737610                                        
+1	,	12989588	,	8	,	Walter Diogenes     	,	Opazo          	,	Fica           	,	0	,	9-84082499                                        
+1	,	13302124	,	8	,	Juan Manuel         	,	Sanchez        	,	Moreno         	,	0	,	9-94349311                                        
+1	,	13585981	,	8	,	Moises Gabriel      	,	Moreno         	,	Navarro        	,	0	,	9-52274890                                        
+1	,	13629237	,	4	,	Oscar Fabian        	,	Panguinao      	,	Salazar        	,	0	,	9-48815046                                        
+1	,	13812313	,	8	,	Alvaro Enrique      	,	Segura         	,	Cabrera        	,	0	,	9-87758024                                        
+1	,	14244562	,	K	,	Andres Rigoberto    	,	Lillo          	,	Sanchez        	,	0	,	9-78060144                                        
+1	,	14387574	,	1	,	Adan Eliazar        	,	Noguera        	,	Vega           	,	0	,	9-68352504                                        
+1	,	14447973	,	4	,	Luis Alfredo        	,	Ibarra         	,	Caceres        	,	0	,	9-49750742                                        
+1	,	14740954	,	0	,	Luis Angel          	,	Diaz           	,	Neyra          	,	0	,	9-89230941                                        
+1	,	15175726	,	K	,	Cristhian Rodrigo   	,	Contreras      	,	Contreras      	,	0	,	9-84409727                                        
+1	,	15267418	,	K	,	Luis Alberto        	,	Chandao        	,	Rodriguez      	,	0	,	9-41041015                                        
+1	,	15272369	,	5	,	Rodrigo Nolberto    	,	Lemu           	,	Nilian         	,	0	,	9-56224254                                        
+1	,	15276026	,	4	,	Cesar Heriberto     	,	Barria         	,	Aro            	,	0	,	9-50914377                                        
+1	,	15550720	,	9	,	Rodolfo Alejandr    	,	Vasquez        	,	Carrasco       	,	0	,	9-95414215                                        
+1	,	15689199	,	1	,	Robinson Daniel     	,	Yovanolo       	,	Nuñez          	,	0	,	9-67520412                                        
+1	,	16186985	,	6	,	Juan Pablo          	,	Zuñiga         	,	Padilla        	,	0	,	9-83335844                                        
+1	,	9235995	,	6	,	Lisandro Domingo    	,	Mella          	,	Rocha          	,	0	,	9-87304105                                        
+1	,	12191788	,	2	,	Patricio Erwin      	,	Fabres         	,	Gutierrez      	,	0	,	9-97593714                                        
+1	,	10498511	,	4	,	Rene Horacio        	,	Venegas        	,	Arriagada      	,	0	,	9-89316485                                        
+1	,	10920585	,	0	,	Luis Bernardo       	,	Ibarra         	,	Moya           	,	0	,	9-91450364                                        
+1	,	8388867	,	9	,	Juan Patricio       	,	Houlin         	,	Castro         	,	0	,	9-98882497                                        
+1	,	11493138	,	1	,	Alejandro Anibal    	,	Garay          	,	Fernandez      	,	0	,	9-72946296                                        
+1	,	12953900	,	3	,	Manuel Enrique      	,	Quiñones       	,	Muñoz          	,	0	,	9-57837549                                        
+1	,	10111951	,	3	,	Hermes Fabian       	,	Arias          	,	Aguila         	,	0	,	9-76992876                                        
+1	,	13591381	,	2	,	Hector Fabian       	,	Azocar         	,	Carrillo       	,	0	,	9-89390267                                        
+1	,	15834518	,	8	,	Jose Luis           	,	Faundez        	,	Oviedo         	,	0	,	9-47758333                                        
+1	,	12461280	,	2	,	Cristian Eduardo    	,	Salazar        	,	Caceres        	,	0	,	9-56245020                                        
+1	,	16599414	,	0	,	Cesar Antonio       	,	Rivera         	,	Sandoval       	,	0	,	9-83353582                                        
+1	,	11426139	,	4	,	Edson Eduardo       	,	Muñoz          	,	Oliveros       	,	0	,	9-71464274                                        
+1	,	13294091	,	6	,	Mario Anselmo       	,	Vega           	,	Rojas          	,	0	,	9-66954725                                        
+1	,	11750170	,	1	,	Leonardo Ernesto    	,	Gacitua        	,	Caceres        	,	0	,	9-90832245                                        
+1	,	9419343	,	5	,	Jose Gerardo        	,	Ruiz           	,	Aguilar        	,	0	,	9-57300479                                        
+1	,	11467453	,	2	,	Juan Carlos         	,	Cortes         	,	Gomez          	,	0	,	9-81827477                                        
+1	,	10168491	,	1	,	Jaime Alberto       	,	Mellado        	,	Cerda          	,	0	,	9-59886390                                        
+1	,	10450007	,	2	,	Juan Esteban        	,	Pinto          	,	Montero        	,	0	,	9-64425698                                        
+1	,	16539872	,	6	,	Esteban Moises      	,	Caballero      	,	Vargas         	,	0	,	9-73767917                                        
+1	,	9935082	,	2	,	Jorge Enrique       	,	Navarrete      	,	Pizarro        	,	0	,	9-91874720                                        
+1	,	13033471	,	7	,	Alexis Leonardo     	,	Gamonal        	,	Mejias         	,	0	,	9-77623252                                        
+1	,	10797360	,	5	,	Claudio Maximiliano 	,	Muñoz          	,	Gallardo       	,	0	,	9-95940345                                        
+1	,	9903005	,	4	,	Carlos Bernardo     	,	Basterretche   	,	Lagos          	,	0	,	9-75151580                                        
+1	,	11643764	,	3	,	Hernan Eduardo      	,	Torres         	,	Hermosilla     	,	0	,	9-48680619                                        
+1	,	13405301	,	1	,	Luis David          	,	Alvarado       	,	Guzman         	,	0	,	9-35232009                                        
+1	,	13586711	,	K	,	Enrique Mauricio    	,	Calupin        	,	Vera           	,	0	,	9-90218521                                        
+1	,	16535517	,	2	,	Esteban Patricio    	,	Troncoso       	,	Muñoz          	,	0	,	9-85914323                                        
+1	,	17982964	,	9	,	Matias Erasmo       	,	Lagos          	,	Paredes        	,	0	,	9-43412721                                        
+1	,	18587120	,	7	,	Daniel Armando      	,	Oñate          	,	Cheuque        	,	0	,	9-96928543                                        
+1	,	17476248	,	1	,	Leonardo Antonio    	,	Aguayo         	,	Miranda        	,	0	,	9-64056581                                        
+1	,	18763028	,	2	,	Cristian Andres     	,	Villablanca    	,	Pino           	,	54132238	,	9-48653269                                        
+1	,	25072036	,	K	,	Angel Wilmer        	,	Mamani         	,	Perca          	,	0	,	9-36996093                                        
+1	,	19000608	,	5	,	Daniel Adrian       	,	Vega           	,	Nahuelqueo     	,	0	,	9-30178152                                        
+1	,	17196818	,	6	,	Luis Daniel         	,	San Martin     	,	Lopez          	,	0	,	9-99192157                                        
+1	,	17755451	,	0	,	Michael Evaristo    	,	Cofre          	,	Aguayo         	,	0	,	9-40246474                                        
+1	,	17748654	,	K	,	Javier Enrique      	,	Saldias        	,	Huenuan        	,	0	,	9-73032163                                        
+1	,	18376670	,	8	,	Jose Matias         	,	Molina         	,	Molina         	,	0	,	9-49559941                                        
+1	,	18323306	,	8	,	Sigisfredo Emiliano 	,	Cachaña        	,	Camilo         	,	0	,	9-53210374                                        
+1	,	19611138	,	7	,	Mario Antonio       	,	Diaz           	,	Rivas          	,	0	,	9-89899697                                        
+1	,	19476371	,	9	,	Sebastian Enrique   	,	Novoa          	,	Avendaño       	,	0	,	9-44274537                                        
+1	,	18320640	,	0	,	Jonathan Andres     	,	Calbucoy       	,	Montanares     	,	0	,	9-99812586                                        
+1	,	26504227	,	9	,	Moises Celestino    	,	Martinez       	,	Perez          	,	0	,	9-44886846                                        
+1	,	12658328	,	1	,	Gabriel Eduardo     	,	Mendez         	,	Rojas          	,	0	,	9-57062272                                        
+1	,	26087285	,	0	,	Makenson            	,	Thelemarque    	,	.              	,	0	,	9-34844423                                        
+1	,	27659465	,	6	,	Angel De Jesus      	,	Isaza          	,	Varela         	,	994891843	,	9-32957564                                        
+1	,	20196683	,	3	,	Victor Manuel       	,	Espinoza       	,	Vega           	,	0	,	9-37087803                                        
+1	,	18478487	,	4	,	Xavier Alejandro    	,	Vera           	,	Godoy          	,	0	,	9-64294891                                        
+1	,	20813430	,	2	,	Luis Alejandro      	,	Tarazona       	,	Murga          	,	0	,	9-98617904                                        
+1	,	20667454	,	7	,	Nicolas Alberto     	,	Gonzalez       	,	Romero         	,	0	,	9-61643594                                        
+1	,	21067477	,	2	,	Cristopher Alexsande	,	Briones        	,	Contuliano     	,	0	,	9-74917554                                        
+1	,	21263477	,	8	,	Cristopher Nicolas  	,	Tapia          	,	Sepulveda      	,	0	,	9-15659452                                        
+1	,	25986676	,	6	,	Patrick             	,	Bleus          	,	.              	,	0	,	9-86603789                                        
+1	,	17850474	,	6	,	Daniel Isaias       	,	Gayes          	,	Lara           	,	0	,	9-76198191                                        
+1	,	16733056	,	8	,	Jorge Alejandro     	,	Gonzalez       	,	Gatica         	,	0	,	9-1222289                                         
+1	,	20529977	,	7	,	Patricio Andres     	,	Valenzuela     	,	Manzano        	,	0	,	9-84348821                                        
+1	,	20366094	,	4	,	Elias Eduardo       	,	Martinez       	,	Ñanco          	,	0	,	9-73463959                                        
+1	,	19684867	,	3	,	Lukas Bastian       	,	Vergara        	,	Fandy          	,	0	,	9-62490414                                        
+1	,	17623113	,	0	,	Juan Manuel         	,	Neira          	,	Aguilera       	,	0	,	9-63955803                                        
+1	,	21016339	,	5	,	Miguel Angel        	,	Olave          	,	Figueroa       	,	920436670	,	9-20436670                                        
+1	,	17928227	,	5	,	Pedro Sebastian     	,	Cubillos       	,	Jara           	,	0	,	9-58007276                                        
+1	,	25446828	,	2	,	Julio               	,	St             	,	Hilaire        	,	0	,	9-45279548                                        
+1	,	14175953	,	1	,	Danny Alejandro     	,	Araneda        	,	Castro         	,	0	,	9-77933582                                        
+1	,	14097154	,	5	,	Angelo Alexis       	,	Castillo       	,	Salazar        	,	994891843	,	9-94891843                                        
+1	,	15717582	,	3	,	Jaime Andres        	,	Berrios        	,	Gamboa         	,	0	,	9-72359073                                        
+1	,	6442504	,	8	,	Alejandro Ernesto   	,	Tapia          	,	Espinosa       	,	0	,	4-553488                                          
+1	,	9396554	,	K	,	Jaime Antonio       	,	Muñoz          	,	Silva          	,	0	,	996265268                                         
+1	,	14418600	,	1	,	Oscar Enrique       	,	Alvarez        	,	Jimenez        	,	89184799	,	9-3431664                                         
+1	,	16530612	,	0	,	Rogelio Ernesto     	,	Cifuentes      	,	Montero        	,	0	,	9-77070826                                        
+1	,	11330546	,	0	,	Claudio Marcelo     	,	Felgueras      	,	Opazo          	,	0	,	3-23171216                                        
+1	,	7719199	,	2	,	Raul                	,	Quezada        	,	Andrade        	,	0	,	3-22248982                                        
+1	,	8838598	,	5	,	Juan Carlos         	,	Montecinos     	,	Hernandez      	,	0	,	9-42779837                                        
+1	,	8959648	,	3	,	Eduardo Alejandro   	,	Jara           	,	Cardenas       	,	0	,	7-429187                                          
+1	,	9122323	,	6	,	Juan Carlos         	,	Tejeda         	,	Alvarado       	,	0	,	8-213801                                          
+1	,	9325113	,	K	,	Manuel Octavio      	,	Suarez         	,	Morales        	,	0	,	9-58408093                                        
+1	,	10027262	,	8	,	Cesar               	,	Basualto       	,	Olmos          	,	0	,	9-63855791                                        
+1	,	10338188	,	6	,	Roberto Orla        	,	Valderrama     	,	Araneda        	,	0	,	9-79906510                                        
+1	,	10486779	,	0	,	Jose Richard        	,	Fuentealba     	,	Reyes          	,	77737278	,	
+1	,	10727486	,	3	,	Pedro Francisco     	,	San Martin     	,	Salinas        	,	0	,	9-98646527                                        
+1	,	10875373	,	0	,	Osvaldo Enrique     	,	Lagos          	,	Contreras      	,	0	,	9-82268806                                        
+1	,	10979217	,	9	,	Hector Cristian     	,	Donoso         	,	Vargas         	,	0	,	2-243164                                          
+1	,	11828194	,	2	,	Juan Patricio       	,	Alamos         	,	Bustamante     	,	0	,	9-40304404                                        
+1	,	12246775	,	9	,	Richard Anthonny    	,	Brevis         	,	Caro           	,	0	,	8-6098225                                         
+1	,	12969756	,	3	,	Pedro Alejandro     	,	Sanchez        	,	Lagos          	,	0	,	9-94856324                                        
+1	,	13443330	,	2	,	Marco               	,	Melo           	,	Calderon       	,	0	,	9-49600798                                        
+1	,	13807111	,	1	,	Alex Bernardino     	,	Muñoz          	,	Contreras      	,	0	,	93158084                                          
+1	,	13822405	,	8	,	Juan Pablo          	,	Navarrete      	,	Pedreros       	,	0	,	4-032065                                          
+1	,	13981560	,	2	,	Roberto Daniel      	,	Urbina         	,	Solis          	,	0	,	9-89067583                                        
+1	,	14028449	,	1	,	Ricardo Gonzalo     	,	Sanchez        	,	Lagos          	,	0	,	9-79620153                                        
+1	,	15531415	,	K	,	Juan Francisco      	,	Salas          	,	Marchant       	,	942434619	,	9-42434619                                        
+1	,	16777606	,	K	,	Enrique Antonio     	,	Guzman         	,	Ortiz          	,	0	,	9-78417135                                        
+1	,	17399080	,	4	,	Roberto Antonio     	,	Nuñez          	,	Gonzalez       	,	986806834	,	9-17399080                                        
+1	,	8714516	,	6	,	Christian Luis      	,	Rodriguez      	,	Avila          	,	0	,	9-41470118                                        
+1	,	9484562	,	9	,	Claudio Horacio     	,	Fuentes        	,	Villalobos     	,	0	,	9-52078711                                        
+1	,	10013103	,	K	,	Italo Bernardo      	,	Martinangeli   	,	Reyes          	,	0	,	9-42763667                                        
+1	,	12847795	,	0	,	Angelo Cristian     	,	Gajardo        	,	Silva          	,	0	,	9-36255197                                        
+1	,	12152468	,	6	,	Dario Esteban       	,	Gallardo       	,	Navarrete      	,	0	,	9-52380757                                        
+1	,	12823893	,	K	,	Cristian Javier     	,	Alvarez        	,	Jimenez        	,	0	,	944677123                                         
+1	,	17383238	,	9	,	Kevin Yakov         	,	Pino           	,	Fuentes        	,	0	,	9-63013003                                        
+1	,	7308541	,	1	,	Gonzalo Erwin       	,	Barra          	,	Alarcon        	,	0	,	9-91474017                                        
+1	,	9247631	,	6	,	Juan Manuel         	,	Moreno         	,	Espinoza       	,	0	,	9-30862741                                        
+1	,	14312490	,	8	,	Patricio Ricardo    	,	Toro           	,	Roilar         	,	0	,	98915413                                          
+1	,	10196841	,	3	,	Alejandro Marcelino 	,	Vergara        	,	Vargas         	,	0	,	9-63924068                                        
+1	,	12582943	,	0	,	Roberto Gerardo     	,	Valencia       	,	Diaz           	,	0	,	9-79604187                                        
+1	,	16969639	,	K	,	Noel Alejandro      	,	Maldonado      	,	Gonzalez       	,	0	,	9-65643233                                        
+1	,	12912753	,	8	,	Jorge Eduardo       	,	Muñoz          	,	Valenzuela     	,	0	,	9-49867878                                        
+1	,	11653008	,	2	,	Christian Mario     	,	Pavez          	,	Gomez          	,	0	,	9-58826729                                        
+1	,	9224978	,	6	,	Carlos Andres       	,	Barraza        	,	Patrone        	,	0	,	9-97170957                                        
+1	,	9040134	,	3	,	Guillermo Alfonso   	,	Gutierrez      	,	Solis          	,	0	,	9-90019585                                        
+1	,	15751019	,	3	,	Diego Armando       	,	Parra          	,	Barrientos     	,	982461682	,	                                                  
+1	,	17230020	,	0	,	Jose Luis           	,	Contreras      	,	Sandoval       	,	0	,	9-99272906                                        
+1	,	13634934	,	1	,	Eddie Brian         	,	Hernandez      	,	Becerra        	,	0	,	9-30775069                                        
+1	,	19202197	,	9	,	Alejandro Mauric    	,	Cuadra         	,	Retamales      	,	0	,	9-85255078                                        
+1	,	9226030	,	5	,	Juan Luis           	,	Ferreira       	,	Pucol          	,	0	,	9-68471383                                        
+1	,	11640961	,	5	,	Francisco Enrique   	,	Quinteros      	,	Espinoza       	,	0	,	9-66632355                                        
+1	,	12847824	,	8	,	Armando Ruben       	,	Marin          	,	Toledo         	,	0	,	9-32775579                                        
+1	,	8452355	,	0	,	Mauricio Eduardo    	,	Saldaño        	,	Cruz           	,	932675649	,	                                                  
+1	,	12449147	,	9	,	Patricio Luciano    	,	Poblete        	,	Contreras      	,	0	,	9-88753847                                        
+1	,	16630920	,	4	,	Herman Gonzalo      	,	Leichtle       	,	Parancan       	,	0	,	9-41007345                                        
+1	,	12274783	,	2	,	Dario Gustavo       	,	Beiza          	,	Oñate          	,	940366913	,	9-4036 691                                        
+1	,	17231998	,	K	,	Miguel Angel        	,	Correa         	,	Acevedo        	,	0	,	9-53295939                                        
+1	,	16989030	,	7	,	Cesar Alex          	,	Sagredo        	,	Vergara        	,	0	,	9-96813946                                        
+1	,	12157286	,	9	,	Juan Antonio        	,	Cornejo        	,	Valdes         	,	0	,	9-61288175                                        
+1	,	14460242	,	0	,	Julio Alejandro     	,	Gonzalez       	,	Badal          	,	0	,	9-64356887                                        
+1	,	10147365	,	1	,	Remigio Jovino      	,	Cortes         	,	Montes         	,	0	,	9-97905111                                        
+1	,	9999610	,	2	,	Fabian Humberto     	,	Valenzuela     	,	Miranda        	,	0	,	9-66762974                                        
+1	,	18062896	,	7	,	Alvaro Ignacio      	,	Poblete        	,	Tapia          	,	78255364	,	9-81767150                                        
+1	,	16041556	,	8	,	Cristian Rodrigo    	,	Silva          	,	Silva          	,	0	,	9-68576595                                        
+1	,	8875338	,	0	,	Augusto Gabriel     	,	Gacitua        	,	Macaya         	,	0	,	                                                  
+1	,	13996131	,	5	,	Cristian Patrici    	,	Cifuentes      	,	Garcia         	,	0	,	                                                  
+1	,	13803093	,	8	,	Luis Segundo        	,	Castro         	,	Salas          	,	0	,	                                                  
+1	,	7664999	,	5	,	Waldo Enrique       	,	Muñoz          	,	Zuñiga         	,	0	,	3-23240918                                        
+1	,	9998693	,	K	,	Julio Alfonso       	,	Robles         	,	Rodriguez      	,	981293337	,	9-81293337                                        
+1	,	7830303	,	4	,	Andres Marlon       	,	Montecinos     	,	Munizaga       	,	0	,	                                                  
+1	,	7907782	,	8	,	Eduardo Antonio     	,	Alarcon        	,	Toro           	,	0	,	2-4929697                                         
+1	,	8074656	,	3	,	Carlos Alberto      	,	Vargas         	,	Vergara        	,	0	,	2-644478                                          
+1	,	8245819	,	0	,	Fernando            	,	Astudillo      	,	Salazar        	,	0	,	                                                  
+1	,	8557393	,	4	,	Manuel Jose         	,	Astorga        	,	Retamales      	,	0	,	3-178627                                          
+1	,	8655889	,	0	,	Alberto Enrique     	,	Reyes          	,	Villaseca      	,	0	,	3-23192578                                        
+1	,	8933776	,	3	,	Juan Carlos         	,	Sanhueza       	,	Nuñez          	,	0	,	3-22117832                                        
+1	,	9035918	,	5	,	Jorge Eliecer       	,	Solis          	,	Sandoval       	,	0	,	3-135345                                          
+1	,	9393460	,	1	,	Cesar Reinaldo      	,	Perez          	,	Zalazar        	,	0	,	4-12998520                                        
+1	,	9524726	,	1	,	Ricardo Enrique     	,	Sanchez        	,	Araya          	,	0	,	                                                  
+1	,	9545349	,	K	,	Eduardo German      	,	Contreras      	,	Provens        	,	0	,	7-5332721                                         
+1	,	9652803	,	5	,	Marco Antonio       	,	Vergara        	,	Gutierrez      	,	0	,	                                                  
+1	,	9688306	,	4	,	Juan Enrique        	,	Ibarra         	,	Cancino        	,	97762961	,	                                                  
+1	,	10039791	,	9	,	Joel Tarcicio       	,	Gallardo       	,	Donoso         	,	0	,	                                                  
+1	,	10199968	,	8	,	Marco Aurelio       	,	Astudillo      	,	Correa         	,	0	,	2-676650                                          
+1	,	10606407	,	5	,	Jorge Alfonso       	,	Astudillo      	,	Correa         	,	0	,	                                                  
+1	,	10736758	,	6	,	Jose John           	,	Pilar          	,	Ruz            	,	961672046	,	                                                  
+1	,	11405229	,	9	,	Raul Alfonso        	,	Carrasco       	,	Vallarde       	,	0	,	                                                  
+1	,	11547934	,	2	,	Carlos Alejandro    	,	Crespo         	,	Vargas         	,	0	,	                                                  
+1	,	11620328	,	6	,	Sergio Andres       	,	Varas          	,	Caballero      	,	931173874	,	                                                  
+1	,	12226992	,	2	,	Marcelo Orlando     	,	Jara           	,	Hernandez      	,	0	,	2-244720                                          
+1	,	12334213	,	5	,	Julio Manuel        	,	Colicoy        	,	Llanquiman     	,	961636985	,	9-61636985                                        
+1	,	12601398	,	1	,	David Moises        	,	Sanchez        	,	Latin          	,	0	,	9-95188462                                        
+1	,	12849028	,	0	,	Pedro Jose          	,	Torres         	,	Sandoval       	,	2612445	,	9-65959547                                        
+1	,	13381029	,	3	,	Elson E.            	,	Monroi         	,	Fuentealba     	,	948706669	,	                                                  
+1	,	13716762	,	K	,	Jeisson Patricio    	,	Denis          	,	Zuloaga        	,	0	,	                                                  
+1	,	14311516	,	K	,	Juan Carlos         	,	Burgos         	,	Valenzuela     	,	942810646	,	                                                  
+1	,	14471947	,	6	,	Mauricio Esteban    	,	Herrera        	,	Jamett         	,	0	,	3-22580255                                        
+1	,	15561252	,	5	,	Danny Marcel        	,	Salinas        	,	Vicent         	,	0	,	                                                  
+1	,	15243945	,	8	,	Ananias Patricio    	,	Lauquen        	,	Carilao        	,	74156810	,	
+1	,	16166692	,	0	,	Octavio Andres      	,	Pereira        	,	Valenzuela     	,	0	,	7-7903793                                         
+1	,	9199860	,	2	,	Luis Guillermo      	,	Pacheco        	,	Pasquet        	,	0	,	9-40648204                                        
+1	,	16218858	,	5	,	Erwin Antoni        	,	De La Hoz      	,	Palavecino     	,	0	,	                                                  
+1	,	17809229	,	4	,	Felipe German       	,	Rivera         	,	Morello        	,	0	,	                                                  
+1	,	13110215	,	1	,	Jhonny Alfredo      	,	Rebolledo      	,	Morales        	,	0	,	9-44626497                                        
+1	,	13930306	,	7	,	Mario Enrique       	,	Tabilo         	,	Herrera        	,	0	,	                                                  
+1	,	12067677	,	6	,	Eduardo Alberto     	,	Mutis          	,	Olmos          	,	951994693	,	                                                  
+1	,	12176618	,	3	,	Claudia De Las Merce	,	Ibarra         	,	Barraza        	,	0	,	3-22930999                                        
+1	,	13106249	,	4	,	Cristian Manuel     	,	Roman          	,	Riquelme       	,	0	,	9-5742 719                                        
+1	,	11359884	,	0	,	Armando Antonio     	,	Cerda          	,	Galindo        	,	0	,	7-5332090                                         
+1	,	9397093	,	4	,	Julio Enrique       	,	Peralta        	,	Pino           	,	0	,	9-1046899                                         
+1	,	12955843	,	1	,	Eduardo Patricio    	,	Fuentes        	,	Tapia          	,	0	,	7-8160191                                         
+1	,	7963207	,	4	,	Francisco Jose      	,	Esposito       	,	Riquelme       	,	0	,	3-23177942                                        
+1	,	13996537	,	K	,	Adrian Christian    	,	Durand         	,	Calderon       	,	64770185	,	                                                  
+1	,	18034729	,	1	,	Marcelo Alberto     	,	Miralles       	,	Avendaño       	,	0	,	                                                  
+1	,	9506213	,	K	,	Cesar Elias         	,	Hernandez      	,	Concha         	,	0	,	                                                  
+1	,	9249397	,	0	,	David Mario         	,	Montesi        	,	Cordova        	,	0	,	9-78576726                                        
+1	,	9130437	,	6	,	Rodrigo Alonso      	,	Montenegro     	,	Costa          	,	0	,	                                                  
+1	,	12091289	,	5	,	Samuel Alberto      	,	Aravena        	,	Pacheco        	,	997632176	,	                                                  
+1	,	14449935	,	2	,	Francisco Javier    	,	Zuñiga         	,	Ibañez         	,	0	,	4-52376440                                        
+1	,	16578919	,	9	,	Luis Ricardo        	,	Carmona        	,	Bugueño        	,	0	,	3-22206817                                        
+1	,	9535963	,	9	,	Rodrigo Hernando    	,	Barrena        	,	Ortega         	,	0	,	                                                  
+1	,	9135136	,	6	,	Juan Francisco      	,	Venegas        	,	Sagredo        	,	0	,	                                                  
+1	,	10196865	,	0	,	Carlos Andres       	,	Beise          	,	San Martin     	,	0	,	2-26234304                                        
+1	,	14425817	,	7	,	Victor Manuel       	,	Hurtado        	,	Marambio       	,	976022113	,	9-76022113                                        
+1	,	15949888	,	3	,	Raul Alexis         	,	Carrasco       	,	Vera           	,	0	,	9-77753446                                        
+1	,	10421456	,	8	,	Ariel Humberto      	,	Otarola        	,	Pino           	,	0	,	972321809                                         
+1	,	16774523	,	7	,	Jesus Alfredo       	,	Gatica         	,	Flores         	,	0	,	                                                  
+1	,	10151338	,	6	,	Cristian Fabian     	,	Droguett       	,	Rojas          	,	0	,	9-86244733                                        
+1	,	16999192	,	8	,	Rigoberto German    	,	Concha         	,	Garrido        	,	0	,	9-97857703                                        
+1	,	17227014	,	K	,	Esteban Nacor       	,	Catalan        	,	Meriño         	,	0	,	9-46401890                                        
+1	,	15072475	,	9	,	Juan Luis           	,	Martinez       	,	Lopez          	,	0	,	                                                  
+1	,	14181515	,	6	,	Katherine Margot    	,	Lavin          	,	Cerda          	,	0	,	                                                  
+1	,	17791169	,	0	,	Camilo Esteban      	,	Jimenez        	,	Lopez          	,	965094302	,	9-65094302                                        
+1	,	16002926	,	9	,	Jose Idelio         	,	Suazo          	,	Garrido        	,	0	,	9-77134250                                        
+1	,	13191709	,	0	,	Juan Antonio        	,	Vargas         	,	Verdugo        	,	0	,	9-35950156                                        
+1	,	17940040	,	5	,	Desiderio Eduardo   	,	Reyes          	,	Jara           	,	964627536	,	9-64627536                                        
+1	,	9276682	,	9	,	Jose Manuel         	,	Eyzaguirre     	,	Escanilla      	,	994705099	,	9-4705099                                         
+1	,	13567773	,	6	,	Justo Patricio      	,	Bustos         	,	Cornejo        	,	0	,	9-62568339                                        
+1	,	14369926	,	9	,	Claudio Rafael      	,	Solis          	,	Casanova       	,	987923385	,	9-87923385                                        
+1	,	6629075	,	1	,	Jose David          	,	Gonzalez       	,	Castro         	,	975252661	,	9-75252661                                        
+1	,	6852904	,	2	,	Carlos Alberto      	,	Carrasco       	,	Leiva          	,	0	,	9-46258854                                        
+1	,	6887841	,	1	,	Hernan Del Transito 	,	Orellana       	,	Baez           	,	0	,	97414647                                          
+1	,	7322744	,	5	,	Carlos Cristian     	,	Varas          	,	Yañez          	,	0	,	7-2572041                                         
+1	,	7550763	,	1	,	Celso Gabriel       	,	Quiroz         	,	Olguin         	,	989180823	,	9-89180823                                        
+1	,	7585244	,	4	,	Jorge Antonio       	,	Bustamante     	,	Zamorano       	,	992458003	,	9-2458003                                         
+1	,	9001559	,	1	,	Eduardo Anton       	,	Gonzalez       	,	Valenzuela     	,	0	,	2-5643463                                         
+1	,	9262184	,	7	,	Marcelo E.          	,	Sanhueza       	,	Acevedo        	,	953591902	,	9-53591902                                        
+1	,	9608584	,	2	,	Luis Carlos         	,	Quiroz         	,	Valladares     	,	0	,	3-232305                                          
+1	,	9749151	,	8	,	Manuel Alejandro    	,	Ochoa          	,	Calderon       	,	990748257	,	9-90748257                                        
+1	,	10013795	,	K	,	Jose Enrique        	,	Oyarce         	,	Cornejo        	,	0	,	8-7802761                                         
+1	,	10485503	,	2	,	Dario Rolando       	,	Correa         	,	Aguilera       	,	989587197	,	9-89587197                                        
+1	,	10559371	,	6	,	Marcelino E.        	,	Raimil         	,	Ayelef         	,	990059849	,	9-90059849                                        
+1	,	11435471	,	6	,	Mauricio Ademir     	,	Droguett       	,	Reyes          	,	995388161	,	9-95388161                                        
+1	,	12304284	,	0	,	Alejandro Del Car   	,	Carrillo       	,	Medina         	,	0	,	8-2049779                                         
+1	,	12318841	,	1	,	Baudilio Enrique    	,	Toro           	,	Contreras      	,	0	,	92407537                                          
+1	,	14395705	,	5	,	Enrique Cesar       	,	Vasquez        	,	Alarcon        	,	0	,	8-583205                                          
+1	,	12366779	,	4	,	Jose Antonio        	,	Bozo           	,	Arriaza        	,	0	,	5-4155912                                         
+1	,	16073270	,	9	,	Juan Luis           	,	Astorga        	,	Morales        	,	959817845	,	9-59817845                                        
+1	,	12466723	,	2	,	Andres Eduardo      	,	Peralta        	,	Salazar        	,	964063193	,	9-64063193                                        
+1	,	12516927	,	9	,	Joaquin Antonio     	,	Alarcon        	,	Reyes          	,	0	,	9-90018241                                        
+1	,	12745791	,	3	,	Patricio            	,	Pañian         	,	Llinquiman     	,	997879295	,	9-97879295                                        
+1	,	12912706	,	6	,	Pedro Sergio        	,	Aguilera       	,	Perez          	,	978668792	,	9-78668792                                        
+1	,	14086529	,	K	,	Luis Mauricio       	,	Vera           	,	Aguilar        	,	0	,	7-2228980                                         
+1	,	14346287	,	0	,	Ricardo Andres      	,	Velozo         	,	Riffo          	,	992107654	,	9-92107654                                        
+1	,	14440792	,	K	,	Luis                	,	Acevedo        	,	Poblete        	,	958093293	,	9-58093293                                        
+1	,	14467398	,	0	,	Juan Francisco      	,	Moreno         	,	Ramirez        	,	982321229	,	9-82321229                                        
+1	,	15165184	,	4	,	Cristian Alejandro  	,	Velozo         	,	Riffo          	,	941754236	,	9-41754236                                        
+1	,	15984388	,	2	,	Bladimir Cristob    	,	Ortega         	,	Contreras      	,	942699315	,	9-42699315                                        
+1	,	16826138	,	1	,	Claudio Enrique     	,	Painiqueo      	,	Painiqueo      	,	1427912	,	9-89738761                                        
+1	,	14569335	,	7	,	Jose Arturo         	,	Quilapan       	,	Cruces         	,	953939963	,	9-53939963                                        
+1	,	15631440	,	4	,	Jorge Rafael        	,	Hernandez      	,	Gutierrez      	,	0	,	                                                  
+1	,	9375443	,	3	,	Ricardo Abel        	,	Diaz           	,	Carrasco       	,	0	,	7-2533007                                         
+1	,	11742862	,	1	,	Marcelo Alejandro   	,	Manso          	,	Zuñiga         	,	0	,	9-33743782                                        
+1	,	9684333	,	K	,	Enrique Ulises      	,	Gonzalez       	,	Nuñez          	,	0	,	7-2532649                                         
+1	,	9956983	,	2	,	Jose Alejandro      	,	Canales        	,	Vargas         	,	0	,	941118649                                         
+1	,	10994405	,	K	,	Freddy Erickson     	,	Urrutia        	,	Montecinos     	,	0	,	                                                  
+1	,	10600608	,	3	,	Lizandro Alfredo    	,	Hernandez      	,	Arias          	,	958218944	,	9-58218944                                        
+1	,	14383336	,	4	,	Rodrigo Elias       	,	Herrera        	,	Farias         	,	0	,	9-53727238                                        
+1	,	12504514	,	6	,	Marcos Migue        	,	Aranguiz       	,	Guevara        	,	967752274	,	9-67752274                                        
+1	,	9108169	,	5	,	Hernan Enrique      	,	Franco         	,	Araya          	,	0	,	                                                  
+1	,	9147635	,	5	,	Miguel Angel        	,	Chung          	,	Olivares       	,	993481038	,	                                                  
+1	,	9195255	,	6	,	Juan Eduardo        	,	Aguirre        	,	Carrasco       	,	0	,	                                                  
+1	,	9281198	,	0	,	Jose                	,	Marihuen       	,	Castillo       	,	0	,	9-0100680                                         
+1	,	11815484	,	3	,	Antonio Javier      	,	Orellana       	,	Duran          	,	0	,	9-85566627                                        
+1	,	12607355	,	0	,	Gonzalo Pablo       	,	Mamani         	,	Blas           	,	0	,	9-87767221                                        
+1	,	13974914	,	6	,	Fernando Antonio    	,	Diaz           	,	Meneses        	,	0	,	                                                  
+1	,	15039983	,	1	,	Leonardo Andres     	,	Araya          	,	Araya          	,	0	,	9-81780154                                        
+1	,	16422108	,	3	,	Cristian Alfredo    	,	Jara           	,	Castillo       	,	0	,	9-77314444                                        
+1	,	15000606	,	6	,	Roberto Jimmy       	,	Montecinos     	,	Marivil        	,	0	,	8-3711418                                         
+1	,	8159552	,	6	,	Raul Eduardo        	,	Cordova        	,	Ortiz          	,	0	,	4-12363305                                        
+1	,	15180065	,	3	,	Felipe Andres       	,	Arroyo         	,	Ubilla         	,	0	,	                                                  
+1	,	8602559	,	0	,	Pablo David         	,	Fredes         	,	Muñoz          	,	0	,	9-1094853                                         
+1	,	22322704	,	K	,	Misael Victor       	,	Galvan         	,	Gomez          	,	982261964	,	                                                  
+1	,	11486419	,	6	,	Hernan Enrique      	,	Contreras      	,	Salinas        	,	0	,	9-82689860                                        
+1	,	9750948	,	4	,	Jose Patricio       	,	Jofre          	,	Villarroel     	,	0	,	9-40884285                                        
+1	,	9182598	,	8	,	Joaquin Segundo     	,	Saavedra       	,	Olmos          	,	0	,	966413812                                         
+1	,	8012657	,	3	,	Marcos Alfonso      	,	Munizaga       	,	Gimenez        	,	0	,	                                                  
+1	,	12671553	,	6	,	Gustavo Roberto     	,	Morales        	,	Gonzalez       	,	0	,	968444631                                         
+1	,	13080153	,	6	,	Oriel Antonio       	,	Vega           	,	Zamorano       	,	0	,	972149343                                         
+1	,	13644042	,	K	,	Pedro Alfonso       	,	Alvarez        	,	Arancibia      	,	931120799	,	                                                  
+1	,	8350999	,	6	,	Hernan Gregorio     	,	Jorquera       	,	Reyes          	,	0	,	5-12285055                                        
+1	,	22334017	,	2	,	Carlos Alberto      	,	Ochoa          	,	Herrera        	,	0	,	9-84449314                                        
+1	,	8448179	,	3	,	Johnny Omar         	,	Fernandez      	,	Bravo          	,	0	,	9-87322455                                        
+1	,	9410162	,	K	,	Marco Antonio       	,	Silva          	,	Alvarado       	,	0	,	                                                  
+1	,	10404390	,	9	,	Alfonso Eduardo     	,	Roldan         	,	Araya          	,	944791707	,	                                                  
+1	,	7962841	,	7	,	Hernan Mixrael      	,	Siles          	,	Balcarce       	,	934018608	,	9-75675362                                        
+1	,	10313870	,	1	,	Omar Andres         	,	Farias         	,	Oyarce         	,	979324826	,	9-79324826                                        
+1	,	8076471	,	5	,	Guillermo Antonio   	,	Farias         	,	Alvarez        	,	0	,	9-1408147                                         
+1	,	8894177	,	2	,	Eduardo Transito    	,	Aravena        	,	Aranda         	,	0	,	94834740                                          
+1	,	10065412	,	1	,	Luis Jorge          	,	Daguerre       	,	Navarro        	,	989116247	,	9-89116247                                        
+1	,	10117158	,	2	,	Juan Carlos         	,	Pezoa          	,	Brizuela       	,	0	,	3-5235159                                         
+1	,	11360257	,	0	,	Tarik               	,	Ayala          	,	Meza           	,	0	,	3-5289527                                         
+1	,	11710693	,	4	,	Victor Daniel       	,	Uribe          	,	Adriazola      	,	0	,	9-71418300                                        
+1	,	12603992	,	1	,	Pablo Andres        	,	Muñoz          	,	Muñoz          	,	0	,	9-22046392                                        
+1	,	15558891	,	8	,	David Alejandro     	,	Acuña          	,	Bascuñan       	,	982208050	,	9-82208050                                        
+1	,	11776035	,	9	,	Julio Humberto      	,	Araneda        	,	Contreras      	,	0	,	8-6294113                                         
+1	,	8323350	,	8	,	Diego Martin        	,	Pinilla        	,	Torres         	,	78505824	,	                                                  
+1	,	12510454	,	1	,	Rafael Alfonso      	,	Otero          	,	Sepulveda      	,	958528838	,	9-46801128                                        
+1	,	15873422	,	2	,	Francisco Javier    	,	Gutierrez      	,	Messina        	,	979060032	,	9-79060032                                        
+1	,	10781106	,	0	,	Italo Alberto       	,	Godoy          	,	Seguel         	,	994934647	,	9-94934647                                        
+1	,	12895346	,	9	,	Pablo Cesar         	,	Gomez          	,	Leiva          	,	975438500	,	9-75438500                                        
+1	,	8881895	,	4	,	Gervasio Segundo    	,	Lincovilu      	,	Zapata         	,	985460119	,	9-85460119                                        
+1	,	15810557	,	8	,	Cesar Alejandro     	,	Gallegos       	,	Moreno         	,	0	,	9-86680031                                        
+1	,	9841745	,	1	,	Raul Alejandro      	,	Villa          	,	Herrera        	,	997814380	,	9-97814380                                        
+1	,	11473729	,	1	,	Jose Luis           	,	Olguin         	,	Jara           	,	0	,	9-55369990                                        
+1	,	13793271	,	7	,	Sergio Esteban      	,	Gonzalez       	,	Hernandez      	,	0	,	9-50674588                                        
+1	,	15222349	,	8	,	Alexis Antonio      	,	Roa            	,	Castillo       	,	88804812	,	9-88804812                                        
+1	,	11423078	,	2	,	Jose Eleuterio      	,	Rojas          	,	Uribe          	,	0	,	                                                  
+1	,	12136344	,	5	,	Jose Andres         	,	Pirtzl         	,	Rojas          	,	0	,	3-23181064                                        
+1	,	10820647	,	0	,	Paulo Andres        	,	Fernandez      	,	Hervia         	,	989504032	,	8-9504032                                         
+1	,	8184932	,	3	,	Roberto Edgardo     	,	Muñoz          	,	Arias          	,	0	,	3-250611                                          
+1	,	8360855	,	2	,	Jose Patricio       	,	Galvez         	,	Gonzalez       	,	0	,	9-74933990                                        
+1	,	9023433	,	1	,	Eduardo Antonio     	,	Ponce          	,	Roco           	,	0	,	9-61816598                                        
+1	,	9221664	,	0	,	Carlos Antonio      	,	Fuentes        	,	Guerrero       	,	0	,	2-427824                                          
+1	,	9458890	,	1	,	David               	,	Silva          	,	Bravo          	,	0	,	8-4839689                                         
+1	,	9930545	,	2	,	Adinson Esteban     	,	Bernales       	,	Vivanco        	,	0	,	9-54050077                                        
+1	,	11253948	,	4	,	Rolando Angel       	,	Suarez         	,	Navarrete      	,	0	,	9-84904593                                        
+1	,	11400067	,	1	,	Victor Alex         	,	Osorio         	,	Valenzuela     	,	88972526	,	7-8680958                                         
+1	,	11588516	,	2	,	Exequel Paul        	,	Torres         	,	Vidal          	,	0	,	3-23356752                                        
+1	,	12231366	,	2	,	Enzo Guillermo      	,	Bernales       	,	Vivanco        	,	0	,	3-23182488                                        
+1	,	12997854	,	6	,	Patricio            	,	Pailalef       	,	Pailalef       	,	930065870	,	                                                  
+1	,	13367874	,	3	,	Dany Mauricio       	,	Leiva          	,	Venegas        	,	0	,	                                                  
+1	,	15762190	,	4	,	Raul Ariel          	,	Villavicencio  	,	Ogalde         	,	947850187	,	                                                  
+1	,	10862906	,	1	,	Alexis David        	,	Bernales       	,	Vivanco        	,	0	,	3-22760987                                        
+1	,	12081434	,	6	,	Luis Alberto        	,	Jara           	,	Chavez         	,	978638368	,	5-6262140                                         
+1	,	9469052	,	8	,	Eric Humberto       	,	Bernales       	,	Vivanco        	,	0	,	8-7833231                                         
+1	,	10869625	,	7	,	Luis Aquiles        	,	Ramirez        	,	Toloza         	,	0	,	                                                  
+1	,	12078894	,	9	,	Orlando Ciro        	,	Araneda        	,	Rodriguez      	,	0	,	9-46658719                                        
+1	,	13988995	,	9	,	Carlos Enrique      	,	Gajardo        	,	Molina         	,	0	,	3-22953986                                        
+1	,	16034336	,	2	,	Renzo Giovanni      	,	Fortunato      	,	Reveco         	,	0	,	9-71423543                                        
+1	,	12069434	,	0	,	Juan Rodrigo        	,	Araya          	,	Muñoz          	,	0	,	3-22116839                                        
+1	,	10449607	,	5	,	Miguel Angel        	,	Ruz            	,	Villavicencio  	,	0	,	3-22959307                                        
+1	,	9296935	,	5	,	Marco Ivan          	,	Bustamante     	,	Aranda         	,	0	,	3-23277253                                        
+1	,	12624410	,	K	,	Cristian Eliseo     	,	Tapia          	,	Rios           	,	0	,	5-5279011                                         
+1	,	10432175	,	5	,	Juan Francisco      	,	Gonzalez       	,	Vivanco        	,	0	,	                                                  
+1	,	9416270	,	K	,	Marco Antonio       	,	Lara           	,	Flores         	,	0	,	                                                  
+1	,	8021774	,	9	,	Carlos Mauricio     	,	Torres         	,	Astorga        	,	0	,	                                                  
+1	,	10807680	,	1	,	Jose Alberto        	,	Cerda          	,	Amador         	,	999358994	,	9-99358994                                        
+1	,	9513057	,	7	,	Tommy Stuarth       	,	Lange          	,	Poblete        	,	0	,	                                                  
+1	,	13019868	,	6	,	Cristian Alejandro  	,	Ubilla         	,	Araya          	,	0	,	                                                  
+1	,	9413876	,	0	,	Luis Hernaldo       	,	Troncoso       	,	Corona         	,	0	,	                                                  
+1	,	13417521	,	4	,	Ivan Exequiel       	,	Guevara        	,	Bermudez       	,	952904497	,	                                                  
+1	,	13767031	,	3	,	Ricardo Alberto     	,	Arredondo      	,	Quiroz         	,	955248075	,	9-59298600                                        
+1	,	9727305	,	7	,	Raul Hernan         	,	Mendoza        	,	Peralta        	,	0	,	9-78041133                                        
+1	,	15095408	,	8	,	Ignacio Domingo     	,	Perez          	,	Lopez          	,	0	,	9-41850081                                        
+1	,	9362581	,	1	,	Roberto Gabriel     	,	Riquelme       	,	Oñate          	,	0	,	9-57140579                                        
+1	,	12385485	,	3	,	Victor Marcelo      	,	Vargas         	,	Caceres        	,	974315242	,	991631383                                         
+1	,	15558161	,	1	,	Duillio Fabrizio    	,	Astete         	,	Carvajal       	,	956369640	,	                                                  
+1	,	15761864	,	4	,	Michel Alberto Lamec	,	Jofre          	,	Ordenes        	,	989309991	,	                                                  
+1	,	12111219	,	1	,	Hernan Patricio     	,	Cantillano     	,	Cabrera        	,	0	,	944677123                                         
+1	,	17795452	,	7	,	Jorge Andres        	,	Guerra         	,	Barrios        	,	0	,	9-34217760                                        
+1	,	15706555	,	6	,	Francisco Ricardo   	,	Trujillo       	,	Paredes        	,	0	,	9-63991373                                        
+1	,	12452042	,	8	,	Mauro Francisco     	,	Valdes         	,	Fredes         	,	245691	,	9-58043440                                        
+1	,	12283805	,	6	,	Pedro Hugo          	,	Ceron          	,	Charme         	,	0	,	                                                  
+1	,	16455147	,	4	,	Diego Armando       	,	Gonzalez       	,	Ormeño         	,	965035425	,	9-65035425                                        
+1	,	18076921	,	8	,	Moises Andres       	,	Barrios        	,	Araya          	,	0	,	9-59379928                                        
+1	,	10816411	,	5	,	Cesar Alberto       	,	Vasquez        	,	Grandon        	,	0	,	9-31443328                                        
+1	,	14365865	,	1	,	Juan Leonidas       	,	Valderas       	,	Muñoz          	,	979359269	,	                                                  
+1	,	13958309	,	4	,	Marco Antonio       	,	Aravena        	,	Escobar        	,	0	,	9-42947153                                        
+1	,	8830841	,	7	,	Evaristo Conrado    	,	Segovia        	,	Uribe          	,	0	,	9-92140166                                        
+1	,	8837229	,	8	,	Hector              	,	Lopez          	,	Cisterna       	,	0	,	9-99366034                                        
+1	,	11844666	,	6	,	Mauro Hernan        	,	Salas          	,	Silva          	,	0	,	9-31952560                                        
+1	,	11367872	,	0	,	Daniel Benedicto    	,	Mellado        	,	Farfan         	,	0	,	9-90248115                                        
+1	,	8773788	,	8	,	Denis Paul          	,	Basso          	,	Morales        	,	0	,	9-41309329                                        
+1	,	8908015	,	0	,	Mario Alberto       	,	Medina         	,	Yevenes        	,	0	,	9-84329219                                        
+1	,	9041625	,	1	,	Mariano Arturo      	,	Alamos         	,	Galdames       	,	493686	,	
+1	,	9398248	,	7	,	Walter Enrique      	,	Molina         	,	Perez          	,	0	,	9-44124682                                        
+1	,	12997459	,	1	,	Juan Guillermo      	,	Troncoso       	,	Vera           	,	0	,	9-74155203                                        
+1	,	9884739	,	1	,	Boris Nibaldo       	,	Luengo         	,	Salazar        	,	0	,	9-32647648                                        
+1	,	11420220	,	7	,	Juan Carlos         	,	Montecinos     	,	Umaña          	,	0	,	9-92686396                                        
+1	,	6770048	,	1	,	Jose Rafael         	,	Moreno         	,	Donaire        	,	0	,	9-75655113                                        
+1	,	7524442	,	8	,	Mauricio Orlan      	,	Hermosilla     	,	Saint Griere   	,	0	,	9-84285543                                        
+1	,	7548053	,	9	,	Patricio Eduardo    	,	Carrillo       	,	Hofmann        	,	966913044	,	9-66913044                                        
+1	,	7740483	,	K	,	Jose Luis           	,	Sanhueza       	,	Abarza         	,	0	,	9-72929225                                        
+1	,	7744475	,	0	,	Fernando            	,	Cespedes       	,	Moreno         	,	0	,	9-77586913                                        
+1	,	8015328	,	7	,	Miguel Angel        	,	Rojas          	,	Morales        	,	0	,	9-74139264                                        
+1	,	8235719	,	K	,	Juan Fidel          	,	Fuentes        	,	Del Valle      	,	0	,	9-58164596                                        
+1	,	8834269	,	0	,	Isidro Francisco    	,	Sanchez        	,	Sandoval       	,	0	,	9-53464957                                        
+1	,	8839638	,	3	,	Jorge Hernan        	,	Navarrete      	,	Henriquez      	,	0	,	9-88418620                                        
+1	,	9049160	,	1	,	Juan Lorenzo        	,	Burgos         	,	Rubilar        	,	0	,	9-97227336                                        
+1	,	9088107	,	8	,	Mario Heraldo       	,	Leiva          	,	Muñoz          	,	0	,	9-97726214                                        
+1	,	10042645	,	5	,	Raul Hernan         	,	Torres         	,	Arthur         	,	0	,	9-76309943                                        
+1	,	10329511	,	4	,	Hector Marcelo      	,	Caceres        	,	Aravena        	,	0	,	9-79131131                                        
+1	,	10469265	,	6	,	Alvaro Wilfredo     	,	Cerda          	,	Cruz           	,	0	,	9-71213119                                        
+1	,	10613537	,	1	,	Luis Ulises         	,	Muñoz          	,	Salinas        	,	0	,	9-54074811                                        
+1	,	10662117	,	9	,	Mauricio Brian      	,	Rodriguez      	,	Santibañez     	,	0	,	9-40161104                                        
+1	,	10906138	,	7	,	Hernan              	,	Santos         	,	Vejar          	,	0	,	9-54081738                                        
+1	,	11277436	,	K	,	Pavel Igor          	,	Vilches        	,	Garcia         	,	0	,	9-53940320                                        
+1	,	11305803	,	K	,	Mauricio Javier     	,	Aguila         	,	Martino        	,	0	,	9-21783997                                        
+1	,	11399636	,	6	,	Mario Eduardo       	,	Fuentes        	,	Gonzalez       	,	0	,	9-76862027                                        
+1	,	11581143	,	6	,	Hector              	,	Torres         	,	Zambrano       	,	0	,	9-99766834                                        
+1	,	11657863	,	8	,	Osvaldo             	,	Bascur         	,	Zapata         	,	0	,	9-63528640                                        
+1	,	11772782	,	3	,	Manuel Del Carmen   	,	Varela         	,	Oñate          	,	0	,	9-61423459                                        
+1	,	11853853	,	6	,	Juan Esteban        	,	Muñoz          	,	Diaz           	,	0	,	9-6927102                                         
+1	,	11916079	,	0	,	Francisco           	,	Bustos         	,	Torres         	,	0	,	9-76995162                                        
+1	,	11923542	,	1	,	Gonzalo Cristian    	,	Neira          	,	Gomez          	,	66559968	,	6-6559968                                         
+1	,	12337595	,	5	,	Hector Alonso       	,	Muñoz          	,	Poblete        	,	0	,	9-68529615                                        
+1	,	12345462	,	6	,	Mario Alejandro     	,	Mansilla       	,	Santana        	,	0	,	9-92006798                                        
+1	,	12464999	,	4	,	Eduardo Antonio     	,	Valencia       	,	Lobos          	,	85136373	,	9-40687162                                        
+1	,	12506846	,	4	,	Manuel Bautista     	,	Candia         	,	Montecino      	,	0	,	9-48123432                                        
+1	,	8027336	,	3	,	Miguel Angel        	,	Martinez       	,	Torres         	,	0	,	9-81688498                                        
+1	,	12915455	,	1	,	Luis Alfonso        	,	Castro         	,	Pavez          	,	0	,	9-58491628                                        
+1	,	13157391	,	K	,	Juan Ernesto        	,	Garrido        	,	Barriga        	,	0	,	9-93763564                                        
+1	,	14062182	,	K	,	Cesar Carlo         	,	Segura         	,	Aguila         	,	0	,	9-52083854                                        
+1	,	14064092	,	1	,	Samuel Isaias       	,	Inostroza      	,	Quezada        	,	0	,	9-55267345                                        
+1	,	14077745	,	5	,	Victor Hernan       	,	Silva          	,	Cayuqueo       	,	0	,	9-46758070                                        
+1	,	14126183	,	5	,	Jose Luis           	,	Perez          	,	Gonzalez       	,	0	,	9-75303857                                        
+1	,	14242789	,	3	,	Daniel Andres       	,	Cartes         	,	Seguel         	,	0	,	9-78091415                                        
+1	,	14248590	,	7	,	Patricio Andres     	,	Lecaros        	,	Pinela         	,	0	,	9-96444141                                        
+1	,	16050355	,	6	,	Wilson Antonio      	,	Jofre          	,	Pincheira      	,	0	,	9-73007472                                        
+1	,	16737733	,	5	,	Victor Manuel       	,	Molina         	,	Vergara        	,	0	,	9-77399709                                        
+1	,	16980749	,	3	,	Cristian Augusto    	,	Abarzua        	,	Meza           	,	0	,	9-45598041                                        
+1	,	17139426	,	0	,	Victor Andres       	,	Bascuñan       	,	Zuñiga         	,	0	,	9-82627376                                        
+1	,	17173127	,	5	,	Cristian Rodrigo    	,	Huenten        	,	Necul          	,	0	,	9-98402862                                        
+1	,	17713099	,	0	,	Eduardo Eliseo      	,	Andrade        	,	Rodriguez      	,	0	,	9-77998827                                        
+1	,	17755419	,	7	,	Manuel Giannini     	,	Reyes          	,	Navarrete      	,	0	,	9-96503520                                        
+1	,	18070801	,	4	,	Cristian Andres     	,	Ormeño         	,	Huenchual      	,	0	,	9-73374256                                        
+1	,	9507941	,	5	,	Emilio Rolando      	,	Perez          	,	Gonzalez       	,	0	,	9-92765037                                        
+1	,	10754703	,	7	,	Luis Alberto        	,	Quiroz         	,	Castillo       	,	0	,	9-92640564                                        
+1	,	12441116	,	5	,	Manuel Ivan         	,	Arrieta        	,	Arancibia      	,	0	,	9-74410738                                        
+1	,	12885078	,	3	,	Ricardo Alfonso     	,	Garate         	,	Rojas          	,	0	,	9-90015498                                        
+1	,	12872211	,	4	,	Juan Pablo          	,	Sanhueza       	,	Ferrada        	,	0	,	9-68556942                                        
+1	,	14268319	,	9	,	Victor Edgardo      	,	Pavez          	,	Rosales        	,	0	,	9-81737777                                        
+1	,	9253381	,	6	,	Luis Alfonso        	,	Arancibia      	,	Vergara        	,	0	,	9-54202988                                        
+1	,	10187457	,	5	,	Jose Enrique        	,	Loyola         	,	Ordenes        	,	0	,	9-90143945                                        
+1	,	9416605	,	5	,	Carlos Alexis       	,	Miranda        	,	Gonzalez       	,	0	,	9-62011527                                        
+1	,	15900618	,	2	,	Hugo Enrique        	,	Urbina         	,	Chavez         	,	0	,	9-45487810                                        
+1	,	12165771	,	6	,	Julio Cesar         	,	Vasquez        	,	Morales        	,	0	,	9-79962299                                        
+1	,	12983468	,	4	,	Hernan Antonio      	,	Rojas          	,	Torres         	,	0	,	9-92177082                                        
+1	,	8100051	,	4	,	Marco Antonio       	,	Hernandez      	,	Ramirez        	,	0	,	9-90845254                                        
+1	,	12523337	,	6	,	Juan Patricio       	,	Balboa         	,	Navarrete      	,	0	,	9-90069737                                        
+1	,	7765312	,	0	,	Orlando Alberto     	,	Castro         	,	Valdivia       	,	958739504	,	9-58739504                                        
+1	,	8337054	,	8	,	Enrique Eduardo     	,	Vergara        	,	Salas          	,	0	,	9-31726318                                        
+1	,	23968279	,	0	,	Richar              	,	Ampuero        	,	Tarazona       	,	0	,	                                                  
+1	,	16013328	,	7	,	Lizardo Edgardo     	,	Flores         	,	Araneda        	,	0	,	9-68701427                                        
+1	,	11220215	,	3	,	Pablo Justo         	,	Miranda        	,	Rivas          	,	0	,	9-33976924                                        
+1	,	17930037	,	0	,	Juan Amaro          	,	Muñoz          	,	Salinas        	,	0	,	9-67154371                                        
+1	,	12219547	,	3	,	Rigoberto Alberto   	,	Rivera         	,	Rojas          	,	0	,	9-87701610                                        
+1	,	12807288	,	8	,	Luis Hernan         	,	Diaz           	,	Rojas          	,	0	,	9-57164409                                        
+1	,	8295492	,	9	,	Guillermo Enrique   	,	Ossandon       	,	Garcia         	,	0	,	9-61872601                                        
+1	,	9867115	,	3	,	Oscar Eduardo       	,	Leon           	,	Silva          	,	955351404	,	9-55351404                                        
+1	,	17625203	,	0	,	Fernando Nicolas    	,	Cortes         	,	Ardiles        	,	0	,	9-83396908                                        
+1	,	12230542	,	2	,	Marcelo             	,	Aguilera       	,	Villagran      	,	0	,	9-59067013                                        
+1	,	13788952	,	8	,	Jaime Enrique       	,	Yañez          	,	Castillo       	,	0	,	9-77458729                                        
+1	,	15327634	,	K	,	Christian Rodri     	,	Figueroa       	,	Orellana       	,	0	,	9-44191321                                        
+1	,	15849327	,	6	,	David Javier        	,	Huinca         	,	Navarrete      	,	0	,	9-56424155                                        
+1	,	15980093	,	8	,	Rodrigo Alonso      	,	Calupin        	,	Aguilar        	,	0	,	9-90712967                                        
+1	,	17173141	,	0	,	Javier Hernan       	,	Callfupan      	,	Mariqueo       	,	0	,	9-81318876                                        
+1	,	17188156	,	0	,	Marcelo Nehemias    	,	Soto           	,	Parra          	,	0	,	9-25620148                                        
+1	,	19017154	,	K	,	Miguel Gonzalo      	,	Aliaga         	,	Calderon       	,	0	,	9-65670313                                        
+1	,	16553614	,	2	,	Fabian Jesus        	,	Hermosilla     	,	Torres         	,	0	,	9-81486336                                        
+1	,	19124189	,	4	,	Rony Alejandro      	,	Flores         	,	Ulloa          	,	0	,	9-87569326                                        
+1	,	25608904	,	1	,	Joandrin Rafael     	,	Araque         	,	Gonzalez       	,	0	,	9-74483045                                        
+1	,	18745217	,	1	,	Javier Eduardo      	,	Cisterna       	,	Olate          	,	0	,	9-42520072                                        
+1	,	25803789	,	8	,	Meller Antonio      	,	Sanchez        	,	Peña           	,	0	,	9-93743244                                        
+1	,	20870645	,	4	,	Benjamin Esteban    	,	Toloza         	,	Alarcon        	,	0	,	9-36163235                                        
+1	,	19256578	,	2	,	Luis Jonathan       	,	Araya          	,	Cortes         	,	0	,	9-53953794                                        
+1	,	18872962	,	2	,	Jose Daniel         	,	Flores         	,	Catrilao       	,	0	,	9-31767079                                        
+1	,	22552365	,	7	,	Jonathan Enrique    	,	Valdez         	,	Vargas         	,	0	,	9-78751502                                        
+1	,	25736495	,	K	,	Arlex Humberto      	,	Vidal          	,	Solis          	,	0	,	9-75968649                                        
+1	,	22495279	,	1	,	Jesus Alfredo       	,	Sotelo         	,	Rojas          	,	0	,	9-35881334                                        
+1	,	18238485	,	2	,	Manuel Ricardo      	,	Ojeda          	,	Perez          	,	0	,	9-62655176                                        
+1	,	15751719	,	8	,	Rodrigo Ricardo     	,	Bustos         	,	Pavez          	,	0	,	9-64284599                                        
+1	,	10494453	,	1	,	Oscar Heriberto     	,	Carrasco       	,	Araya          	,	0	,	9-37038901                                        
+1	,	27451601	,	1	,	Luis Herney         	,	Hernandez      	,	Palacios       	,	0	,	9-45481625                                        
+1	,	18997607	,	0	,	Juan Patricio       	,	Gonzalez       	,	Valdes         	,	0	,	9-33872381                                        
+1	,	19725164	,	6	,	Gabriel Elias       	,	Balladares     	,	Kloss          	,	0	,	9-65376336                                        
+1	,	26290541	,	1	,	Carlos Smith        	,	De La Rosa     	,	Figuera        	,	0	,	9-95931035                                        
+1	,	16319255	,	1	,	Jose David          	,	Fica           	,	Anabalon       	,	0	,	9-93234352                                        
+1	,	7364656	,	1	,	Rosalindo           	,	Duque          	,	Contreras      	,	0	,	                                                  
+1	,	11738262	,	1	,	Walter Luis         	,	Mercado        	,	Catalan        	,	0	,	6-5944161                                         
+1	,	10345952	,	4	,	Walter Rosalino     	,	Inostroza      	,	Suazo          	,	0	,	2-5114144                                         
+1	,	14076604	,	6	,	Edson Daniel        	,	Troncoso       	,	Saez           	,	0	,	                                                  
+1	,	13858294	,	9	,	Luis Octavio        	,	Sanchez        	,	Rojas          	,	0	,	                                                  
+1	,	9203143	,	8	,	Marco Antonio       	,	Yañez          	,	Oliva          	,	0	,	                                                  
+1	,	21540507	,	9	,	Israel Kenneth      	,	Aguero         	,	Sanchez        	,	0	,	921673483                                         
+1	,	11657995	,	2	,	Richard Ivan        	,	Carrasco       	,	Vasquez        	,	975278205	,	9-75278205                                        
+1	,	18152453	,	7	,	Wladimir Li         	,	Neculhueque    	,	Pitriqueo      	,	0	,	                                                  
+1	,	16715208	,	2	,	Luis Andres         	,	Meneses        	,	Fuentealba     	,	0	,	                                                  
+1	,	9961069	,	7	,	Patricio Francisco  	,	Araya          	,	Ampuero        	,	0	,	                                                  
+1	,	13368826	,	9	,	Mauricio Osvaldo    	,	Quiroz         	,	Piña           	,	0	,	965520837                                         
+1	,	13285563	,	3	,	Pablo Fernando      	,	Gonzalez       	,	Acevedo        	,	78255364	,	
+1	,	11315383	,	0	,	Patricio Eduardo    	,	Acosta         	,	Alvarez        	,	0	,	957001994                                         
+1	,	17154279	,	0	,	Francisco Ivan      	,	Gonzalez       	,	Alvarez        	,	0	,	957001994                                         
+1	,	15463931	,	4	,	Pablo Andres        	,	Berrios        	,	Berrios        	,	931167855	,	931167855                                         
+1	,	10016552	,	K	,	Freddy Henri        	,	Vasquez        	,	Roa            	,	401496	,	
+1	,	18978940	,	8	,	Luis Antonio        	,	Contreras      	,	Neira          	,	5347685	,	
+1	,	14538292	,	0	,	Julio Antonio       	,	Rojas          	,	Cerda          	,	0	,	992312044                                         
+1	,	12236146	,	2	,	Juan Mauricio       	,	Guajardo       	,	Araya          	,	5347685	,	
+1	,	13998486	,	2	,	Jonathan Hernaldo   	,	Soto           	,	Nuñez          	,	0	,	                                                  
+1	,	16700224	,	2	,	Jonathan Eugenio    	,	Navarro        	,	Cabrera        	,	64770185	,	                                                  
+1	,	14176795	,	K	,	Carlos Javier Horaci	,	Acevedo        	,	Vergara        	,	0	,	
+1	,	17473203	,	5	,	Raul Jesus          	,	Osorio         	,	Sanchez        	,	940598119	,	988944399                                         
+1	,	14414470	,	8	,	Jose David          	,	Fuentes        	,	Verdejo        	,	959544851	,	990524948                                         
+1	,	13818118	,	9	,	Juan Federico       	,	Requena        	,	Baez           	,	977632863	,	995272193                                         
+1	,	18361263	,	8	,	Sebastian Patricio  	,	Cancino        	,	Cancino        	,	0	,	971277985                                         
+1	,	12624185	,	2	,	Ruben Miguel Angel  	,	Alvarez        	,	Pangue         	,	0	,	9-44626497                                        
+1	,	12136047	,	0	,	Marcos Enrique      	,	Alfaro         	,	Lopez          	,	493686	,	
+1	,	16239417	,	7	,	Gustavo Andres      	,	Arriagada      	,	Merino         	,	973355555	,	7-3355555                                         
+1	,	11243362	,	7	,	Adolfo Mauricio     	,	Echaurren      	,	Peña           	,	0	,	                                                  
+1	,	16117745	,	8	,	Francisco Alfredo   	,	Garrido        	,	Luengo         	,	0	,	                                                  
+1	,	9878974	,	K	,	Sergio Antonio      	,	Gonzalez       	,	Moraga         	,	0	,	                                                  
+1	,	13192733	,	9	,	Alejandro Enrique   	,	Pedernera      	,	Pimentel       	,	930351884	,	9-30351884                                        
+1	,	10264869	,	2	,	Jussy Jose          	,	Jatib          	,	Silva          	,	0	,	972786535                                         
+1	,	14455158	,	3	,	Carlos Humberto     	,	Retamales      	,	Melgarejo      	,	0	,	920897803                                         
+1	,	21243216	,	4	,	Cristopher Patricio 	,	Muñoz          	,	Oyanedel       	,	0	,	9-88313750                                        
+1	,	8018467	,	0	,	Hector Eugenio      	,	Lagos          	,	Ramirez        	,	0	,	                                                  
+1	,	8427386	,	4	,	Patricio Carmelo    	,	Herrera        	,	Perez          	,	0	,	3-3717603                                         
+1	,	8815320	,	0	,	Juan Eduardo        	,	Jeldes         	,	Veas           	,	0	,	9-76278847                                        
+1	,	9345480	,	4	,	Luis Alberto        	,	Araya          	,	Miranda        	,	0	,	9-83296777                                        
+1	,	9774624	,	9	,	Freddy Andres       	,	Bruna          	,	Vera           	,	0	,	7-414962                                          
+1	,	10106989	,	3	,	Patricio Del Carmen 	,	Araya          	,	Miranda        	,	984417124	,	9-84417124                                        
+1	,	10691924	,	0	,	Belfor Alejo        	,	Reyes          	,	Perez          	,	983409401	,	9-83409401                                        
+1	,	12201365	,	0	,	Wladimir Alejandro  	,	Lopez          	,	Riquelme       	,	0	,	                                                  
+1	,	14253164	,	K	,	Nelson              	,	Recabal        	,	Orellana       	,	981439844	,	9-81439844                                        
+1	,	14314747	,	9	,	Eduardo Patricio    	,	Rodriguez      	,	Valderrama     	,	949759585	,	9-49759585                                        
+1	,	15260751	,	2	,	Cesar Aurelio       	,	Antinao        	,	Llancao        	,	0	,	8-9304268                                         
+1	,	11728714	,	9	,	Jorge Leonel        	,	Negrete        	,	Zamora         	,	0	,	9-48422074                                        
+1	,	15277742	,	6	,	Alex Rene           	,	Arcos          	,	Uribe          	,	979229727	,	9-79229727                                        
+1	,	11361484	,	6	,	Jose Antonio        	,	Fernandez      	,	Avalos         	,	0	,	987876959                                         
+1	,	14067628	,	4	,	Cristian Andres     	,	Meza           	,	Fierro         	,	981916920	,	9-81916920                                        
+1	,	11995729	,	K	,	Carlos Lorenzo      	,	Bustamante     	,	Arevalo        	,	950989033	,	9-50989033                                        
+1	,	16326860	,	4	,	Moises Andres       	,	Sandoval       	,	Otarola        	,	974306521	,	9-74306521                                        
+1	,	13802687	,	6	,	Juan De Dios        	,	Yañez          	,	Vasquez        	,	0	,	8-4408521                                         
+1	,	12284263	,	0	,	Rodrigo Alonso      	,	Ulloa          	,	Silva          	,	89007734	,	9-89007734                                        
+1	,	13289455	,	8	,	Moises Patricio     	,	Henriquez      	,	Fuentes        	,	955285429	,	9-55285429                                        
+1	,	11674762	,	6	,	Jose Andres         	,	Valenzuela     	,	Ponce          	,	958568113	,	9-58568113                                        
+1	,	15202373	,	1	,	Cristian Gonzalo    	,	Martinez       	,	Aravena        	,	997207861	,	9-97207861                                        
+1	,	16628061	,	3	,	Victor Marcelo      	,	Lagos          	,	Perez          	,	0	,	9-58861999                                        
+1	,	16012524	,	1	,	Manuel Luciano      	,	Gonzalez       	,	Muñoz          	,	979523231	,	9-79523231                                        
+1	,	12238663	,	5	,	Ramon Alfredo       	,	Moreno         	,	Otazo          	,	921604272	,	9-21604272                                        
+1	,	16061864	,	7	,	Edsson Ulises       	,	Arias          	,	Soto           	,	0	,	987876959                                         
+1	,	15155061	,	4	,	Edgardo Enrique     	,	Quintana       	,	Rios           	,	950434777	,	9-50434777                                        
+1	,	12409031	,	8	,	Paul Albert         	,	Cofre          	,	Correa         	,	973387532	,	9-73387532                                        
+1	,	11637032	,	8	,	Sandra Paola        	,	Donoso         	,	Del Rio        	,	62315266	,	6-2315266                                         
+1	,	10241591	,	4	,	Carlos Manuel       	,	Navarrete      	,	Contreras      	,	940121612	,	9-40121612                                        
+1	,	15444100	,	K	,	Francisco Javier    	,	Mondaca        	,	Figueroa       	,	0	,	                                                  
+1	,	7209038	,	1	,	Victor Gabriel      	,	Saez           	,	Avendaño       	,	0	,	2-910172                                          
+1	,	7697920	,	0	,	Sylvia Del Carmen   	,	Henriquez      	,	Mendez         	,	0	,	2-7710040                                         
+1	,	7194320	,	8	,	Omar Eduardo        	,	Bolbaran       	,	Ossandon       	,	0	,	5-213581                                          
+1	,	7537828	,	9	,	Juan Carlos         	,	Muñoz          	,	Navarro        	,	0	,	4-748729                                          
+1	,	8409100	,	6	,	Saul Esteban        	,	Aliaga         	,	Carrasco       	,	0	,	8-9286524                                         
+1	,	8984611	,	0	,	Jose Alberto        	,	Narvaez        	,	Vega           	,	0	,	                                                  
+1	,	9773035	,	0	,	Carlos Enrique      	,	Contreras      	,	Vilches        	,	0	,	                                                  
+1	,	10867089	,	4	,	Luciano De La Cruz  	,	Correa         	,	Cadiz          	,	0	,	6-498639                                          
+1	,	12457907	,	4	,	Gonzalo Ignacio     	,	Olea           	,	Lettich        	,	0	,	5-141482                                          
+1	,	7753513	,	6	,	Juan Hictaro        	,	Bustamante     	,	Salinas        	,	0	,	                                                  
+1	,	7986199	,	5	,	Marianela Elizabeth 	,	Villa          	,	Contreras      	,	0	,	2-4912348                                         
+1	,	9032777	,	1	,	Humberto Aristides  	,	Quintana       	,	Valdes         	,	0	,	                                                  
+1	,	10840855	,	3	,	Hector Ivan         	,	Acevedo        	,	Soto           	,	0	,	                                                  
+1	,	11294455	,	9	,	Cristian Alberto    	,	Sanchez        	,	Fica           	,	0	,	                                                  
+1	,	9855442	,	4	,	Sotero Emilio       	,	Moran          	,	Silva          	,	0	,	                                                  
+1	,	10488102	,	5	,	Marcial Alberto     	,	Muñoz          	,	Garcia         	,	0	,	2-6719204                                         
+1	,	10757674	,	6	,	Marco Antonio       	,	Aguilera       	,	Quiroz         	,	0	,	                                                  
+1	,	10633808	,	6	,	Luis Armando        	,	Gajardo        	,	Campos         	,	0	,	                                                  
+1	,	9253335	,	2	,	Domingo Alonso      	,	Candia         	,	Acuña          	,	0	,	                                                  
+1	,	10207948	,	5	,	Luis Armando        	,	Mondaca        	,	Droguett       	,	0	,	                                                  
+1	,	9470514	,	2	,	Jorge Luis          	,	Aguirre        	,	Castro         	,	0	,	                                                  
+1	,	10081415	,	3	,	Roberto Caupolican  	,	Lopez          	,	Morales        	,	0	,	983616039                                         
+1	,	16912916	,	9	,	Luis Ignacio        	,	Muñoz          	,	Bascuñan       	,	0	,	961490581                                         
+1	,	9496899	,	2	,	Pablo Alfonso       	,	Cabezas        	,	Vargas         	,	0	,	9811589534                                        
+1	,	12651743	,	2	,	Jose Ramon          	,	Escobar        	,	Arias          	,	0	,	                                                  
+1	,	13286747	,	K	,	Rene Paulino        	,	Espinoza       	,	Baquedano      	,	0	,	                                                  
+1	,	9497024	,	5	,	Ivan Eugenio        	,	Fuentes        	,	Macaya         	,	0	,	                                                  
+1	,	19487030	,	2	,	Jose Daniel         	,	Leiva          	,	Sobarzo        	,	0	,	                                                  
+1	,	10057335	,	0	,	Gerardo Christian   	,	Gormaz         	,	De Juan        	,	0	,	                                                  
+1	,	9669882	,	8	,	Fernando Francisco  	,	Vasquez        	,	Corvalan       	,	0	,	                                                  
+1	,	10995013	,	0	,	Rodrigo Esteban     	,	Gonzalez       	,	Riveros        	,	0	,	                                                  
+1	,	13058240	,	0	,	Cesar Raul          	,	Caipillan      	,	Landaeta       	,	0	,	                                                  
+1	,	15777467	,	0	,	Cristian Miguel     	,	Alarcon        	,	Sanchez        	,	0	,	                                                  
+1	,	13488455	,	K	,	Jose Luis           	,	Diaz           	,	Zamora         	,	0	,	                                                  
+1	,	17769928	,	4	,	Yerko Alejandro     	,	Morales        	,	Madariaga      	,	0	,	                                                  
+1	,	9295369	,	6	,	Alejandro Igor      	,	Contreras      	,	Beltran        	,	0	,	                                                  
+1	,	14307597	,	4	,	Daniel Jacob        	,	Delgado        	,	Garrido        	,	0	,	                                                  
+1	,	9150106	,	6	,	Constantino Eladio  	,	Peña           	,	Carrasco       	,	0	,	                                                  
+1	,	17422290	,	8	,	Jorge Eduardo       	,	Fuentealba     	,	Queutre        	,	0	,	                                                  
+1	,	8117935	,	2	,	Patricia Del Carmen 	,	Alvarado       	,	Abarca         	,	0	,	                                                  
+1	,	11594418	,	5	,	Miguel Alejandro    	,	Gomez          	,	Altamirano     	,	0	,	                                                  
+1	,	10845720	,	1	,	Julio Ignacio       	,	Freire         	,	Lillo          	,	0	,	                                                  
+1	,	10562582	,	0	,	Julio Humberto      	,	Mancilla       	,	Lara           	,	0	,	                                                  
+1	,	12504898	,	6	,	Miguel Angel        	,	Muñoz          	,	Salas          	,	0	,	                                                  
+1	,	13828973	,	7	,	Jose Luis           	,	Gonzalez       	,	Marin          	,	0	,	                                                  
+1	,	10065422	,	9	,	Claudio Ivan        	,	Rodriguez      	,	Guzman         	,	0	,	                                                  
+1	,	12987905	,	K	,	Eliser Arnoldo      	,	Rodriguez      	,	Riveras        	,	0	,	                                                  
+1	,	9788331	,	9	,	Fernando Andres     	,	Marin          	,	Pinto          	,	0	,	                                                  
+1	,	15957871	,	2	,	Fabiola Estela      	,	Tranamil       	,	Traipe         	,	0	,	                                                  
+1	,	9635162	,	3	,	Jose Francisco      	,	Guzman         	,	Montiel        	,	0	,	                                                  
+1	,	10024094	,	7	,	Jaime Hugo          	,	Riveros        	,	Sandoval       	,	0	,	                                                  
+1	,	12683621	,	K	,	Rodrigo Claudio     	,	Gutierrez      	,	Diaz           	,	0	,	                                                  
+1	,	15481042	,	0	,	Raul Enrique        	,	Arias          	,	Ordoñez        	,	0	,	                                                  
+1	,	9381693	,	5	,	Gloria Estrella     	,	Iturrieta      	,	Barra          	,	0	,	                                                  
+1	,	17381633	,	2	,	Jean Alfredo        	,	Olivares       	,	Guiñez         	,	0	,	                                                  
+1	,	9029080	,	0	,	Juan Carlos         	,	Ramirez        	,	Collao         	,	0	,	                                                  
+1	,	9979099	,	7	,	Octavio Enrique     	,	Ortega         	,	Vera           	,	0	,	95480024                                          
+1	,	8590253	,	9	,	Alfredo             	,	Borquez        	,	Belmar         	,	0	,	                                                  
+1	,	11435356	,	6	,	Oscar Eugenio       	,	Gatica         	,	Navarro        	,	0	,	8-4076598                                         
+1	,	10354301	,	0	,	Pedro Antonio       	,	Vargas         	,	Campos         	,	0	,	93154050                                          
+1	,	11643999	,	9	,	Carlos Antonio      	,	Ramos          	,	Suarez         	,	0	,	                                                  
+1	,	14433155	,	9	,	Jaime Enrique       	,	Peñailillo     	,	Arevalo        	,	0	,	8-508543                                          
+1	,	9636674	,	4	,	Patricio            	,	Arriagada      	,	Gallardo       	,	0	,	7-7118753                                         
+1	,	6876928	,	0	,	Luis Alberto        	,	Ayala          	,	Ortega         	,	0	,	98830200                                          
+1	,	14486072	,	1	,	Francisco Javier    	,	Gonzalez       	,	Velasquez      	,	240274	,	9-6828793                                         
+1	,	7898640	,	9	,	Pedro Antonio       	,	Vargas         	,	Correa         	,	0	,	9-74894644                                        
+1	,	15536435	,	1	,	Danny Bastian       	,	Martinez       	,	Salazar        	,	0	,	                                                  
