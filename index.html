@@ -50,7 +50,7 @@ function leerArchivoTexto(nombreArchivo, callback) {
 // Función para crear la tabla HTML desde el contenido del archivo de texto
 function crearTablaDesdeTexto(contenido) {
     var lineas = contenido.split('\n');
-    var tablaHTML = '<table border="1">';
+    var tablaHTML = '<table border="0">';
     
     // Construir filas y celdas de la tabla
     lineas.forEach(function(linea) {
