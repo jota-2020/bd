@@ -31,7 +31,7 @@ header{
     left: 0px;
     height: 5%;
     width: 100%;
-    background-color: rgba(23, 56, 32, 0.625);
+    background-color: rgba(23, 56, 32, 0.9);
     z-index: 999;
 }
 #menu h1{
