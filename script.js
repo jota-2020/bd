@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const palabraClaveInput = document.getElementById('palabraClave');
     const resultadosDiv = document.getElementById('resultados');
-    const parrafo = 'Este es un ejemplo de texto donde puedes buscar palabras clave. Puedes probar buscando palabras como "ejemplo", "buscar" o "palabras" en este párrafo.';
+    const parrafo = tablaBD;
 
     palabraClaveInput.addEventListener('input', function () {
         const palabraClave = palabraClaveInput.value.toLowerCase();
