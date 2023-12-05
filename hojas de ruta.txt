@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Tiempo</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+</head>
+
+<body>
+    <div id="hojaDeruta">
+        <!-- Tu contenido aquí -->
+    </div>
+
+    <script>
+        function generarTabla() {
+        var nombre = document.getElementById("nombre").value;
+        var rut = document.getElementById("rut").value;
+        var cargo = document.getElementById("cargo").value;
+        var tramo = document.getElementById("tramo").value;
+        var bus = document.getElementById("bus").value;
+        var motivo = document.getElementById("motivo").value;
+        var operador = document.getElementById("operador").value;
+
+        var tablaHTML = `
+            <table>
+<img src="https://telegra.ph/file/8526086d487cc225c9dbf.jpg" />
+
+
+                <tr>
+                    <th>NOMBRE COMPLETO</th>
+                    <td>${nombre}</td>
+                </tr>
+                <tr>
+                    <th>RUT</th>
+                    <td>${rut}</td>
+                </tr>
+                <tr>
+                    <th>CARGO</th>
+                    <td>${cargo}</td>
+                </tr>
+                <tr>
+                    <th>TRAMO</th>
+                    <td>${tramo}</td>
+                </tr>
+                <tr>
+                    <th>NUMERO DE BUS</th>
+                    <td>${bus}</td>
+                </tr>
+                <tr>
+                    <th>MOTIVO</th>
+                    <td>${motivo}</td>
+                </tr>
+                <tr>
+                    <th>Operador Monitoreo</th>
+                    <td>${operador}</td>
+                </tr>
+            </table>
+        `;
+
+        document.getElementById("tabla-container").innerHTML = tablaHTML;
+    }
+
+
+        function descargarPDF() {
+            var hojaDeruta = document.getElementById("hojaDeruta");
+
+            var pdf = new jsPDF();
+            pdf.addHTML(hojaDeruta, function() {
+                pdf.save("hojaDeruta.pdf");
+            });
+        }
+    </script>
+
+    <div class="grid-container">
+  <div class="grid-item">Actividad a realizar (marcacion)</div>
+  <div class="grid-item">Fecha y hora de marcacion</div>
+  <div class="grid-item">Lugar de marcacion</div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+<div class="grid-item"></div>
+</div>
+    <form id="formulario">
+       <form id="formulario">
+    <label for="nombre">Nombre Tripulante:</label>
+    <input type="text" id="nombre" name="nombre" required><br><br>
+
+    <label for="rut">RUT:</label>
+    <input type="text" id="rut" name="rut" required><br><br>
+
+    <label for="cargo">Cargo:</label>
+    <input type="text" id="cargo" name="cargo" required><br><br>
+
+    <label for="tramo">Tramo:</label>
+    <input type="text" id="tramo" name="tramo" required><br><br>
+
+    <label for="bus">Número de Bus:</label>
+    <input type="text" id="bus" name="bus" required><br><br>
+
+    <label for="motivo">Motivo:</label>
+    <input type="text" id="motivo" name="motivo" required><br><br>
+
+    <label for="operador">Operador Monitoreo:</label>
+    <input type="text" id="operador" name="operador" required><br><br>
+        <button type="button" onclick="generarTabla()">Generar Tabla</button>
+        <button type="button" onclick="descargarPDF()">DESCARGAR</button>
+    </form>
+
+   <style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9ACD32;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4d9c2d;
+}
+
+label {
+    color: #4d9c2d;
+    font-weight: bold;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #4d9c2d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9ACD32;
+}
+
+/* Estilos para alertas */
+.alert {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    color: #4d9c2d;
+}
+
+/* Estilos para botones */
+.btn-primary {
+    background-color: #4d9c2d;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.btn-primary:hover {
+    background-color: #9ACD32;
+}
+</style>
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            
+        }
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  
+  padding: 10px;
+}
+
+.grid-item {
+  
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+    </style>
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generar Tabla</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: left;
+    }
+
+    th {
+      
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      padding: 10px;
+    }
+
+    .grid-item {
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 20px;
+      font-size: 20px;
+      text-align: center;
+    }
+  </style>
+  <script>
+    function generarTabla() {
+      // Obtener los valores de los input del formulario
+      var nombre = document.getElementById("nombre").value;
+      var rut = document.getElementById("rut").value;
+      var cargo = document.getElementById("cargo").value;
+      var tramo = document.getElementById("tramo").value;
+      var fechaHora = document.getElementById("fechaHora").value;
+      var numBus = document.getElementById("numBus").value;
+      var motivo = document.getElementById("motivo").value;
+      var operador = document.getElementById("operador").value;
+
+      // Construir la tabla con los datos del formulario
+      var tabla = "<table border='1'><tr><th>NOMBRE TRIPULANTE</th><th>RUT</th><th>CARGO</th><th>TRAMO</th><th>FECHA Y HORA</th><th>NUMERO BUS</th><th>MOTIVO</th><th>OPERADOR MONITOREO</th></tr>";
+      tabla += "<tr><td>" + nombre + "</td><td>" + rut + "</td><td>" + cargo + "</td><td>" + tramo + "</td><td>" + fechaHora + "</td><td>" + numBus + "</td><td>" + motivo + "</td><td>" + operador + "</td></tr>";
+      tabla += "</table>";
+
+      // Abrir una nueva ventana con la tabla y el contenido adicional
+      var nuevaVentana = window.open('', '_blank');
+      nuevaVentana.document.open();
+      nuevaVentana.document.write(tabla);
+
+      // Agregar el contenido adicional
+      nuevaVentana.document.write("<div class='grid-container'>");
+      nuevaVentana.document.write("<div class='grid-item'>Actividad a realizar (marcacion)</div>");
+      nuevaVentana.document.write("<div class='grid-item'>Fecha y hora de marcacion</div>");
+      nuevaVentana.document.write("<div class='grid-item'>Lugar de marcacion</div>");
+      // Puedes agregar más elementos aquí según sea necesario
+      nuevaVentana.document.write("</div>");
+
+      nuevaVentana.document.close();
+    }
+  </script>
+</head>
+<body>
+  <form>
+    <label for="nombre">NOMBRE TRIPULANTE:</label>
+    <input type="text" id="nombre"><br>
+
+    <label for="rut">RUT:</label>
+    <input type="text" id="rut"><br>
+
+    <label for="cargo">CARGO:</label>
+    <input type="text" id="cargo"><br>
+
+    <label for="tramo">TRAMO:</label>
+    <input type="text" id="tramo"><br>
+
+    <label for="fechaHora">FECHA Y HORA:</label>
+    <input type="text" id="fechaHora"><br>
+
+    <label for="numBus">NUMERO BUS:</label>
+    <input type="text" id="numBus"><br>
+
+    <label for="motivo">MOTIVO:</label>
+    <input type="text" id="motivo"><br>
+
+    <label for="operador">OPERADOR MONITOREO:</label>
+    <input type="text" id="operador"><br>
+
+    <button type="button" onclick="generarTabla()">Generar HDR</button>
+  </form>
+</body>
+</html>

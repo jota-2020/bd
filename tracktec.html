@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manejo de Casos</title>
+<div class="menu">
+        <a href="index.html" class="menu-item">Inicio</a>
+        <a href="https://login.mypurecloud.com/" class="menu-item">Genesys</a>
+        <a href="https://www.sacel.cl/" class="menu-item">Sacel</a>
+        <a href="file:///C:/Users/control.monitoreo/OneDrive%20-%20Turbus/contactos/contactos.html" class="menu-item">Contactos</a>
+        <a href="https://gtppersonas.buk.cl/users/sign_in#liquidaciones/188818" class="menu-item">Buk</a>
+        <a href="buscar_jt.html" class="menu-item">Buscar JT</a>
+        <a href="tracktec.html" class="menu-item">Gestion Tractec</a>
+        <a href="novedades.html" class="menu-item">Correo Novedades</a>
+    </div>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="estilos.css">
+<div class="center">
+  <h2>Manejo de Casos</h2>
+
+   <label for="opciones">Seleccione una opción:</label>
+<p>
+  <select id="opciones">
+    <option value="exceso">EXCESO DE VELOCIDAD</option>
+    <option value="conduccionSacel">CONDUCCIÓN SACEL</option>
+    <option value="descansoSacel">DESCANSO SACEL</option>
+    <option value="findeJornada">FIN DE JORNADA</option>
+    <option value="servicioFinalizado">SERVICIO FINALIZADO</option>
+    <option value="errorConduccion">Error Conducción</option>
+    <option value="8de24Cumplido">8/24 cumplido</option>
+    <option value="rangoInferior">Rango Inferior</option>
+    <option value="_">----Llamada----</option>
+    <option value="descansoOk">Llamada Descanso</option>
+    <option value="conduccionOk">Llamada Conducción</option>
+    <option value="sinContacto">Sin contacto</option>
+    <option value="_">------------</option>
+    <option value="aeropuerto">Aeropuerto</option>
+    <option value="mantenimiento">Mantenimiento</option>
+    <option value="pilay">Pilay</option>
+    <option value="bus_Escuela">Bus Escuela</option>
+    <option value="sinInfo">Sin Info</option>
+    <option value="_">-----correo-----</option>
+    <option value="sinCorreo">Sin Conductor Correo</option>
+    <option value="hdr">HRD Correo</option>
+  </select>
+
+  <br><br>
+
+  <label for="nombre">Nombre de Tripulante:</label>
+<p>
+  <input type="text" id="nombre">
+
+  <br><br>
+
+  <button onclick="generarTexto()">Generar Texto y Copiar</button>
+
+  <script>
+    function generarTexto() {
+      var opcion = document.getElementById("opciones").value;
+      var nombre = document.getElementById("nombre").value;
+      var resultado = "";
+
+      switch (opcion) {
+        case "exceso":
+          resultado = "CASO EN SEGUIMIENTO";
+          break;
+        case "sinCorreo":
+          resultado = "NO SE LOGRA CONTACTO CON TRIPULANTE " + nombre + ", SE ENVÍA CORREO A JT Y TRAFICO CON HORARIO MÁXIMO DE CONDUCCIÓN A LAS ";
+          break;
+        case "servicioFinalizado":
+          resultado = "SERVICIO FINALIZADO/ TRIPULANTES CON FIN DE JORNADA/BUS DETENIDO ";
+          break;
+        case "hdr":
+          resultado = "Según lo verificado se autoriza hoda de ruta para tripulante "+ nombre +" que cubre servicio __-__ de __:__ . Cabe señalar que HDR es solo para FECHA-HORA y tramo antes señalado. Debiendo resolver en destino con tarjeta provisoria o definitiva según corresponda. Favor hacer llegar la HDR una vez finalizado el servicio.";
+          break;
+        case "sinContacto":
+          resultado = "SIN CONTACTO CON TRIPULANTE " + nombre + ".";
+          break;
+        case "8de24Cumplido":
+          resultado = "TRIPULANTE " + nombre + "CON DESCANSO 8/24 CUMPLIDO";
+          break;
+        case "conduccionOk":
+          resultado = "SE CONVERSA CON " + nombre + " ENTREGANDO INFORMACION DE LA ALERTA";
+          break;
+        case "rangoInferior":
+          resultado = "TRIPULANTE " + nombre + " REALIZA CONDUCCIÓN CORTA AL INICIO DEL SERVICIO- SE VERIFICA EN SACEL.";
+          break;
+        case "errorConduccion":
+          resultado = "TRIPULANTE " + nombre + " EN CONDUCCIÓN ERROR DE SISTEMA FALTA CORRELATIVO";
+          break;
+        case "findeJornada":
+          resultado = "TRIPULANTE " + nombre + " MARCA FIN DE JORNADA / SE VERIFICA EN SACEL";
+          break;
+        case "aeropuerto":
+        case "mantenimiento":
+        case "pilay":
+        case "bus_Escuela":
+          resultado = opcion.toUpperCase(); // Copia exactamente el nombre de la opción
+          break;
+        case "sinInfo":
+          resultado = "SIN INFORMACION DE TRIPULANTE EN SACEL/ZEUS";
+          break;
+        case "conduccionSacel":
+          resultado = "TRIPULANTE " + nombre + " MARCA CONDUCCIÓN / SE VERIFICA EN SACEL";
+          break;
+        case "descansoSacel":
+          resultado = "TRIPULANTE " + nombre + " MARCA DESCANSO / SE VERIFICA EN SACEL";
+          break;
+        default:
+          resultado = "Opción no válida";
+      }
+
+      // Copiar el texto al portapapeles
+      var textoTemporal = document.createElement("textarea");
+      document.body.appendChild(textoTemporal);
+      textoTemporal.value = resultado;
+      textoTemporal.select();
+      document.execCommand("copy");
+      document.body.removeChild(textoTemporal);
+
+      // Puedes imprimir el resultado en la consola o realizar otras acciones según tus necesidades
+      console.log(resultado);
+    }
+  </script>
+
+</div>
+<style>
+.center{
+   position:absolute;
+   left:35%;
+   top:10%;
+   bottom:30%;
+   width:40%;
+   height:40%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ecf9d0;
+    color: #333333;
+    z-index:999
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9ACD32;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4d9c2d;
+}
+
+label {
+    color: #4d9c2d;
+    font-weight: bold;
+    z-index:999
+}
+
+/* Estilos para enlaces */
+a {
+    color: #4d9c2d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9ACD32;
+}
+
+/* Estilos para alertas */
+.alert {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    color: #4d9c2d;
+}
+
+/* Estilos para botones */
+.btn-primary {
+    background-color: #4d9c2d;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.btn-primary:hover {
+    background-color: #9ACD32;
+}
+#opciones {
+background-color:#9ACD32;
+    color: #ffffff;
+    border: 1;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 10px 20px;
+z-index:999
+}
+#opciones:active{
+    background-color: #4d9c2d;
+.nombre {
+z-index:999
+}
+
+</style>
+
+</body>
+</html>

@@ -1,28 +1,75 @@
-/* Estilo para la tabla */
-#myTable {
-  font-family: Arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
+<html>
+<head>
+</head>
+<body>
+<h1>Exceso de velocidad legal</h1>
+<p>criterio</p>
+<div class="grid-container">
+  <div class="grid-item">Excesos reiterados (menor a 5) y < 110 km/h.</div>
+  <div class="grid-item">Excesos reiterados (desde 5) entre 103 y 109 km/h.
+</div>
+  <div class="grid-item">Excesos desde 110 km/h.
+</div>
+  <div class="grid-item">Excesos desde 120 km/h.
+</div>
 
-#myTable th, #myTable td {
-  border: 1px solid #4d9c2d; /* Color del borde de las celdas */
-  padding: 8px;
+</div>
+
+<!-- seccion-->
+<p>Gestion Corta Distancia</p>
+<div class="grid-container">
+  <div class="grid-item">Ingresar: Caso en seguimiento.
+</div>
+  <div class="grid-item">Revisar maquina en Sacel > Exceso de velocidad. Enviar Correo.
+</div>
+  <div class="grid-item">Llamar según Script.
+</div>
+  <div class="grid-item">Enviar correo a tráfico para que se genere OT.
+</div>
+
+</div>
+<!-- seccion-->
+<p>Gestion larga Distancia</p>
+<div class="grid-container">
+  <div class="grid-item">Ingresar: Caso en seguimiento.
+</div>
+  <div class="grid-item">Revisar maquina en Sacel > Exceso de velocidad. Enviar Correo.
+</div>
+  <div class="grid-item">Llamar a Asistente, de no concretar, llamar a conductor según Script.
+</div>
+  <div class="grid-item">Enviar correo a tráfico para que se genere OT.
+</div>
+
+</div>
+<!-- seccion-->
+<p>Tracktec</p>
+<div class="tracktec">
+  <div class="grid-item">Ingresar: Caso en seguimiento.
+</div>
+  <div class="grid-item">Se envía correo a JT y tráfico por excesos reiterados entre 103 y 109 Km/h
+</div>
+  <div class="grid-item">Se conversa con XXXX entregando información de la alerta.
+</div>
+  <div class="grid-item">Se envía correo a tráfico para que se genere una OT.
+</div>
+
+</div>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  background-color: #9ACD32;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(154, 205, 50, 0.8);
+  padding: 20px;
+  font-size: 18px;
   text-align: left;
 }
-
-#myTable th {
-  background-color: #9ACD32; /* Color de fondo para los encabezados */
-  color: white; /* Color del texto de los encabezados */
-}
-
-#myTable tr:nth-child(even) {
-  background-color: #f2f2f2; /* Color de fondo para las filas pares */
-}
-
-#myTable tr:hover {
-  background-color: #ddd; /* Color de fondo al pasar el mouse sobre las filas */
-}
+</style>
+<style>
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -177,3 +224,6 @@ a:hover {
 .btn-primary:hover {
     background-color: #9ACD32;
 }
+</style>
+</body>
+</html>

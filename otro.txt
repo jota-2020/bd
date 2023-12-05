@@ -1,0 +1,46 @@
+<input type="text" id="hora1" placeholder="hh:mm:ss">
+<input type="text" id="hora2" placeholder="hh:mm:ss">
+<button onclick="restarFechas()">Calcular</button>
+<div id="resultado"></div>
+<script>
+function restarFechas() {
+    var hora1Texto = document.getElementById('hora1').value;
+    var hora2Texto = document.getElementById('hora2').value;
+
+    var partesHora1 = hora1Texto.split(":");
+    var partesHora2 = hora2Texto.split(":");
+
+    var horas1 = parseInt(partesHora1[0]);
+    var minutos1 = parseInt(partesHora1[1]);
+    var segundos1 = parseInt(partesHora1[2]);
+
+    var horas2 = parseInt(partesHora2[0]);
+    var minutos2 = parseInt(partesHora2[1]);
+    var segundos2 = parseInt(partesHora2[2]);
+
+    // Calcular la diferencia de horas, minutos y segundos
+    var diferenciaHoras = horas2 - horas1;
+    var diferenciaMinutos = minutos2 - minutos1;
+    var diferenciaSegundos = segundos2 - segundos1;
+
+    // Sumar 2 horas a la diferencia
+    diferenciaHoras += 2;
+
+    // Calcular el total en segundos
+    var totalSegundos = diferenciaHoras * 3600 + diferenciaMinutos * 60 + diferenciaSegundos;
+
+    // Dividir por 5 horas
+    var resultadoSegundos = (totalSegundos * 5) / 3600;
+
+    // Calcular horas, minutos y segundos del resultado
+    var horasResultado = Math.floor(resultadoSegundos / 3600);
+    var minutosResultado = Math.floor((resultadoSegundos % 3600) / 60);
+    var segundosResultado = resultadoSegundos % 60;
+
+    // Formatear el resultado en formato hh:mm:ss
+    var resultadoFinal = formatarNumero(horasResultado) + ":" + formatarNumero(minutosResultado) + ":" + formatarNumero(segundosResultado);
+
+    // Mostrar el resultado en el elemento con id "resultado"
+    document.getElementById('resultado').innerText = `Resultado: ${resultadoFinal}`;
+}
+</script>

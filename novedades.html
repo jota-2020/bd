@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario de Novedades</title>
+</head>
+<body>
+<div class="menu">
+        <a href="index.html" class="menu-item">Inicio</a>
+        <a href="https://login.mypurecloud.com/" class="menu-item">Genesys</a>
+        <a href="https://www.sacel.cl/" class="menu-item">Sacel</a>
+        <a href="file:///C:/Users/control.monitoreo/OneDrive%20-%20Turbus/contactos/contactos.html" class="menu-item">Contactos</a>
+        <a href="https://gtppersonas.buk.cl/users/sign_in#liquidaciones/188818" class="menu-item">Buk</a>
+        <a href="buscar_jt.html" class="menu-item">Buscar JT</a>
+        <a href="tracktec.html" class="menu-item">Gestion Tractec</a>
+        <a href="novedades.html" class="menu-item">Correo Novedades</a>
+    </div>
+
+<div id="correoSeleccion"></div>
+  <h1>Formulario de Novedades</h1>
+
+  <form id="formularioNovedades">
+    <label for="turno">Seleccione el turno:</label>
+    <select id="turno" name="turno">
+      <option value="Turno A">Turno A</option>
+      <option value="Turno B">Turno B</option>
+      <option value="Turno C">Turno C</option>
+      <option value="Turno R">Turno R</option>
+    </select>
+    <br>
+<p>
+    <p>Buen día. Junto con saludar, adjunto novedades del <span id="turnoSeleccion"></span>.</p>
+
+    <label>Seleccione las opciones:</label>
+<p>
+    <div>
+<p>---GESTION---</p>
+      <input type="checkbox" id="opcion1" name="opciones" value="Se atienden llamadas desde el celular de monitoreo.">
+      <label for="opcion1">Se atienden llamadas desde el celular de monitoreo</label>
+      <br>
+      <input type="checkbox" id="opcion2" name="opciones" value="Se gestiona Tracktec.">
+      <label for="opcion2">Se gestiona Tracktec</label>
+      <br>
+      <input type="checkbox" id="opcion3" name="opciones" value="Se gestiona planilla descansos programados insuficientes.">
+      <label for="opcion3">Descansos Programados Insuficientes</label>
+      <br>
+      <input type="checkbox" id="opcion4" name="opciones" value="Se gestiona Correo Alcoholtest.">
+      <label for="opcion4">Alcoholtest</label>
+      <br>
+      <input type="checkbox" id="opcion19" name="opciones" value="Se gestiona planilla descansos proporcionales.">
+      <label for="opcion19">Proporcionales</label>
+      <br>
+      <input type="checkbox" id="opcion17" name="opciones" value="Se gestiona planilla monitoreo flota.">
+      <label for="opcion17">Monitoreo Flota</label>
+      <br>
+<p>
+<p>---TURBUS CONDOR---</p>
+      <input type="checkbox" id="opcion5" name="opciones" value="Se gestiona planilla TB - CB de las 08:00 a 16:00.">
+      <label for="opcion5">TB-CB 08 A 16</label>
+      <br>
+      <input type="checkbox" id="opcion6" name="opciones" value="Se gestiona planilla TB - CB de las 16:00 a 00:00.">
+      <label for="opcion6">TB-CB 16 A 00</label>
+      <br>
+      <input type="checkbox" id="opcion7" name="opciones" value="Se gestiona planilla TB - CB de las 00:00 a 08:00.">
+      <label for="opcion7">TB-CB 00 A 08</label>
+      <br>
+      <input type="checkbox" id="opcion8" name="opciones" value="Se gestiona planilla TB - CB de las 12:00 a 00:00.">
+      <label for="opcion8">TB-CB 12 A 00</label>
+      <br>
+      <input type="checkbox" id="opcion9" name="opciones" value="Se gestiona planilla TB - CB de las 00:00 a 12:00.">
+      <label for="opcion9">TB-CB 00 A 12</label>
+      <br>
+<p>
+
+<p>
+<p>---JAC - BIOBIO---</p>
+      <input type="checkbox" id="opcion10" name="opciones" value="Se gestiona planilla JAC-BBB 18:00 a 00:00.">
+      <label for="opcion10">JAC-BBB 18 A 00</label>
+      <br>
+      <input type="checkbox" id="opcion11" name="opciones" value="Se gestiona planilla JAC-BBB 00:00 a 03:00.">
+      <label for="opcion11">JAC-BBB 00 A 03</label>
+      <br>
+<p>
+<p>---SIN ANOMALÍAS---</p>
+      <input type="checkbox" id="opcion18" name="opciones" value="Sistema SIO y gestor de cumplimientos sin anomalías.">
+      <label for="opcion18">SIO GESTOR</label>
+      <br>
+      <input type="checkbox" id="opcion20" name="opciones" value="Tracktec sin anomalías.">
+      <label for="opcion20">TRACKTEC</label>
+      <br>
+      <input type="checkbox" id="opcion20" name="opciones" value="Genesys sin anomalías.">
+      <label for="opcion20">GENESYS</label>
+      <br>
+<p>
+
+<p>
+<p>---TASCHOAPA---</p>
+      <input type="checkbox" id="opcion12" name="opciones" value="Se gestiona planilla TasChoapa de las 08:00 a 16:00.">
+      <label for="opcion12">TAS 08 A 16</label>
+      <br>
+      <input type="checkbox" id="opcion13" name="opciones" value="Se gestiona planilla TasChoapa de las 16:00 a 00:00.">
+      <label for="opcion13">TAS 16 A 00</label>
+      <br>
+      <input type="checkbox" id="opcion14" name="opciones" value="Se gestiona planilla TasChoapa de las 00:00 a 08:00.">
+      <label for="opcion14">TAS 00 A 08</label>
+      <br>
+      <input type="checkbox" id="opcion15" name="opciones" value="Se gestiona planilla TasChoapa de las 12:00 a 00:00.">
+      <label for="opcion15">TAS 12 A 00</label>
+      <br>
+      <input type="checkbox" id="opcion16" name="opciones" value="Se gestiona planilla TasChoapa de las 00:00 a 12:00.">
+      <label for="opcion16">TAS 00 A 12</label>
+      <br>
+<p>
+
+      <!-- Agrega las demás opciones aquí -->
+    </div>
+    <br>
+
+    <label for="descripcion">Descripción adicional:</label>
+<p>
+    <textarea id="descripcion" name="descripcion" rows="1" cols="50"></textarea>
+    <br>
+
+    <label for="seleccionOperador">Se deja el turno a:</label>
+    <select id="seleccionOperador" name="seleccionOperador">
+      <option value="Navia Garrido">Navia Garrido</option>
+      <option value="Gustavo Báez">Gustavo Báez</option>
+      <option value="Eris Gutierrez">Eris Gutierrez</option>
+      <option value="Felipe Gutierrez">Felipe Gutierrez</option>
+      <option value="Jonathan Concha">Jonathan Concha</option>
+      <option value="Gabriel Moreno">Gabriel Moreno</option>
+    </select>
+    <br>
+
+    <button type="button" onclick="generarTexto()">Generar Texto</button>
+  </form>
+
+  <!-- Agregamos un div para mostrar el texto generado -->
+  <div id="textoGenerado"></div>
+</div>
+  <script>
+    function generarTexto() {
+      // Obtener el turno seleccionado
+      const turnoSeleccionado = document.getElementById("turno").value;
+      document.getElementById("turnoSeleccion").innerText = turnoSeleccionado;
+
+      // Obtener las opciones seleccionadas
+      const opcionesSeleccionadas = document.querySelectorAll('input[name="opciones"]:checked');
+      let textoOpciones = "";
+      opcionesSeleccionadas.forEach((opcion, index) => {
+        textoOpciones += (index + 1) + ". " + opcion.value + "\n";
+      });
+
+      // Obtener la descripción adicional
+      const descripcionAdicional = document.getElementById("descripcion").value;
+
+      // Obtener el operador seleccionado
+      const operadorSeleccionado = document.getElementById("seleccionOperador").value;
+
+      // Generar el texto final
+      const textoFinal = `Buen día.\n  \nJunto con saludar, adjunto novedades del ${turnoSeleccionado}.\n \n${textoOpciones} 
+                          Se deja celular y 2 bam a ${operadorSeleccionado}.  \n${descripcionAdicional} \nSaludos.`;
+
+      // Mostrar el texto final en el div
+      document.getElementById("textoGenerado").innerText = textoFinal;
+    }
+  </script>
+<style>
+
+div{
+    padding: 15px;
+    margin: 0 auto;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+    background-color:  #f1ffeb;
+    color: #4d9c2d;
+
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.menu {
+    background-color: #4d9c2d;
+    display: flex;
+}
+
+.menu-item {
+    color: white;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.menu-item:hover {
+    background-color: #9ACD32;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+* { box-sizing: border-box; }
+
+body { 
+  font-family: 'Open Sans', sans-serif;
+  color: #666;
+}
+
+/* STRUCTURE */
+
+.wrapper {
+	padding: 5px;
+	max-width: 960px;
+	width: 95%;
+	margin: 20px auto;
+}
+header {
+	padding: 0 15px;
+}
+
+.columns {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin: 5px 0;
+}
+
+.column {
+	flex: 1;
+	border: 1px solid gray;
+	margin: 2px;
+	padding: 10px;
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+	
+}
+
+footer {
+	padding: 0 15px;
+}
+
+
+@media screen and (max-width: 980px) {
+  .columns .column {
+		margin-bottom: 5px;
+    flex-basis: 40%;
+		&:nth-last-child(2) {
+			margin-right: 0;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.columns .column {
+		flex-basis: 100%;
+		margin: 0 0 5px 0;
+	}
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ecf9d0;
+    color: #333333;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9ACD32;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4d9c2d;
+}
+
+label {
+    color: #4d9c2d;
+    font-weight: bold;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #4d9c2d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9ACD32;
+}
+
+/* Estilos para alertas */
+.alert {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    color: #4d9c2d;
+}
+
+/* Estilos para botones */
+.btn-primary {
+    background-color: #4d9c2d;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.btn-primary:hover {
+    background-color: #9ACD32;
+}
+</style>
+</body>
+</html>

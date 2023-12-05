@@ -1,98 +1,367 @@
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<link rel="stylesheet" href="estilos.css">
-
-<div id="menu">
-            <nav>
-                <ul class="menu_items">
-                    <h1>AGENDA TRIPULANTES ‎ </h1>
-
-<form action="config.php">
-      <div class="input-box">
-        <input type="text" required>
-        <label for="">Nombre</label>
-      </div>
-      <div class="input-box">
-        <input type="text" required>
-        <label for="">rut</label>
-      <div class="input-box">
-        <input type="text" required>
-        <label for="">telefono</label>
-      </div>
-        <input type="submit">
-    </form>
-                    <div class="form-group">
-                        <input type="text" class="form-control pull-right" style="width:30%" id="search1" placeholder="ESCRIBE AQUI">
-                       </div></header>
-                </ul>
-            </nav></div>
-            <div class="clearfix"></div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-                        
-                        <script>
-                         // Write on keyup event of keyword input element
-                         $(document).ready(function(){
-                         $("#search1").keyup(function(){
-                         _this = this;
-                         // Show only matching TR, hide rest of them
-                         $.each($("#tabla-container tbody tr"), function() {
-                         if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
-                         $(this).hide();
-                         else
-                         $(this).show();
-                         });
-                         });
-                        });
-                        </script>
-   
-<center></center><div id="tabla-container" cellspacing="0" style="width: 100%"></div></center>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sumar Horas</title>
 </head>
 <body>
 
-        
+<div class="menu">
+        <a href="index.html" class="menu-item">Inicio</a>
+        <a href="https://login.mypurecloud.com/" class="menu-item">Genesys</a>
+        <a href="https://www.sacel.cl/" class="menu-item">Sacel</a>
+        <a href="file:///C:/Users/control.monitoreo/OneDrive%20-%20Turbus/contactos/contactos.html" class="menu-item">Contactos</a>
+        <a href="https://gtppersonas.buk.cl/users/sign_in#liquidaciones/188818" class="menu-item">Buk</a>
+        <a href="buscar_jt.html" class="menu-item">Buscar JT</a>
+        <a href="tracktec.html" class="menu-item">Gestion Tractec</a>
+        <a href="novedades.html" class="menu-item">Correo Novedades</a>
+    </div>
+
+
+
+<section class="columns">
+<div class="column">
+ <h1>Suma de horas</h1>
+<label for="fechaInput">Ingrese la fecha y hora (dd-mm-yyyy hh:mm:ss): </label>
+  <input type="text" id="fechaInput" placeholder="dd-mm-yyyy hh:mm:ss">
+  <button onclick="sumarHoras()">Calcular</button>
+
+  <div id="resultado5horas"></div>
+  <div id="resultado8horas"></div>
+</div>
+<div class="column">
+<h1>Proporcional</h1>
+
+
+<label for="inicioConduccion">Inicio de Conducción:</label>
+<p>
+    <input type="text" id="inicioConduccion" placeholder="dd-mm-yyyy hh:mm:ss">
+<p>
+    <label for="terminoConduccion">Término de Conducción:</label>
+<p>
+    <input type="text" id="terminoConduccion" placeholder="dd-mm-yyyy hh:mm:ss">
+<p>
+    <button onclick="calcularDescanso()">Calcular Descanso</button>
+<p>
+    <div id="proporcional"></div>
+
+
+</div>
+ 
+<div class="column">
+<h1>Rotativa Comercial</h1>
+<label for="origen">Origen:</label>
+    <input type="text" id="origen">
+    <br>
+    <label for="destino">Destino:</label>
+    <input type="text" id="destino">
+    <br>
+    <button onclick="generarEnlace()">Generar Enlace</button>
+</div>
+
+<div class="column">
+<h1>Correo Sin Conductor</h1>
+<input type="text" id="inputNombreTripulante" placeholder="Nombre Tripulante">
+<input type="text" id="inputEmpresa" placeholder="Empresa">
+<input type="text" id="inputMaquina" placeholder="Máquina">
+<input type="text" id="inputInicioConduccion" placeholder="Inicio de Conducción">
+<button onclick="generarTexto()">Generar Texto</button>
+
+<div id="resultadoCorreo"></div>
+</div>
+
 <script>
-// Función para leer el archivo de texto
-function leerArchivoTexto(nombreArchivo, callback) {
-    var archivo = new XMLHttpRequest();
-    archivo.open("GET", nombreArchivo, true);
-    archivo.onreadystatechange = function() {
-        if (archivo.readyState === 4 && archivo.status === 200) {
-            callback(archivo.responseText);
-        }
-    };
-    archivo.send(null);
+function generarTexto() {
+    var nombreTripulante = document.getElementById("inputNombreTripulante").value;
+    var empresa = document.getElementById("inputEmpresa").value;
+    var maquina = document.getElementById("inputMaquina").value;
+    var inicioConduccionInput = document.getElementById("inputInicioConduccion").value;
+
+    // Parsear la cadena de entrada para obtener la fecha y la hora
+    var partesFechaHora = inicioConduccionInput.split(" ");
+    var fecha = partesFechaHora[0].split("-");
+    var hora = partesFechaHora[1].split(":");
+    var dia = fecha[0];
+    var mes = fecha[1] - 1; // Los meses en JavaScript van de 0 a 11
+    var anio = fecha[2];
+    var horas = hora[0];
+    var minutos = hora[1];
+    var segundos = hora[2];
+
+    // Crear un objeto Date con la fecha y la hora obtenidas
+    var inicioConduccionDate = new Date(anio, mes, dia, horas, minutos, segundos);
+
+    // Sumarle 5 horas al objeto Date
+    inicioConduccionDate.setHours(inicioConduccionDate.getHours() + 5);
+
+    // Formatear la nueva hora de inicio de conducción + 5 horas
+    var horaFinConduccion = inicioConduccionDate.toLocaleString([], {hour: '2-digit', minute: '2-digit', second: '2-digit'});
+
+    // Generar el texto con la información obtenida de los inputs
+    var texto = `SIN CONDUCTOR ${maquina} - ${empresa} . Buen día. El motivo de este correo es para informar que la máquina ${maquina} de la empresa ${empresa} se desplaza sin conductor registrado en sacel. Basado en la información observada, el tripulante que debería estar en conducción es ${nombreTripulante}, con el cual no fue posible lograr el contacto. Con la información antes mencionada y considerando que el tripulante ${nombreTripulante} inicia conducción a las ${inicioConduccionInput}, se informa que el tripulante puede conducir como máximo hasta las ${horaFinConduccion}. Saludos.`;
+
+    // Mostrar el texto en el div con id "resultado"
+    document.getElementById("resultadoCorreo").textContent = texto;
 }
 
-// Función para crear la tabla HTML desde el contenido del archivo de texto
-function crearTablaDesdeTexto(contenido) {
-    var lineas = contenido.split('\n');
-    var tablaHTML = '<table border="0">';
-    
-    // Construir filas y celdas de la tabla
-    lineas.forEach(function(linea) {
-        var columnas = linea.split(',');
-        tablaHTML += '<tr>';
-        columnas.forEach(function(columna) {
-            tablaHTML += '<td>' + columna + '</td>';
-        });
-        tablaHTML += '</tr>';
-    });
-
-    tablaHTML += '</table>';
-    return tablaHTML;
-}
-
-// Función principal para cargar la tabla en el contenedor
-function cargarTabla() {
-    leerArchivoTexto('turbus.txt', function(contenido) {
-        var tablaHTML = crearTablaDesdeTexto(contenido);
-        document.getElementById('tabla-container').innerHTML = tablaHTML;
-    });
-}
-
-// Llamar a la función principal al cargar la página
-window.onload = cargarTabla;
 </script>
+ <script src="script.js"></script>
+
+  <script>
+    function sumarHoras() {
+      var inputFecha = document.getElementById('fechaInput').value.trim(); // Eliminar espacios en blanco alrededor
+      var fecha = new Date(inputFecha.replace(/(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})/, '$3-$2-$1T$4:$5:$6'));
+
+      // Sumar 5 horas
+      var resultado5horas = new Date(fecha.getTime() + 5 * 60 * 60 * 1000);
+      document.getElementById('resultado5horas').innerHTML = 'Suma 5: ' + formatoFecha(resultado5horas);
+
+      // Sumar 8 horas y 15 minutos
+      var resultado8horas15min = new Date(fecha.getTime() + (8 * 60 + 15) * 60 * 1000);
+      document.getElementById('resultado8horas').innerHTML = 'Suma 8:15: ' + formatoFecha(resultado8horas15min);
+    }
+
+    function formatoFecha(fecha) {
+      var dd = String(fecha.getDate()).padStart(2, '0');
+      var mm = String(fecha.getMonth() + 1).padStart(2, '0');
+      var yyyy = fecha.getFullYear();
+      var hh = String(fecha.getHours()).padStart(2, '0');
+      var min = String(fecha.getMinutes()).padStart(2, '0');
+      var ss = String(fecha.getSeconds()).padStart(2, '0');
+
+      return dd + '-' + mm + '-' + yyyy + ' ' + hh + ':' + min + ':' + ss;
+    }
+  </script>
+
+ <script>
+        function calcularDescanso() {
+            // Obtener los valores de los input como cadenas
+            var inicioConduccion = document.getElementById("inicioConduccion").value;
+            var terminoConduccion = document.getElementById("terminoConduccion").value;
+
+            // Convertir las cadenas a objetos Date
+            var inicioDate = parseFecha(inicioConduccion);
+            var terminoDate = parseFecha(terminoConduccion);
+
+            // Verificar si la conversión fue exitosa
+            if (inicioDate && terminoDate) {
+                // Calcular la diferencia en milisegundos
+                var diferenciaMillis = terminoDate - inicioDate;
+
+                // Calcular la diferencia en horas y minutos
+                var horas = Math.floor(diferenciaMillis / (1000 * 60 * 60));
+                var minutos = Math.floor((diferenciaMillis % (1000 * 60 * 60)) / (1000 * 60));
+
+                // Calcular el tiempo de descanso necesario
+                var tiempoDescanso = Math.ceil((horas + minutos / 60) * 24);
+
+                // Calcular la fecha y hora de término de conducción más el tiempo de descanso
+                var fechaDescanso = new Date(terminoDate.getTime() + tiempoDescanso * 60000);
+
+                // Formatear la fecha y hora de descanso
+                var formatoResultado = fechaDescanso.toLocaleString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+
+                // Mostrar el resultado en el div
+                var resultadoDiv = document.getElementById("proporcional");
+                resultadoDiv.innerHTML = "Puede iniciar conduccion: " + formatoResultado;
+            } else {
+                alert("Formato de fecha incorrecto. Utiliza dd-mm-yyyy hh:mm:ss");
+            }
+        }
+
+        function parseFecha(fechaString) {
+            var partes = fechaString.split(" ");
+            var fecha = partes[0].split("-");
+            var hora = partes[1].split(":");
+            return new Date(fecha[2], fecha[1] - 1, fecha[0], hora[0], hora[1], hora[2]);
+        }
+    </script>
+
+
+
+ <script>
+        function calcularHora() {
+            var horaInput = document.getElementById("horaInput").value;
+            var horaActual = new Date();
+            
+            // Convertir la hora ingresada a milisegundos
+            var horaIngresada = new Date("1970-01-01T" + horaInput + "Z").getTime();
+            
+            // Multiplicar por 2 y dividir por 5
+            var resultado = ((horaIngresada * 2) / 5);
+            
+            // Sumar el resultado a la hora actual
+            var nuevaHora = new Date(horaActual.getTime() + resultado);
+            
+            // Formatear la nueva hora a hh:mm:ss
+            var horas = nuevaHora.getHours().toString().padStart(2, '0');
+            var minutos = nuevaHora.getMinutes().toString().padStart(2, '0');
+            var segundos = nuevaHora.getSeconds().toString().padStart(2, '0');
+            
+            var resultadoFinal = horas + ":" + minutos + ":" + segundos;
+            
+            // Mostrar el resultado en el div con id "resultado"
+            document.getElementById("resultado3").textContent = " " + resultadoFinal;
+        }
+    </script>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.menu {
+    background-color: #4d9c2d;
+    display: flex;
+}
+
+.menu-item {
+    color: white;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.menu-item:hover {
+    background-color: #9ACD32;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+* { box-sizing: border-box; }
+
+body { 
+  font-family: 'Open Sans', sans-serif;
+  color: #666;
+}
+
+/* STRUCTURE */
+
+.wrapper {
+	padding: 5px;
+	max-width: 960px;
+	width: 95%;
+	margin: 20px auto;
+}
+header {
+	padding: 0 15px;
+}
+
+.columns {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin: 5px 0;
+}
+
+.column {
+	flex: 1;
+	border: 1px solid gray;
+	margin: 2px;
+	padding: 10px;
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+	
+}
+
+footer {
+	padding: 0 15px;
+}
+
+
+@media screen and (max-width: 980px) {
+  .columns .column {
+		margin-bottom: 5px;
+    flex-basis: 40%;
+		&:nth-last-child(2) {
+			margin-right: 0;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.columns .column {
+		flex-basis: 100%;
+		margin: 0 0 5px 0;
+	}
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ecf9d0;
+    color: #333333;
+}
+
+input[type="text"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #9ACD32;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4d9c2d;
+}
+
+label {
+    color: #4d9c2d;
+    font-weight: bold;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #4d9c2d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9ACD32;
+}
+
+/* Estilos para alertas */
+.alert {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #4d9c2d;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    color: #4d9c2d;
+}
+
+/* Estilos para botones */
+.btn-primary {
+    background-color: #4d9c2d;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.btn-primary:hover {
+    background-color: #9ACD32;
+}
+</style>
+
 </body>
 </html>

@@ -1,0 +1,6 @@
+<html><body><button id="btnIniciarAccesoDirecto">Iniciar Acceso Directo</button>
+<script>
+document.getElementById("btnIniciarAccesoDirecto").addEventListener("click", function() {
+    window.location.href = "ruta/al/acceso_directo.lnk"; // Reemplaza esto con la ruta correcta al acceso directo
+});
+</script></body</html>

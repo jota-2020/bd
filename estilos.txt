@@ -1,0 +1,25 @@
+/* Estilo para la tabla */
+#myTable {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#myTable th, #myTable td {
+  border: 1px solid #4d9c2d; /* Color del borde de las celdas */
+  padding: 8px;
+  text-align: left;
+}
+
+#myTable th {
+  background-color: #9ACD32; /* Color de fondo para los encabezados */
+  color: white; /* Color del texto de los encabezados */
+}
+
+#myTable tr:nth-child(even) {
+  background-color: #f2f2f2; /* Color de fondo para las filas pares */
+}
+
+#myTable tr:hover {
+  background-color: #ddd; /* Color de fondo al pasar el mouse sobre las filas */
+}

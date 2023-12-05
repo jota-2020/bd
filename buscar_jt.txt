@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla con Búsqueda</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <input type="text" id="searchInput" placeholder="Buscar...">
+        <table id="dataTable"></table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+th {
+    background-color: #4d9c2d;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#searchInput {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const dataTable = document.getElementById('dataTable');
+    const searchInput = document.getElementById('searchInput');
+
+    // Función para cargar datos desde el archivo de texto
+    function cargarDatos() {
+        fetch('lista_jt.txt')
+            .then(response => response.text())
+            .then(data => {
+                const filas = data.split('\n');
+                let tablaHTML = '<tr><th>Rut Tripulante</th><th>Nombre Tripulante</th><th>JT</th><th>Empresa</th></tr>';
+                filas.forEach(fila => {
+                    const columnas = fila.split(',');
+                    tablaHTML += `<tr><td>${columnas[0]}</td><td>${columnas[1]}</td><td>${columnas[2]}</td><td>${columnas[3]}</td></tr>`;
+                });
+                dataTable.innerHTML = tablaHTML;
+            });
+    }
+
+    // Función para manejar la búsqueda
+    function filtrarTabla() {
+        const filtro = searchInput.value.toLowerCase();
+        const filas = dataTable.getElementsByTagName('tr');
+        for (let i = 1; i < filas.length; i++) {
+            const textoFila = filas[i].textContent.toLowerCase();
+            if (textoFila.includes(filtro)) {
+                filas[i].style.display = '';
+            } else {
+                filas[i].style.display = 'none';
+            }
+        }
+    }
+
+    // Cargar datos al cargar la página
+    cargarDatos();
+
+    // Configurar evento de búsqueda
+    searchInput.addEventListener('input', filtrarTabla);
+});
+</script>
+

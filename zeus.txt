@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Tiempo de Conducción</title>
+</head>
+<body>
+
+    <label for="inicioConduccion">Inicio de Conducción:</label>
+    <input type="text" id="inicioConduccion" placeholder="dd-mm-yyyy hh:mm:ss">
+
+    <label for="terminoConduccion">Término de Conducción:</label>
+    <input type="text" id="terminoConduccion" placeholder="dd-mm-yyyy hh:mm:ss">
+
+    <button onclick="calcularTiempo()">Calcular Tiempo</button>
+
+    <div id="resultado"></div>
+    <div id="resultadoConduccion"></div>
+
+    <script>
+        function calcularTiempo() {
+            // Obtener los valores de los input
+            var inicioConduccion = document.getElementById("inicioConduccion").value;
+            var terminoConduccion = document.getElementById("terminoConduccion").value;
+
+            // Convertir las fechas a objetos de fecha
+            var inicioDate = new Date(inicioConduccion);
+            var terminoDate = new Date(terminoConduccion);
+
+            // Calcular la diferencia en milisegundos
+            var diferenciaEnMs = terminoDate - inicioDate;
+
+            // Calcular la diferencia en horas, minutos y segundos
+            var horas = Math.floor(diferenciaEnMs / (1000 * 60 * 60));
+            var minutos = Math.floor((diferenciaEnMs % (1000 * 60 * 60)) / (1000 * 60));
+            var segundos = Math.floor((diferenciaEnMs % (1000 * 60)) / 1000);
+
+            // Calcular el 42% de la diferencia
+            var porcentaje42 = Math.floor(diferenciaEnMs * 0.42);
+
+            // Calcular la nueva fecha sumando el porcentaje al término de conducción
+            var nuevaFecha = new Date(terminoDate.getTime() + porcentaje42);
+
+            // Formatear los resultados
+            var resultado1 = ("0" + horas).slice(-2) + ":" + ("0" + minutos).slice(-2) + ":" + ("0" + segundos).slice(-2);
+            var resultadoConduccion = nuevaFecha.toLocaleString("es-ES", {hour12: false});
+
+            // Mostrar los resultados en los div correspondientes
+            document.getElementById("resultado").innerHTML = "Resultado 1: " + resultado1;
+            document.getElementById("resultadoConduccion").innerHTML = "Término de Conducción + Resultado 1: " + resultadoConduccion;
+        }
+    </script>
+
+</body>
+</html>

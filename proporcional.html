@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Tiempo de Descanso</title>
+</head>
+<body>
+
+    <label for="inicioConduccion">Inicio de Conducción:</label>
+    <input type="text" id="inicioConduccion" placeholder="dd-mm-yyyy hh:mm:ss">
+
+    <label for="terminoConduccion">Término de Conducción:</label>
+    <input type="text" id="terminoConduccion" placeholder="dd-mm-yyyy hh:mm:ss">
+
+    <button onclick="calcularDescanso()">Calcular Descanso</button>
+
+    <div id="proporcional"></div>
+
+    <script>
+        function calcularDescanso() {
+            // Obtener los valores de los input como cadenas
+            var inicioConduccion = document.getElementById("inicioConduccion").value;
+            var terminoConduccion = document.getElementById("terminoConduccion").value;
+
+            // Convertir las cadenas a objetos Date
+            var inicioDate = parseFecha(inicioConduccion);
+            var terminoDate = parseFecha(terminoConduccion);
+
+            // Verificar si la conversión fue exitosa
+            if (inicioDate && terminoDate) {
+                // Calcular la diferencia en milisegundos
+                var diferenciaMillis = terminoDate - inicioDate;
+
+                // Calcular la diferencia en horas y minutos
+                var horas = Math.floor(diferenciaMillis / (1000 * 60 * 60));
+                var minutos = Math.floor((diferenciaMillis % (1000 * 60 * 60)) / (1000 * 60));
+
+                // Calcular el tiempo de descanso necesario
+                var tiempoDescanso = Math.ceil((horas + minutos / 60) * 24);
+
+                // Calcular la fecha y hora de término de conducción más el tiempo de descanso
+                var fechaDescanso = new Date(terminoDate.getTime() + tiempoDescanso * 60000);
+
+                // Formatear la fecha y hora de descanso
+                var formatoResultado = fechaDescanso.toLocaleString('es-ES', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+
+                // Mostrar el resultado en el div
+                var resultadoDiv = document.getElementById("proporcional");
+                resultadoDiv.innerHTML = "Puede iniciar conduccion: " + formatoResultado;
+            } else {
+                alert("Formato de fecha incorrecto. Utiliza dd-mm-yyyy hh:mm:ss");
+            }
+        }
+
+        function parseFecha(fechaString) {
+            var partes = fechaString.split(" ");
+            var fecha = partes[0].split("-");
+            var hora = partes[1].split(":");
+            return new Date(fecha[2], fecha[1] - 1, fecha[0], hora[0], hora[1], hora[2]);
+        }
+    </script>
+
+</body>
+</html>
