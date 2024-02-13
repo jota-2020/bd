@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tabla desde archivo de texto</title>
+</head>
+<body>
+
+<table id="miTabla" border="1">
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Edad</th>
+      <th>Ciudad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Aquí se llenará la tabla con JavaScript -->
+  </tbody>
+</table>
+
+<script>
+window.onload = function() {
+  // Leer el archivo de texto
+  fetch('datos.txt')
+    .then(response => response.text())
+    .then(text => {
+      // Dividir el texto en líneas y generar filas de tabla
+      const lines = text.trim().split('\n');
+      const tbody = document.querySelector('#miTabla tbody');
+      lines.forEach(line => {
+        const cells = line.split(',');
+        const row = document.createElement('tr');
+        cells.forEach(cell => {
+          const td = document.createElement('td');
+          td.textContent = cell;
+          row.appendChild(td);
+        });
+        tbody.appendChild(row);
+      });
+    })
+    .catch(error => {
+      console.error('Error al leer el archivo:', error);
+    });
+};
+</script>
+
+</body>
+</html>
