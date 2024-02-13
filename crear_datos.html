@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                  "Hora de Bloqueo: " . $horaBloqueo;
 
     // Especificar la ruta del archivo de texto en el servidor
-    $rutaArchivo = 'datos.txt';
+    $rutaArchivo = 'datos_de_tripulantes.txt';
 
     // Guardar el contenido en el archivo de texto
     if (file_put_contents($rutaArchivo, $contenido) !== false) {
