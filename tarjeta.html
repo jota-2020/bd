@@ -3,48 +3,53 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tabla desde archivo de texto</title>
+<title>Tabla de Tripulantes</title>
 </head>
 <body>
-
-<table id="miTabla" border="1">
-  <thead>
-    <tr>
-      <th>Nombre</th>
-      <th>Edad</th>
-      <th>Ciudad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Aquí se llenará la tabla con JavaScript -->
-  </tbody>
+<table id="tripulantes-table" border="1">
+<tr>
+<th>Empresa</th>
+<th>RUT</th>
+<th>Número de Tarjeta</th>
+<th>Hora de Bloqueo</th>
+<th>Hora de Desbloqueo</th>
+</tr>
 </table>
 
 <script>
-window.onload = function() {
-  // Leer el archivo de texto
-  fetch('datos.txt')
+function fetchData() {
+    fetch('datos_de_tripulantes.txt') // Adjust the path as needed
     .then(response => response.text())
     .then(text => {
-      // Dividir el texto en líneas y generar filas de tabla
-      const lines = text.trim().split('\n');
-      const tbody = document.querySelector('#miTabla tbody');
-      lines.forEach(line => {
-        const cells = line.split(',');
-        const row = document.createElement('tr');
-        cells.forEach(cell => {
-          const td = document.createElement('td');
-          td.textContent = cell;
-          row.appendChild(td);
-        });
-        tbody.appendChild(row);
-      });
-    })
-    .catch(error => {
-      console.error('Error al leer el archivo:', error);
-    });
-};
-</script>
+        const data = text.split('\n').map(line => line.split(','));
 
+        const tableBody = document.getElementById('tripulantes-table').getElementsByTagName('tbody')[0];
+        if (!tableBody) {
+            tableBody = document.createElement('tbody');
+            document.getElementById('tripulantes-table').appendChild(tableBody);
+        } else {
+            tableBody.innerHTML = '';
+        }
+
+        data.forEach(row => {
+            const newRow = tableBody.insertRow();
+            row.forEach(cell => {
+                const newCell = newRow.insertCell();
+                newCell.appendChild(document.createTextNode(cell));
+            });
+            // Calcular la hora de desbloqueo
+            const hBloqueo = new Date(row[3]);
+            const hDesbloqueo = new Date(hBloqueo.getTime() + (8 * 60 * 60 * 1000) + (15 * 60 * 1000));
+            const formattedHoraDesbloqueo = `${hDesbloqueo.getDate()}-${hDesbloqueo.getMonth() + 1}-${hDesbloqueo.getFullYear()} ${hDesbloqueo.getHours()}:${('0' + hDesbloqueo.getMinutes()).slice(-2)}`;
+            const newCell = newRow.insertCell();
+            newCell.appendChild(document.createTextNode(formattedHoraDesbloqueo));
+        });
+    });
+}
+
+fetchData(); // Fetch data initially
+
+setInterval(fetchData, 600000); // Fetch data every 10 minutes
+</script>
 </body>
 </html>
