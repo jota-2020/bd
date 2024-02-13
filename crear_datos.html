@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardar en archivo en el servidor</title>
+</head>
+<body>
+
+<h2>Ingrese los datos</h2>
+<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+    <div>
+        <label for="empresa">Empresa:</label>
+        <input type="text" id="empresa" name="empresa">
+    </div>
+    <div>
+        <label for="rut">RUT:</label>
+        <input type="text" id="rut" name="rut">
+    </div>
+    <div>
+        <label for="numeroTarjeta">Número de Tarjeta:</label>
+        <input type="text" id="numeroTarjeta" name="numeroTarjeta">
+    </div>
+    <div>
+        <label for="horaBloqueo">Hora de Bloqueo:</label>
+        <input type="text" id="horaBloqueo" name="horaBloqueo">
+    </div>
+    <button type="submit" name="submit">Guardar en archivo</button>
+</form>
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Obtener los datos del formulario
+    $empresa = $_POST['empresa'];
+    $rut = $_POST['rut'];
+    $numeroTarjeta = $_POST['numeroTarjeta'];
+    $horaBloqueo = $_POST['horaBloqueo'];
+
+    // Construir el contenido del archivo de texto
+    $contenido = "Empresa: " . $empresa . "\n" .
+                 "RUT: " . $rut . "\n" .
+                 "Número de Tarjeta: " . $numeroTarjeta . "\n" .
+                 "Hora de Bloqueo: " . $horaBloqueo;
+
+    // Especificar la ruta del archivo de texto en el servidor
+    $rutaArchivo = 'datos.txt';
+
+    // Guardar el contenido en el archivo de texto
+    if (file_put_contents($rutaArchivo, $contenido) !== false) {
+        echo "<p>Los datos se han guardado en el archivo correctamente.</p>";
+    } else {
+        echo "<p>Ha ocurrido un error al guardar los datos en el archivo.</p>";
+    }
+}
+?>
+
+</body>
+</html>
