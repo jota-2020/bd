@@ -1,0 +1,15 @@
+/*aqui ponemos el color del fondo y el color de la letra, tambien podriamos agregar estilos de letras
+fuentes etc
+
+*/
+body{
+   /*backgroud es para el color del fondo*/
+    background-color: black;
+    /*color es para el color del texto*/
+    color: aliceblue;
+    /*font es para el tipo de texto, fuentes tamaños etc*/
+    font: italic normal 400 17px Arial, Verdana, sans-serif;
+    /*tambien podrias ajustar el tamaño de la fuente con font-size: numero px;
+    
+    font-size: 17px;*/
+}
