@@ -53,8 +53,8 @@ p{
     background-color: #40A578;
     color: #3d4d3d;
     font-size: 30px;
-    border-radius: 5px;
-    width: 100%;
+    border-radius: 25px;
+    width: 50%;
     height: 100px;
 
 
@@ -63,4 +63,44 @@ p{
     background-color: #0f251b;
     color: #b2dfb2;
 
+}
+
+.noche{
+    background-color: #0f251b;
+}
+.noche h1{
+    color: #ACE1AF;
+}
+.noche h2{
+    color: #ACE1AF;
+}
+.noche p{
+    color: #ACE1AF;
+}
+.noche #botonReintentar{
+    background-color: #165a3b;
+    color: #8dc28d;
+    font-size: 30px;
+    border-radius: 25px;
+    width: 50%;
+    height: 100px;
+}
+.noche #botonReintentar:hover{
+    background-color: #41aa7b;
+    color: #2d3a2d;
+}
+#btn-mnocturno{
+    background-color: #1a1b1d;
+    border-radius: 65px;
+    padding: 1px;
+    font-size: 30px;
+}
+#btn-mnocturno:hover{
+    background-color: #41aa7b;
+}
+.noche #btn-mnocturno{
+    background-color: #41aa7b;
+}
+.noche #btn-mnocturno:hover{
+    background-color: #1a1b1d;
 }
