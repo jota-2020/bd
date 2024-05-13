@@ -181,3 +181,8 @@ function dejarMensaje() {
 
 // Llama a la función para dejar un mensaje en la consola
 dejarMensaje();
+
+function modoNoche(){
+    var body= document.body;
+    body.classList.toggle("noche");
+}
