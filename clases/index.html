@@ -1,22 +1,68 @@
 <!DOCTYPE html>
-<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Horóscopo</title>
-    <div id="modoNocturno"><button id="btn-mnocturno" onclick="modoNoche()">🌙</button></div>
-    <H1>Horóscopo</H1>
-    <H2>Aqui puedes determinar tu Horóscopo según tu mes y dia de nacimiento</H2>
+    <title>Venta de Pasajes</title>
     <link rel="stylesheet" href="estilos.css">
-    
 </head>
-<body>
-    <p>Este es un ejemplo realizado para la primera entrega en donde a con el uso de promt se ingresa meses del 1 al 12 cuando 1 es enero y 12 diciembre, lo mismo para los dias. Según la fecha ingresada se determina tu signo zodiacal.</p>
-    
- <div id="volver">
-    <!--<p>quieres volver a intentarlo?</p>-->
-    <button id="botonReintentar"onclick="reintentar ()" >VER</button>
- </div>
-    
-        <script async  src="app.js"></script>
- 
-</body></html>
+<body> 
+   
+    <div class="container">
+        <h1>Venta de Pasajes</h1>
+        
+
+        <form id="venta-pasajes">
+            <div class="form-group">
+                <label for="fecha">Fecha del Viaje:</label>
+                <input type="date" id="fecha" required value="">
+            </div>
+            <div class="form-group">
+                <label for="servicio">Servicios Disponibles:</label>
+                <select id="servicio" disabled required>
+                    <option value="">Seleccione un Servicio</option>
+                </select>
+            </div>
+            
+            <!-- <div class="form-group">
+                <label for="origen">Origen:</label>
+                <select id="origen" required>
+                    <option value="">Seleccione Origen</option>
+                    <option value="Buenos Aires">Buenos Aires</option>
+                    <option value="Santiago">Santiago</option>
+                    <option value="Montevideo">Montevideo</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="destino">Destino:</label>
+                <select id="destino" required>
+                    <option value="">Seleccione Destino</option>
+                    <option value="Buenos Aires">Buenos Aires</option>
+                    <option value="Santiago">Santiago</option>
+                    <option value="Montevideo">Montevideo</option>
+                </select>
+            </div>-->
+            <div class="form-group">
+                <label for="cantidad">Cantidad de Pasajes:</label>
+                <input type="number" id="cantidad" min="1" max="10" required>
+            </div>
+            <div class="form-group">
+                <label for="moneda">Moneda:</label>
+                <select id="moneda" required>
+                    <option value="ARS">ARS</option>
+                    <option value="USD">USD</option>
+                    <option value="CLP">CLP</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="asiento">Seleccione su Asiento:</label><br><br>
+                <div id="bus"><div id="asientos-container"></div></div>
+            </div>
+            <!-- <img id="imagenbus" src="https://cdn.pixabay.com/photo/2013/03/13/17/49/bus-93219_1280.png" alt="" />-->
+            <button type="submit">Comprar</button>
+        </form>
+        <div id="resultado"></div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
