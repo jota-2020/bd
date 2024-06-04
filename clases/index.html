@@ -49,19 +49,29 @@
             <div class="form-group">
                 <label for="moneda">Moneda:</label>
                 <select id="moneda" required>
-                    <option value="ARS">ARS</option>
-                    <option value="USD">USD</option>
-                    <option value="CLP">CLP</option>
+                    <option value="ARS">Peso Argentino |🇦🇷|</option>
+                    <option value="USD">Dolar |🇺🇸|</option>
+                    <option value="CLP">Peso Chileno |🇨🇱|</option>
                 </select>
             </div>
             <div class="form-group">
                 <label for="asiento">Seleccione su Asiento:</label><br><br>
                 <div id="bus"><div id="asientos-container"></div></div>
-            </div>
+            </div><br><br>
+
+            <div class="form-group">
+                <label for="Nombre">Nombre:</label>
+                <input type="text" id="nombrePasajero" required value="">
+            </div><br>
+            <div class="form-group">
+                <label for="DNI/RUT">DNI/RUT:</label>
+                <input type="text" id="DNIRUT" required value="">
+            </div><br><br>
             <!-- <img id="imagenbus" src="https://cdn.pixabay.com/photo/2013/03/13/17/49/bus-93219_1280.png" alt="" />-->
             <button type="submit">Comprar</button>
         </form>
         <div id="resultado"></div>
+        <!--<div id="codigoCompra"></div>-->
     </div>
     <script src="app.js"></script>
 </body>

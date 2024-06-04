@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('venta-pasajes');
     const fechaInput = document.getElementById('fecha');
     const servicioSelect = document.getElementById('servicio');
+    
+
 
     const asientosPrimerPiso = 12;
     const asientosSegundoPiso = 34;
@@ -39,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { fecha: '2024-06-09', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
         { fecha: '2024-06-08', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
         { fecha: '2024-06-07', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
+        { fecha: '2024-06-06', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
         { fecha: '2024-06-05', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
         { fecha: '2024-06-04', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
         { fecha: '2024-06-03', origen: 'Buenos Aires', destino: 'Santiago', hora: '08:00' },
@@ -73,6 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { fecha: '2024-06-09', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
         { fecha: '2024-06-08', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
         { fecha: '2024-06-07', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
+        { fecha: '2024-06-06', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
         { fecha: '2024-06-05', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
         { fecha: '2024-06-04', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
         { fecha: '2024-06-03', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
@@ -80,7 +84,6 @@ document.addEventListener('DOMContentLoaded', () => {
         { fecha: '2024-06-01', origen: 'Buenos Aires', destino: 'Montevideo', hora: '09:00' },
 
         //Santiago a mendoza
-        { fecha: '2024-06-04', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-30', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-29', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-28', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
@@ -105,6 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { fecha: '2024-06-09', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-08', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-07', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
+        { fecha: '2024-06-06', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-05', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-04', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
         { fecha: '2024-06-03', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
@@ -112,7 +116,36 @@ document.addEventListener('DOMContentLoaded', () => {
         { fecha: '2024-06-01', origen: 'Santiago', destino: 'Mendoza', hora: '10:00' },
 
 
-        { fecha: '2024-06-03', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' }
+        { fecha: '2024-06-30', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-29', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-28', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-27', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-26', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-25', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-24', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-23', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-22', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-21', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-20', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-19', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-18', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-17', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-16', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-15', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-14', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-13', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-12', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-11', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-10', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-09', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-08', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-07', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-06', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-05', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-04', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-03', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-02', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
+        { fecha: '2024-06-01', origen: 'Montevideo', destino: 'Santiago', hora: '11:00' },
     ];
 
     fechaInput.addEventListener('change', () => {
@@ -143,7 +176,7 @@ document.addEventListener('DOMContentLoaded', () => {
     asientos.forEach(asiento => {
         const div = document.createElement('div');
         div.classList.add(`asiento`);
-        div.textContent = `A${asiento.numero}`;
+        div.textContent = `|A${asiento.numero}|`;
         div.dataset.piso = asiento.piso;
         div.dataset.numero = asiento.numero;
         asientosContainer.appendChild(div);
@@ -166,23 +199,26 @@ document.addEventListener('DOMContentLoaded', () => {
         const moneda = document.getElementById('moneda').value;
         const selectedAsientos = document.querySelectorAll('.asiento.selected');
  
-
-
-        if (selectedAsientos.length < cantidad) {
-            alert('Por favor, seleccione el número de asientos requeridos.');
-            return;
-        }
-
         const asientosSeleccionados = Array.from(selectedAsientos).map(asiento => asiento.textContent);
-
+        
         const costoTotal = cantidad * costoPorAsiento[moneda];
+        const fecha2 = document.getElementById('fecha').value.toUpperCase().split('').reverse().join('');
+        const fecha3 = document.getElementById('fecha').value;
+        
+        const nombrePasajero = document.getElementById('nombrePasajero').value.toUpperCase();
+        const dnirut = document.getElementById('DNIRUT').value.toUpperCase();
+        const codigo = `45S${costoTotal}46S${dnirut}47S${fecha3}48S${fecha2}`;
 
         resultado.innerHTML = `
-            <p>Servicio: ${serviciodia}</p>
+            <p>Nombre: ${nombrePasajero} -${dnirut}</p>
+            <p>Servicio: ${serviciodia}-${fecha3}</p>
             <p>Cantidad de Pasajes: ${cantidad}</p>
             <p>Moneda: ${moneda}</p>
             <p>Costo Total: ${costoTotal} ${moneda}</p>
             <p>Asientos Seleccionados: ${asientosSeleccionados.join(', ')}</p>
+            <p>Codigo: ${codigo}</p>
         `;
     });
 });
+
+

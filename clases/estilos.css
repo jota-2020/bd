@@ -1,25 +1,28 @@
+/*en el body puedes modificar el color de fondo, letra etc.*/
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
 }
-
+/*en el contenedor verde*/
 .container {
     background-color: #bae7e15b;
-    max-width: 750px;
+    max-width: 400px;
     margin: 50px auto;
     padding: 20px;
 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/*tag h1 en este caso "VENTA DE PASAJES"*/
 h1 {
     text-align: center;
     color: #333;
 }
 
 .form-group {
+    margin-left: 5%;
     margin-bottom: 15px;
     max-width: 350px;
 }
@@ -30,7 +33,7 @@ label {
     color: #555;
 }
 
-select, input[type="date"], input[type="number"], button {
+select, input[type="date"], input[type="number"],input[type="text"], button {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
@@ -64,8 +67,9 @@ button:hover {
     left: 15px;
     top: 75px;
     width: 30px;
+    height: 15px;
     padding: 10px;
-    border-radius: 4px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
@@ -92,7 +96,7 @@ button:hover {
     border-radius: 50px;
     background-color: #d1d8df;
     height: 600px;
-
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
 }
 /*#imagenbus {
     position: relative;
