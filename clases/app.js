@@ -187,6 +187,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else if (div.classList.contains('selected')) {
                 div.classList.remove('selected');
             }
+            updatePrice();
         });
     });
 
@@ -207,18 +208,27 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const nombrePasajero = document.getElementById('nombrePasajero').value.toUpperCase();
         const dnirut = document.getElementById('DNIRUT').value.toUpperCase();
-        const codigo = `45S${costoTotal}46S${dnirut}47S${fecha3}48S${fecha2}`;
+        const codigo = `${costoTotal}${dnirut}${fecha3}${fecha2}`;
 
         resultado.innerHTML = `
-            <p>Nombre: ${nombrePasajero} -${dnirut}</p>
-            <p>Servicio: ${serviciodia}-${fecha3}</p>
-            <p>Cantidad de Pasajes: ${cantidad}</p>
-            <p>Moneda: ${moneda}</p>
-            <p>Costo Total: ${costoTotal} ${moneda}</p>
-            <p>Asientos Seleccionados: ${asientosSeleccionados.join(', ')}</p>
-            <p>Codigo: ${codigo}</p>
+            <br>
+            <p>&nbsp;&nbsp;  Nombre: ${nombrePasajero} -${dnirut}</p>
+            <p>&nbsp;&nbsp;  Servicio: ${serviciodia}-${fecha3}</p>
+            <p>&nbsp;&nbsp;  Cantidad de Pasajes: ${cantidad}</p>
+            <p>&nbsp;&nbsp;  Moneda: ${moneda}</p>
+            <p>&nbsp;&nbsp;  Costo Total: ${costoTotal} ${moneda}</p>
+            <p>&nbsp;&nbsp;  Asientos Seleccionados: ${asientosSeleccionados.join(', ')}</p>
+            <p>&nbsp;&nbsp; Codigo: ${codigo}</p>
         `;
     });
+    const preCompra = document.getElementById('preCompra');
+
+    function updatePrice() {
+        const moneda = document.getElementById('moneda').value;
+        const selectedAsientos = document.querySelectorAll('.asiento.selected').length;
+        const costoTotal = selectedAsientos * costoPorAsiento[moneda];
+        preCompra.innerHTML = `<p>${costoTotal} ${moneda}</p>`;
+    }
 });
 
 

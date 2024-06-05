@@ -1,13 +1,14 @@
 /*en el body puedes modificar el color de fondo, letra etc.*/
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #22223b;
     margin: 0;
     padding: 0;
+    color: #c9ada7;
 }
 /*en el contenedor verde*/
 .container {
-    background-color: #bae7e15b;
+    background-color: #4a4e69;
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
@@ -18,7 +19,7 @@ body {
 /*tag h1 en este caso "VENTA DE PASAJES"*/
 h1 {
     text-align: center;
-    color: #333;
+    color: #c9ada7;
 }
 
 .form-group {
@@ -30,7 +31,7 @@ h1 {
 label {
     display: block;
     margin-bottom: 5px;
-    color: #555;
+    color: #c9ada7;
 }
 
 select, input[type="date"], input[type="number"],input[type="text"], button {
@@ -104,4 +105,39 @@ button:hover {
     bottom: 500px;
     width: 300px;
 }*/
+#preCompra {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #ddd;
+    float: left;
+    position: fixed;
+    z-index: 999;
+    margin-left: -70px;
+    bottom: -10px;
+    left: 90px;
+    border-radius: 10px;
+    background-color: #00417e;
+    height: 50px;
+    width: 100px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+}
 
+#resultado{
+
+    font-family: sans-serif;
+    text-align: left;
+    color: #22223b;
+    border-radius: 10px;
+
+    background-color: #d1d8df;
+    height: 400px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+
+
+}
+/*#resultado,p{
+    position: relative;
+    top: 40px;
+    left: 10px;
+}*/
